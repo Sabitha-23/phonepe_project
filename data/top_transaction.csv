@@ -1,0 +1,1001 @@
+state,year,quarter,entity_name,entity_type,transaction_count,transaction_amount
+andaman-&-nicobar-islands,2018,1,"south andaman",districts,5688,12560249.343665812
+andaman-&-nicobar-islands,2018,1,nicobars,districts,528,1139848.801225994
+andaman-&-nicobar-islands,2018,1,"north and middle andaman",districts,442,931663.0770939873
+andaman-&-nicobar-islands,2018,1,744101,pincodes,1622,2769297.9039997994
+andaman-&-nicobar-islands,2018,1,744103,pincodes,1223,2238041.8716124697
+andaman-&-nicobar-islands,2018,1,744102,pincodes,969,3519059.937562449
+andaman-&-nicobar-islands,2018,1,744105,pincodes,685,1298560.9515503529
+andaman-&-nicobar-islands,2018,1,744104,pincodes,340,1039715.3111450541
+andaman-&-nicobar-islands,2018,1,744107,pincodes,302,556059.5308556345
+andaman-&-nicobar-islands,2018,1,744301,pincodes,283,445739.1633851439
+andaman-&-nicobar-islands,2018,1,744112,pincodes,269,333709.56700413954
+andaman-&-nicobar-islands,2018,1,744202,pincodes,193,238914.01667155625
+andaman-&-nicobar-islands,2018,1,744302,pincodes,168,547469.6509380838
+andaman-&-nicobar-islands,2018,2,"south andaman",districts,9395,23948235.51634325
+andaman-&-nicobar-islands,2018,2,nicobars,districts,1120,3072436.9081196385
+andaman-&-nicobar-islands,2018,2,"north and middle andaman",districts,825,1317863.0834906558
+andaman-&-nicobar-islands,2018,2,744101,pincodes,2701,6310089.917084678
+andaman-&-nicobar-islands,2018,2,744103,pincodes,1965,4752146.698501162
+andaman-&-nicobar-islands,2018,2,744102,pincodes,1525,5810267.574788321
+andaman-&-nicobar-islands,2018,2,744105,pincodes,997,2200332.971862734
+andaman-&-nicobar-islands,2018,2,744301,pincodes,767,1953749.3787199226
+andaman-&-nicobar-islands,2018,2,744104,pincodes,659,1650346.1906506256
+andaman-&-nicobar-islands,2018,2,744107,pincodes,594,1601569.9821441039
+andaman-&-nicobar-islands,2018,2,744112,pincodes,432,578829.1795229593
+andaman-&-nicobar-islands,2018,2,744202,pincodes,405,626523.9803147907
+andaman-&-nicobar-islands,2018,2,744302,pincodes,291,1026590.0735863491
+andaman-&-nicobar-islands,2018,3,"south andaman",districts,13511,44268112.46425246
+andaman-&-nicobar-islands,2018,3,nicobars,districts,1471,6387829.151558982
+andaman-&-nicobar-islands,2018,3,"north and middle andaman",districts,1283,4901529.518499676
+andaman-&-nicobar-islands,2018,3,744101,pincodes,3462,10833893.444488766
+andaman-&-nicobar-islands,2018,3,744103,pincodes,3182,10184154.358592123
+andaman-&-nicobar-islands,2018,3,744102,pincodes,2224,10365275.479700703
+andaman-&-nicobar-islands,2018,3,744105,pincodes,1613,5152534.080403434
+andaman-&-nicobar-islands,2018,3,744104,pincodes,1029,2588077.6866583927
+andaman-&-nicobar-islands,2018,3,744301,pincodes,975,4256576.349618757
+andaman-&-nicobar-islands,2018,3,744112,pincodes,579,1145815.7801705198
+andaman-&-nicobar-islands,2018,3,744107,pincodes,547,1492405.302862124
+andaman-&-nicobar-islands,2018,3,744302,pincodes,417,1976781.9199490356
+andaman-&-nicobar-islands,2018,3,744202,pincodes,341,2099404.0789861116
+andaman-&-nicobar-islands,2018,4,"south andaman",districts,20136,75411840.8018554
+andaman-&-nicobar-islands,2018,4,"north and middle andaman",districts,2137,7955635.917688001
+andaman-&-nicobar-islands,2018,4,nicobars,districts,1485,7180859.354911782
+andaman-&-nicobar-islands,2018,4,744101,pincodes,4674,16392855.280625317
+andaman-&-nicobar-islands,2018,4,744103,pincodes,4576,17022520.257624768
+andaman-&-nicobar-islands,2018,4,744102,pincodes,3306,17019977.183053624
+andaman-&-nicobar-islands,2018,4,744105,pincodes,2513,9935282.832151461
+andaman-&-nicobar-islands,2018,4,744104,pincodes,1432,6091757.917089159
+andaman-&-nicobar-islands,2018,4,744211,pincodes,1225,3451359.606027063
+andaman-&-nicobar-islands,2018,4,744301,pincodes,928,4606293.657525641
+andaman-&-nicobar-islands,2018,4,744112,pincodes,759,2208675.0435713646
+andaman-&-nicobar-islands,2018,4,744107,pincodes,747,1825659.5128978956
+andaman-&-nicobar-islands,2018,4,744202,pincodes,702,3797054.1677634423
+andaman-&-nicobar-islands,2019,1,"south andaman",districts,25683,85501972.38780196
+andaman-&-nicobar-islands,2019,1,"north and middle andaman",districts,3264,9561708.736298349
+andaman-&-nicobar-islands,2019,1,nicobars,districts,1539,7236059.549389593
+andaman-&-nicobar-islands,2019,1,744103,pincodes,5742,19401964.77965755
+andaman-&-nicobar-islands,2019,1,744101,pincodes,5156,15501306.227195919
+andaman-&-nicobar-islands,2019,1,744102,pincodes,3925,16683547.094795756
+andaman-&-nicobar-islands,2019,1,744105,pincodes,3553,11588669.48032856
+andaman-&-nicobar-islands,2019,1,744104,pincodes,2833,9141657.219605077
+andaman-&-nicobar-islands,2019,1,744211,pincodes,1511,5794838.401831552
+andaman-&-nicobar-islands,2019,1,744202,pincodes,1112,3613381.294736007
+andaman-&-nicobar-islands,2019,1,744107,pincodes,1029,3592930.2975779255
+andaman-&-nicobar-islands,2019,1,744301,pincodes,920,4652963.41114777
+andaman-&-nicobar-islands,2019,1,744112,pincodes,802,1893718.6537822199
+andaman-&-nicobar-islands,2019,2,"south andaman",districts,28490,102530955.71341258
+andaman-&-nicobar-islands,2019,2,"north and middle andaman",districts,3371,8612103.13788812
+andaman-&-nicobar-islands,2019,2,nicobars,districts,1828,9111650.82436246
+andaman-&-nicobar-islands,2019,2,744104,pincodes,6142,15625676.560883244
+andaman-&-nicobar-islands,2019,2,744103,pincodes,5847,23751450.067206983
+andaman-&-nicobar-islands,2019,2,744101,pincodes,4863,19061125.41121897
+andaman-&-nicobar-islands,2019,2,744102,pincodes,4120,18948733.987097777
+andaman-&-nicobar-islands,2019,2,744105,pincodes,3500,13418692.199162653
+andaman-&-nicobar-islands,2019,2,744202,pincodes,1153,3619993.3910789257
+andaman-&-nicobar-islands,2019,2,744107,pincodes,1124,2967445.3902032813
+andaman-&-nicobar-islands,2019,2,744211,pincodes,1047,3168331.9917352106
+andaman-&-nicobar-islands,2019,2,744301,pincodes,1007,4849284.51925976
+andaman-&-nicobar-islands,2019,2,744112,pincodes,763,2928099.608406143
+andaman-&-nicobar-islands,2019,3,"south andaman",districts,27421,91023888.32848613
+andaman-&-nicobar-islands,2019,3,"north and middle andaman",districts,4049,11481466.283356791
+andaman-&-nicobar-islands,2019,3,nicobars,districts,2300,11566421.475451011
+andaman-&-nicobar-islands,2019,3,744103,pincodes,5680,19906337.014255583
+andaman-&-nicobar-islands,2019,3,744101,pincodes,5606,18745152.093515635
+andaman-&-nicobar-islands,2019,3,744104,pincodes,4786,15754793.354826454
+andaman-&-nicobar-islands,2019,3,744102,pincodes,3643,14572605.602745283
+andaman-&-nicobar-islands,2019,3,744105,pincodes,3512,11767223.99688773
+andaman-&-nicobar-islands,2019,3,744202,pincodes,1417,3875602.0982028744
+andaman-&-nicobar-islands,2019,3,744301,pincodes,1402,6195496.621729916
+andaman-&-nicobar-islands,2019,3,744211,pincodes,1118,2983697.449378184
+andaman-&-nicobar-islands,2019,3,744107,pincodes,914,1988299.759710987
+andaman-&-nicobar-islands,2019,3,744112,pincodes,833,2198831.6919406196
+andaman-&-nicobar-islands,2019,4,"south andaman",districts,27843,110930312.20611623
+andaman-&-nicobar-islands,2019,4,"north and middle andaman",districts,4716,13524056.784573946
+andaman-&-nicobar-islands,2019,4,nicobars,districts,2600,12384161.52668771
+andaman-&-nicobar-islands,2019,4,744104,pincodes,6633,20626642.701508522
+andaman-&-nicobar-islands,2019,4,744101,pincodes,5282,23247752.473849062
+andaman-&-nicobar-islands,2019,4,744103,pincodes,4840,19792507.955761045
+andaman-&-nicobar-islands,2019,4,744105,pincodes,3528,15302141.17488026
+andaman-&-nicobar-islands,2019,4,744102,pincodes,3237,15350444.97320769
+andaman-&-nicobar-islands,2019,4,744202,pincodes,1783,5800016.5561128855
+andaman-&-nicobar-islands,2019,4,744211,pincodes,1596,7908264.721918669
+andaman-&-nicobar-islands,2019,4,744301,pincodes,1549,7056478.928838715
+andaman-&-nicobar-islands,2019,4,744201,pincodes,886,946768.0636478986
+andaman-&-nicobar-islands,2019,4,744107,pincodes,777,3030368.911900454
+andaman-&-nicobar-islands,2020,1,"south andaman",districts,32713,134679396.90582758
+andaman-&-nicobar-islands,2020,1,"north and middle andaman",districts,5674,14697371.617857102
+andaman-&-nicobar-islands,2020,1,nicobars,districts,2911,12099543.773590053
+andaman-&-nicobar-islands,2020,1,744101,pincodes,11793,58229349.02415232
+andaman-&-nicobar-islands,2020,1,744103,pincodes,5870,22009443.073053975
+andaman-&-nicobar-islands,2020,1,744105,pincodes,4635,16774043.311987936
+andaman-&-nicobar-islands,2020,1,744102,pincodes,3820,14517706.12269676
+andaman-&-nicobar-islands,2020,1,744211,pincodes,1837,8425387.79004211
+andaman-&-nicobar-islands,2020,1,744301,pincodes,1819,6901162.107519586
+andaman-&-nicobar-islands,2020,1,744202,pincodes,1794,5037742.395579022
+andaman-&-nicobar-islands,2020,1,744104,pincodes,1302,5293130.290633954
+andaman-&-nicobar-islands,2020,1,744201,pincodes,1157,1242638.821252932
+andaman-&-nicobar-islands,2020,1,744107,pincodes,1043,2990354.4448547475
+andaman-&-nicobar-islands,2020,2,"south andaman",districts,48088,132855778.74838585
+andaman-&-nicobar-islands,2020,2,"north and middle andaman",districts,10979,22447714.061058953
+andaman-&-nicobar-islands,2020,2,nicobars,districts,3895,14341508.60470232
+andaman-&-nicobar-islands,2020,2,744101,pincodes,11868,48293323.21851964
+andaman-&-nicobar-islands,2020,2,744103,pincodes,10035,26197535.98945152
+andaman-&-nicobar-islands,2020,2,744105,pincodes,9341,23203019.858980607
+andaman-&-nicobar-islands,2020,2,744102,pincodes,6012,17786750.907515876
+andaman-&-nicobar-islands,2020,2,744202,pincodes,3722,8924121.010762567
+andaman-&-nicobar-islands,2020,2,744107,pincodes,2555,3980470.6853698147
+andaman-&-nicobar-islands,2020,2,744301,pincodes,2275,9055232.527755566
+andaman-&-nicobar-islands,2020,2,744211,pincodes,2045,3319717.6328789736
+andaman-&-nicobar-islands,2020,2,744205,pincodes,1847,4459064.90732021
+andaman-&-nicobar-islands,2020,2,744104,pincodes,1840,3334591.822304932
+andaman-&-nicobar-islands,2020,3,"south andaman",districts,95323,282366109.20523936
+andaman-&-nicobar-islands,2020,3,"north and middle andaman",districts,16747,33486883.37042556
+andaman-&-nicobar-islands,2020,3,nicobars,districts,5413,22166453.754695382
+andaman-&-nicobar-islands,2020,3,744101,pincodes,24386,100439119.66860783
+andaman-&-nicobar-islands,2020,3,744103,pincodes,21272,60332278.69396809
+andaman-&-nicobar-islands,2020,3,744105,pincodes,17166,44061506.56273589
+andaman-&-nicobar-islands,2020,3,744102,pincodes,13934,43077189.842844136
+andaman-&-nicobar-islands,2020,3,744202,pincodes,5779,11975748.707876923
+andaman-&-nicobar-islands,2020,3,744107,pincodes,4753,7628018.669464628
+andaman-&-nicobar-islands,2020,3,744104,pincodes,3468,7353834.51320935
+andaman-&-nicobar-islands,2020,3,744112,pincodes,3422,6067986.696111794
+andaman-&-nicobar-islands,2020,3,744301,pincodes,3071,13352610.531559702
+andaman-&-nicobar-islands,2020,3,744205,pincodes,2991,7535645.788593667
+andaman-&-nicobar-islands,2020,4,"south andaman",districts,186494,523122462.883029
+andaman-&-nicobar-islands,2020,4,"north and middle andaman",districts,29349,68941322.38839513
+andaman-&-nicobar-islands,2020,4,nicobars,districts,8688,35218871.04342848
+andaman-&-nicobar-islands,2020,4,744103,pincodes,46884,138264791.5489212
+andaman-&-nicobar-islands,2020,4,744101,pincodes,40392,136401368.02166596
+andaman-&-nicobar-islands,2020,4,744105,pincodes,34410,87838226.93633425
+andaman-&-nicobar-islands,2020,4,744102,pincodes,26694,76348598.32238364
+andaman-&-nicobar-islands,2020,4,744202,pincodes,10949,25543799.074759968
+andaman-&-nicobar-islands,2020,4,744107,pincodes,9743,18083250.19055397
+andaman-&-nicobar-islands,2020,4,744104,pincodes,7654,19126095.533284884
+andaman-&-nicobar-islands,2020,4,744112,pincodes,7016,15890275.050448488
+andaman-&-nicobar-islands,2020,4,744205,pincodes,5118,12002695.281042248
+andaman-&-nicobar-islands,2020,4,744201,pincodes,5011,6777275.536669218
+andaman-&-nicobar-islands,2021,1,"south andaman",districts,207092,669604045.1248703
+andaman-&-nicobar-islands,2021,1,"north and middle andaman",districts,27358,75027255.27919498
+andaman-&-nicobar-islands,2021,1,nicobars,districts,10302,39075266.9856904
+andaman-&-nicobar-islands,2021,1,744101,pincodes,55726,190830957.0606181
+andaman-&-nicobar-islands,2021,1,744103,pincodes,47328,158404100.7854989
+andaman-&-nicobar-islands,2021,1,744105,pincodes,35467,111571687.43195169
+andaman-&-nicobar-islands,2021,1,744102,pincodes,23957,80750048.8238959
+andaman-&-nicobar-islands,2021,1,744211,pincodes,10648,34956327.94105429
+andaman-&-nicobar-islands,2021,1,744202,pincodes,10597,28127629.877961583
+andaman-&-nicobar-islands,2021,1,744107,pincodes,8848,19627951.469969153
+andaman-&-nicobar-islands,2021,1,744104,pincodes,8799,27854306.51949638
+andaman-&-nicobar-islands,2021,1,744112,pincodes,7113,21084790.0528014
+andaman-&-nicobar-islands,2021,1,744301,pincodes,5630,22671937.31314759
+andaman-&-nicobar-islands,2021,2,"south andaman",districts,286907,760893020.5704947
+andaman-&-nicobar-islands,2021,2,"north and middle andaman",districts,39200,90233388.79463303
+andaman-&-nicobar-islands,2021,2,nicobars,districts,15307,48020606.74716838
+andaman-&-nicobar-islands,2021,2,744101,pincodes,73334,227585492.7414593
+andaman-&-nicobar-islands,2021,2,744103,pincodes,66321,174752815.1688521
+andaman-&-nicobar-islands,2021,2,744105,pincodes,52645,134835744.22049245
+andaman-&-nicobar-islands,2021,2,744102,pincodes,34289,100890426.76234055
+andaman-&-nicobar-islands,2021,2,744202,pincodes,16476,40647907.96960775
+andaman-&-nicobar-islands,2021,2,744107,pincodes,14524,24690581.539094776
+andaman-&-nicobar-islands,2021,2,744104,pincodes,11278,28333852.06159348
+andaman-&-nicobar-islands,2021,2,744211,pincodes,10182,20377949.346094526
+andaman-&-nicobar-islands,2021,2,744112,pincodes,9635,21637658.167199604
+andaman-&-nicobar-islands,2021,2,744301,pincodes,8463,27666837.39688266
+andaman-&-nicobar-islands,2021,3,"south andaman",districts,382418,1116789010.6459613
+andaman-&-nicobar-islands,2021,3,"north and middle andaman",districts,46592,118254865.82750683
+andaman-&-nicobar-islands,2021,3,nicobars,districts,20754,74980519.32813609
+andaman-&-nicobar-islands,2021,3,744101,pincodes,116324,388328168.7639693
+andaman-&-nicobar-islands,2021,3,744103,pincodes,84790,246433385.80990067
+andaman-&-nicobar-islands,2021,3,744105,pincodes,67257,185238368.4767078
+andaman-&-nicobar-islands,2021,3,744102,pincodes,43850,131239564.16909727
+andaman-&-nicobar-islands,2021,3,744202,pincodes,19088,48475163.574293144
+andaman-&-nicobar-islands,2021,3,744107,pincodes,16203,37962312.09641009
+andaman-&-nicobar-islands,2021,3,744104,pincodes,14657,35301326.114471875
+andaman-&-nicobar-islands,2021,3,744112,pincodes,11565,28491553.61094001
+andaman-&-nicobar-islands,2021,3,744301,pincodes,11553,43464511.051198
+andaman-&-nicobar-islands,2021,3,744211,pincodes,9655,19497765.257140517
+andaman-&-nicobar-islands,2021,4,"south andaman",districts,558571,1694794708.0093331
+andaman-&-nicobar-islands,2021,4,"north and middle andaman",districts,53115,156486112.28732437
+andaman-&-nicobar-islands,2021,4,nicobars,districts,24437,81329281.0269996
+andaman-&-nicobar-islands,2021,4,744101,pincodes,165719,533026207.9731797
+andaman-&-nicobar-islands,2021,4,744103,pincodes,121613,372243734.27985656
+andaman-&-nicobar-islands,2021,4,744105,pincodes,95028,281223411.7435058
+andaman-&-nicobar-islands,2021,4,744102,pincodes,58258,174623253.47653326
+andaman-&-nicobar-islands,2021,4,744211,pincodes,27938,94222862.10725296
+andaman-&-nicobar-islands,2021,4,744104,pincodes,25662,69245386.0816525
+andaman-&-nicobar-islands,2021,4,744202,pincodes,21913,67790798.04849821
+andaman-&-nicobar-islands,2021,4,744107,pincodes,21397,52036029.9980372
+andaman-&-nicobar-islands,2021,4,744112,pincodes,18915,55448543.43365714
+andaman-&-nicobar-islands,2021,4,744301,pincodes,14553,47792330.70050094
+andaman-&-nicobar-islands,2022,1,"south andaman",districts,705512,1872991195.902684
+andaman-&-nicobar-islands,2022,1,"north and middle andaman",districts,60059,161624878.52274162
+andaman-&-nicobar-islands,2022,1,nicobars,districts,29177,94414127.64974089
+andaman-&-nicobar-islands,2022,1,744101,pincodes,209941,615978080.6944855
+andaman-&-nicobar-islands,2022,1,744103,pincodes,157230,399715980.1391735
+andaman-&-nicobar-islands,2022,1,744105,pincodes,122716,321850608.7396423
+andaman-&-nicobar-islands,2022,1,744102,pincodes,74883,193336549.94178736
+andaman-&-nicobar-islands,2022,1,744104,pincodes,32471,72915521.83614868
+andaman-&-nicobar-islands,2022,1,744211,pincodes,30272,86955570.58655271
+andaman-&-nicobar-islands,2022,1,744107,pincodes,25379,58776727.62636636
+andaman-&-nicobar-islands,2022,1,744202,pincodes,24022,68519268.77643085
+andaman-&-nicobar-islands,2022,1,744112,pincodes,23471,55469783.6622991
+andaman-&-nicobar-islands,2022,1,744301,pincodes,17630,56879992.28461884
+andaman-&-nicobar-islands,2022,2,"south andaman",districts,954875,2357326563.362071
+andaman-&-nicobar-islands,2022,2,"north and middle andaman",districts,72573,195693167.78757268
+andaman-&-nicobar-islands,2022,2,nicobars,districts,43769,132900618.93062323
+andaman-&-nicobar-islands,2022,2,744101,pincodes,252722,702122365.3629664
+andaman-&-nicobar-islands,2022,2,744103,pincodes,230746,561168775.5622396
+andaman-&-nicobar-islands,2022,2,744105,pincodes,176252,415796516.6034926
+andaman-&-nicobar-islands,2022,2,744102,pincodes,101551,240451609.192299
+andaman-&-nicobar-islands,2022,2,744104,pincodes,47069,94335358.34017953
+andaman-&-nicobar-islands,2022,2,744211,pincodes,40245,108788594.62847154
+andaman-&-nicobar-islands,2022,2,744107,pincodes,36402,82851064.58195859
+andaman-&-nicobar-islands,2022,2,744112,pincodes,32548,70178309.12885833
+andaman-&-nicobar-islands,2022,2,744202,pincodes,27750,84587978.8405464
+andaman-&-nicobar-islands,2022,2,744301,pincodes,26170,74485462.68044695
+andaman-&-nicobar-islands,2022,3,"south andaman",districts,1455255,2967719400.8499093
+andaman-&-nicobar-islands,2022,3,"north and middle andaman",districts,79574,211581970.34202653
+andaman-&-nicobar-islands,2022,3,nicobars,districts,49550,131330400.94545083
+andaman-&-nicobar-islands,2022,3,744104,pincodes,497273,951370315.4090765
+andaman-&-nicobar-islands,2022,3,744103,pincodes,259994,545653686.3062732
+andaman-&-nicobar-islands,2022,3,744101,pincodes,213864,444967255.802143
+andaman-&-nicobar-islands,2022,3,744105,pincodes,208055,438754611.5375265
+andaman-&-nicobar-islands,2022,3,744102,pincodes,114416,239581586.790242
+andaman-&-nicobar-islands,2022,3,744107,pincodes,40466,85492008.49477127
+andaman-&-nicobar-islands,2022,3,744112,pincodes,38350,74030563.48358011
+andaman-&-nicobar-islands,2022,3,744211,pincodes,37918,89671382.06901146
+andaman-&-nicobar-islands,2022,3,744202,pincodes,29918,85509005.84576747
+andaman-&-nicobar-islands,2022,3,744301,pincodes,27668,70002553.35288173
+andaman-&-nicobar-islands,2022,4,"south andaman",districts,1835592,3600887266.099448
+andaman-&-nicobar-islands,2022,4,"north and middle andaman",districts,93297,241431284.35581034
+andaman-&-nicobar-islands,2022,4,nicobars,districts,58646,142355853.97352523
+andaman-&-nicobar-islands,2022,4,744104,pincodes,684366,1309407988.2902
+andaman-&-nicobar-islands,2022,4,744103,pincodes,304600,612929267.1773143
+andaman-&-nicobar-islands,2022,4,744105,pincodes,258097,505662756.1128938
+andaman-&-nicobar-islands,2022,4,744101,pincodes,243494,467192496.17391205
+andaman-&-nicobar-islands,2022,4,744102,pincodes,134923,264371699.73904055
+andaman-&-nicobar-islands,2022,4,744211,pincodes,56491,137253267.66612908
+andaman-&-nicobar-islands,2022,4,744107,pincodes,54192,104539818.47127225
+andaman-&-nicobar-islands,2022,4,744112,pincodes,46364,82461782.47749998
+andaman-&-nicobar-islands,2022,4,744202,pincodes,34689,94217164.85909571
+andaman-&-nicobar-islands,2022,4,744301,pincodes,33669,82466591.07632071
+andaman-&-nicobar-islands,2023,1,"south andaman",districts,2030078,3867385426
+andaman-&-nicobar-islands,2023,1,"north and middle andaman",districts,152187,392080332
+andaman-&-nicobar-islands,2023,1,nicobars,districts,94127,202062829
+andaman-&-nicobar-islands,2023,1,744103,pincodes,503053,969594706
+andaman-&-nicobar-islands,2023,1,744105,pincodes,418090,774570559
+andaman-&-nicobar-islands,2023,1,744101,pincodes,403456,749508057
+andaman-&-nicobar-islands,2023,1,744102,pincodes,222855,427240840
+andaman-&-nicobar-islands,2023,1,744104,pincodes,118286,201531285
+andaman-&-nicobar-islands,2023,1,744211,pincodes,107424,263885620
+andaman-&-nicobar-islands,2023,1,744107,pincodes,92715,168098531
+andaman-&-nicobar-islands,2023,1,744112,pincodes,76246,131598911
+andaman-&-nicobar-islands,2023,1,744202,pincodes,59440,165959850
+andaman-&-nicobar-islands,2023,1,744301,pincodes,55605,111713635
+andaman-&-nicobar-islands,2023,2,"south andaman",districts,2417058,4297737197
+andaman-&-nicobar-islands,2023,2,"north and middle andaman",districts,181149,462414675
+andaman-&-nicobar-islands,2023,2,nicobars,districts,109568,230192364
+andaman-&-nicobar-islands,2023,2,744103,pincodes,597774,1119274409
+andaman-&-nicobar-islands,2023,2,744105,pincodes,507585,916209552
+andaman-&-nicobar-islands,2023,2,744101,pincodes,486154,824857096
+andaman-&-nicobar-islands,2023,2,744102,pincodes,269165,458977445
+andaman-&-nicobar-islands,2023,2,744104,pincodes,134785,205244167
+andaman-&-nicobar-islands,2023,2,744107,pincodes,114795,194986633
+andaman-&-nicobar-islands,2023,2,744211,pincodes,106510,222510323
+andaman-&-nicobar-islands,2023,2,744112,pincodes,89784,147571191
+andaman-&-nicobar-islands,2023,2,744202,pincodes,72315,211302035
+andaman-&-nicobar-islands,2023,2,744301,pincodes,63841,134197959
+andaman-&-nicobar-islands,2023,3,"south andaman",districts,2771397,4462201588
+andaman-&-nicobar-islands,2023,3,"north and middle andaman",districts,198547,495623030
+andaman-&-nicobar-islands,2023,3,nicobars,districts,128432,253772173
+andaman-&-nicobar-islands,2023,3,744103,pincodes,697625,1158992204
+andaman-&-nicobar-islands,2023,3,744105,pincodes,594280,962825309
+andaman-&-nicobar-islands,2023,3,744101,pincodes,561910,880223225
+andaman-&-nicobar-islands,2023,3,744102,pincodes,301979,500512890
+andaman-&-nicobar-islands,2023,3,744104,pincodes,144283,201467258
+andaman-&-nicobar-islands,2023,3,744107,pincodes,126430,192271794
+andaman-&-nicobar-islands,2023,3,744211,pincodes,122188,205773943
+andaman-&-nicobar-islands,2023,3,744112,pincodes,102093,142609621
+andaman-&-nicobar-islands,2023,3,744202,pincodes,81233,229651761
+andaman-&-nicobar-islands,2023,3,744301,pincodes,72307,142757567
+andaman-&-nicobar-islands,2023,4,"south andaman",districts,3311962,5417264997
+andaman-&-nicobar-islands,2023,4,"north and middle andaman",districts,230234,540759631
+andaman-&-nicobar-islands,2023,4,nicobars,districts,153587,311527871
+andaman-&-nicobar-islands,2023,4,744103,pincodes,817988,1376084403
+andaman-&-nicobar-islands,2023,4,744105,pincodes,687868,1111327351
+andaman-&-nicobar-islands,2023,4,744101,pincodes,665217,1030639279
+andaman-&-nicobar-islands,2023,4,744102,pincodes,343773,550517935
+andaman-&-nicobar-islands,2023,4,744211,pincodes,208914,434254474
+andaman-&-nicobar-islands,2023,4,744104,pincodes,180753,276651786
+andaman-&-nicobar-islands,2023,4,744107,pincodes,150575,215238085
+andaman-&-nicobar-islands,2023,4,744112,pincodes,121589,178498997
+andaman-&-nicobar-islands,2023,4,744301,pincodes,92294,197278662
+andaman-&-nicobar-islands,2023,4,744202,pincodes,91113,233493969
+andaman-&-nicobar-islands,2024,1,"south andaman",districts,3751724,5952049462
+andaman-&-nicobar-islands,2024,1,"north and middle andaman",districts,266400,601756070
+andaman-&-nicobar-islands,2024,1,nicobars,districts,166796,305346303
+andaman-&-nicobar-islands,2024,1,744103,pincodes,915265,1466185445
+andaman-&-nicobar-islands,2024,1,744105,pincodes,788690,1238176536
+andaman-&-nicobar-islands,2024,1,744101,pincodes,729163,1111938725
+andaman-&-nicobar-islands,2024,1,744102,pincodes,410733,635568629
+andaman-&-nicobar-islands,2024,1,744211,pincodes,242702,502855645
+andaman-&-nicobar-islands,2024,1,744104,pincodes,198252,287097896
+andaman-&-nicobar-islands,2024,1,744107,pincodes,175286,238542585
+andaman-&-nicobar-islands,2024,1,744112,pincodes,136050,198931121
+andaman-&-nicobar-islands,2024,1,744202,pincodes,110787,274596943
+andaman-&-nicobar-islands,2024,1,744301,pincodes,96150,182352308
+andaman-&-nicobar-islands,2024,2,"south andaman",districts,4153251,6285248054
+andaman-&-nicobar-islands,2024,2,"north and middle andaman",districts,313301,676844858
+andaman-&-nicobar-islands,2024,2,nicobars,districts,186672,333687418
+andaman-&-nicobar-islands,2024,2,744103,pincodes,1017612,1578925731
+andaman-&-nicobar-islands,2024,2,744105,pincodes,893820,1374445615
+andaman-&-nicobar-islands,2024,2,744101,pincodes,811341,1158296326
+andaman-&-nicobar-islands,2024,2,744102,pincodes,457481,690786139
+andaman-&-nicobar-islands,2024,2,744211,pincodes,224583,411320695
+andaman-&-nicobar-islands,2024,2,744107,pincodes,215143,279183707
+andaman-&-nicobar-islands,2024,2,744104,pincodes,203691,288479778
+andaman-&-nicobar-islands,2024,2,744112,pincodes,149015,212749987
+andaman-&-nicobar-islands,2024,2,744202,pincodes,133606,309640750
+andaman-&-nicobar-islands,2024,2,744301,pincodes,103555,192116394
+andaman-&-nicobar-islands,2024,3,"south andaman",districts,4704639,6567147442
+andaman-&-nicobar-islands,2024,3,"north and middle andaman",districts,364075,724234808
+andaman-&-nicobar-islands,2024,3,nicobar,districts,210536,372462759
+andaman-&-nicobar-islands,2024,3,744103,pincodes,1447958,2053970205
+andaman-&-nicobar-islands,2024,3,744105,pincodes,693711,961929148
+andaman-&-nicobar-islands,2024,3,744102,pincodes,687213,994056767
+andaman-&-nicobar-islands,2024,3,744104,pincodes,617317,839095587
+andaman-&-nicobar-islands,2024,3,744101,pincodes,397378,543823715
+andaman-&-nicobar-islands,2024,3,744106,pincodes,209731,260739712
+andaman-&-nicobar-islands,2024,3,744211,pincodes,197101,284906813
+andaman-&-nicobar-islands,2024,3,744107,pincodes,179048,222331863
+andaman-&-nicobar-islands,2024,3,744202,pincodes,155096,325950998
+andaman-&-nicobar-islands,2024,3,744301,pincodes,117129,221810524
+andaman-&-nicobar-islands,2024,4,"south andaman",districts,5419850,7760167334
+andaman-&-nicobar-islands,2024,4,"north and middle andaman",districts,411230,759100984
+andaman-&-nicobar-islands,2024,4,nicobar,districts,232820,401676455
+andaman-&-nicobar-islands,2024,4,744103,pincodes,1624936,2327920210
+andaman-&-nicobar-islands,2024,4,744105,pincodes,788313,1111527475
+andaman-&-nicobar-islands,2024,4,744104,pincodes,750691,1054506007
+andaman-&-nicobar-islands,2024,4,744102,pincodes,745988,1083724002
+andaman-&-nicobar-islands,2024,4,744101,pincodes,444657,622167677
+andaman-&-nicobar-islands,2024,4,744211,pincodes,316142,549541741
+andaman-&-nicobar-islands,2024,4,744106,pincodes,247889,331449895
+andaman-&-nicobar-islands,2024,4,744107,pincodes,195688,249976872
+andaman-&-nicobar-islands,2024,4,744202,pincodes,177499,343623904
+andaman-&-nicobar-islands,2024,4,744301,pincodes,130704,238936987
+andhra-pradesh,2018,1,visakhapatnam,districts,1256469,1749966196.5049949
+andhra-pradesh,2018,1,"east godavari",districts,943935,1235785515.5997267
+andhra-pradesh,2018,1,krishna,districts,863935,1284255179.6156201
+andhra-pradesh,2018,1,chittoor,districts,830324,1009621878.0870512
+andhra-pradesh,2018,1,guntur,districts,815932,1108686589.0266826
+andhra-pradesh,2018,1,kurnool,districts,679623,764905298.7350456
+andhra-pradesh,2018,1,anantapur,districts,638664,788830646.0324218
+andhra-pradesh,2018,1,"west godavari",districts,577090,853547668.7532666
+andhra-pradesh,2018,1,prakasam,districts,534757,748990775.8676486
+andhra-pradesh,2018,1,"spsr nellore",districts,531612,676643237.8069417
+andhra-pradesh,2018,1,517501,pincodes,110496,163487278.84449506
+andhra-pradesh,2018,1,520001,pincodes,96883,170605900.5466873
+andhra-pradesh,2018,1,515001,pincodes,92754,133522310.75704184
+andhra-pradesh,2018,1,517507,pincodes,88132,127450018.2101582
+andhra-pradesh,2018,1,516001,pincodes,84644,131194265.5243713
+andhra-pradesh,2018,1,518502,pincodes,82421,68040306.13881023
+andhra-pradesh,2018,1,530016,pincodes,81891,140880970.0990568
+andhra-pradesh,2018,1,520010,pincodes,69581,119009921.97401813
+andhra-pradesh,2018,1,516360,pincodes,68340,101612118.88480642
+andhra-pradesh,2018,1,518501,pincodes,68193,81006512.71677604
+andhra-pradesh,2018,2,visakhapatnam,districts,1641192,2987853607.2939095
+andhra-pradesh,2018,2,krishna,districts,1224987,2448141593.4919834
+andhra-pradesh,2018,2,"east godavari",districts,1221677,2168914928.4239016
+andhra-pradesh,2018,2,chittoor,districts,1185723,1990419125.8937118
+andhra-pradesh,2018,2,guntur,districts,1088101,2108475811.785997
+andhra-pradesh,2018,2,kurnool,districts,968439,1531888665.6843233
+andhra-pradesh,2018,2,anantapur,districts,937023,1690366079.0557928
+andhra-pradesh,2018,2,"west godavari",districts,786033,1688025212.3045943
+andhra-pradesh,2018,2,"spsr nellore",districts,780454,1542057934.0108962
+andhra-pradesh,2018,2,prakasam,districts,739991,1571167562.1276274
+andhra-pradesh,2018,2,517501,pincodes,165506,305629373.15863353
+andhra-pradesh,2018,2,518502,pincodes,140893,127814123.87394845
+andhra-pradesh,2018,2,515001,pincodes,129798,285924993.6163615
+andhra-pradesh,2018,2,517507,pincodes,127731,243405277.90481398
+andhra-pradesh,2018,2,520001,pincodes,123176,271911611.0495833
+andhra-pradesh,2018,2,516001,pincodes,114806,242175477.6115077
+andhra-pradesh,2018,2,530016,pincodes,111874,235770318.03054443
+andhra-pradesh,2018,2,520010,pincodes,100630,220730389.6490364
+andhra-pradesh,2018,2,516360,pincodes,96619,197068813.60447282
+andhra-pradesh,2018,2,518501,pincodes,93442,163942778.22947574
+andhra-pradesh,2018,3,visakhapatnam,districts,3394576,4821892253.393524
+andhra-pradesh,2018,3,"east godavari",districts,3226907,3551247095.3074465
+andhra-pradesh,2018,3,kurnool,districts,2921189,2908389261.5397735
+andhra-pradesh,2018,3,krishna,districts,2396934,3754202654.3844614
+andhra-pradesh,2018,3,chittoor,districts,2297429,3283517630.720593
+andhra-pradesh,2018,3,guntur,districts,1912529,3127764663.180438
+andhra-pradesh,2018,3,anantapur,districts,1815215,2681787750.464165
+andhra-pradesh,2018,3,ysr,districts,1557444,2235904512.2542048
+andhra-pradesh,2018,3,"west godavari",districts,1431282,2309078492.805815
+andhra-pradesh,2018,3,prakasam,districts,1319651,2346453445.4838424
+andhra-pradesh,2018,3,518502,pincodes,1300146,709765829.9649723
+andhra-pradesh,2018,3,533437,pincodes,421968,240766495.05853492
+andhra-pradesh,2018,3,518501,pincodes,296154,291247918.8462258
+andhra-pradesh,2018,3,517501,pincodes,295403,466133618.6014985
+andhra-pradesh,2018,3,515001,pincodes,276595,438158383.2247275
+andhra-pradesh,2018,3,530016,pincodes,234494,380410223.19526947
+andhra-pradesh,2018,3,517507,pincodes,233347,386563858.6898683
+andhra-pradesh,2018,3,516259,pincodes,220165,109844218.671292
+andhra-pradesh,2018,3,520011,pincodes,213275,291805923.00111276
+andhra-pradesh,2018,3,520001,pincodes,206435,371140000.30740225
+andhra-pradesh,2018,4,visakhapatnam,districts,4791421,7366635864.849373
+andhra-pradesh,2018,4,chittoor,districts,3166201,4979093890.223491
+andhra-pradesh,2018,4,"east godavari",districts,3052762,4652624623.436675
+andhra-pradesh,2018,4,krishna,districts,2839161,5416251838.130407
+andhra-pradesh,2018,4,guntur,districts,2546620,4730251217.696959
+andhra-pradesh,2018,4,kurnool,districts,2508530,3626544852.4069242
+andhra-pradesh,2018,4,anantapur,districts,2286391,3975878156.329829
+andhra-pradesh,2018,4,"spsr nellore",districts,1814997,3293448556.973445
+andhra-pradesh,2018,4,ysr,districts,1732527,3252340063.2478595
+andhra-pradesh,2018,4,prakasam,districts,1692862,3255254226.03728
+andhra-pradesh,2018,4,518502,pincodes,441662,332201263.2829269
+andhra-pradesh,2018,4,517501,pincodes,423357,714887920.0334857
+andhra-pradesh,2018,4,530016,pincodes,367619,575982481.3389585
+andhra-pradesh,2018,4,515001,pincodes,355695,651952970.9302757
+andhra-pradesh,2018,4,517507,pincodes,318300,594747982.0458119
+andhra-pradesh,2018,4,530003,pincodes,277131,356075793.85855436
+andhra-pradesh,2018,4,516001,pincodes,269798,572252390.1920383
+andhra-pradesh,2018,4,520010,pincodes,250261,492229977.1570112
+andhra-pradesh,2018,4,530017,pincodes,248725,326891428.60271376
+andhra-pradesh,2018,4,518501,pincodes,248520,357423401.5571966
+andhra-pradesh,2019,1,visakhapatnam,districts,9690866,13459857440.552685
+andhra-pradesh,2019,1,chittoor,districts,6486813,8223371732.233585
+andhra-pradesh,2019,1,krishna,districts,5443981,9061346433.072681
+andhra-pradesh,2019,1,"east godavari",districts,5440146,7382264724.59952
+andhra-pradesh,2019,1,guntur,districts,4846553,7765934169.404485
+andhra-pradesh,2019,1,kurnool,districts,4193432,5541564892.509682
+andhra-pradesh,2019,1,anantapur,districts,3891336,6044730653.191345
+andhra-pradesh,2019,1,"spsr nellore",districts,3333584,5161932216.216368
+andhra-pradesh,2019,1,prakasam,districts,2931081,4807527779.215151
+andhra-pradesh,2019,1,ysr,districts,2852197,4915811593.896078
+andhra-pradesh,2019,1,530001,pincodes,950821,1529039457.6419592
+andhra-pradesh,2019,1,517501,pincodes,922416,1244725311.4573965
+andhra-pradesh,2019,1,520001,pincodes,814616,1462807205.627422
+andhra-pradesh,2019,1,530016,pincodes,684611,960022481.5524917
+andhra-pradesh,2019,1,517507,pincodes,671661,1009128524.8128469
+andhra-pradesh,2019,1,515001,pincodes,609682,1009938283.8464416
+andhra-pradesh,2019,1,518502,pincodes,545426,389782596.9665674
+andhra-pradesh,2019,1,530003,pincodes,527667,590799502.8850918
+andhra-pradesh,2019,1,530017,pincodes,472914,531596255.9349663
+andhra-pradesh,2019,1,520010,pincodes,460133,774931063.0289192
+andhra-pradesh,2019,2,visakhapatnam,districts,11705738,20797479804.029076
+andhra-pradesh,2019,2,krishna,districts,6428472,13437029115.620754
+andhra-pradesh,2019,2,chittoor,districts,5983308,10982727976.224325
+andhra-pradesh,2019,2,guntur,districts,5005275,10405246943.481495
+andhra-pradesh,2019,2,"east godavari",districts,4699261,9116404622.47651
+andhra-pradesh,2019,2,kurnool,districts,3895824,7358285187.018034
+andhra-pradesh,2019,2,anantapur,districts,3578836,7830782361.3776655
+andhra-pradesh,2019,2,"spsr nellore",districts,3141891,6880873007.4820595
+andhra-pradesh,2019,2,prakasam,districts,2670529,6262396448.455348
+andhra-pradesh,2019,2,ysr,districts,2606284,6376856828.130632
+andhra-pradesh,2019,2,530001,pincodes,2602865,5218795715.70141
+andhra-pradesh,2019,2,520001,pincodes,1828617,3823390190.0922346
+andhra-pradesh,2019,2,517501,pincodes,949187,1669949938.5076957
+andhra-pradesh,2019,2,522001,pincodes,839909,1759418775.980979
+andhra-pradesh,2019,2,530016,pincodes,793798,1257915825.5688605
+andhra-pradesh,2019,2,517507,pincodes,760335,1412863012.2407691
+andhra-pradesh,2019,2,515001,pincodes,567306,1282118916.2094193
+andhra-pradesh,2019,2,530003,pincodes,520142,718170914.395836
+andhra-pradesh,2019,2,520010,pincodes,490697,973983824.5472903
+andhra-pradesh,2019,2,530017,pincodes,480905,650710126.3382195
+andhra-pradesh,2019,3,visakhapatnam,districts,16694947,26944837120.046288
+andhra-pradesh,2019,3,krishna,districts,8408474,16404073560.500784
+andhra-pradesh,2019,3,chittoor,districts,8201783,13837455758.755266
+andhra-pradesh,2019,3,guntur,districts,6942304,13075661264.188034
+andhra-pradesh,2019,3,"east godavari",districts,6537303,11387726470.57774
+andhra-pradesh,2019,3,kurnool,districts,5139134,9025632779.412457
+andhra-pradesh,2019,3,anantapur,districts,4889720,9554081289.488277
+andhra-pradesh,2019,3,"spsr nellore",districts,4150195,8256600118.735449
+andhra-pradesh,2019,3,prakasam,districts,3430750,7354502261.150911
+andhra-pradesh,2019,3,ysr,districts,3296586,7447544274.2117815
+andhra-pradesh,2019,3,530001,pincodes,2944756,6693257653.901131
+andhra-pradesh,2019,3,520001,pincodes,1905190,4414503365.699517
+andhra-pradesh,2019,3,517501,pincodes,1434209,2203932856.2972074
+andhra-pradesh,2019,3,530016,pincodes,1196020,1658162548.562835
+andhra-pradesh,2019,3,517507,pincodes,1060513,1854927351.7366562
+andhra-pradesh,2019,3,522001,pincodes,1003916,2216532548.7258
+andhra-pradesh,2019,3,515001,pincodes,868052,1667826831.8650486
+andhra-pradesh,2019,3,530003,pincodes,858005,970993081.1712441
+andhra-pradesh,2019,3,530017,pincodes,799271,911939243.0618924
+andhra-pradesh,2019,3,530026,pincodes,711726,1095056835.9858122
+andhra-pradesh,2019,4,visakhapatnam,districts,23594874,39133296330.04462
+andhra-pradesh,2019,4,krishna,districts,11719402,23039786404.046635
+andhra-pradesh,2019,4,chittoor,districts,11246986,19298476027.875484
+andhra-pradesh,2019,4,guntur,districts,9761330,18565626418.035915
+andhra-pradesh,2019,4,"east godavari",districts,9285739,16816774065.301317
+andhra-pradesh,2019,4,kurnool,districts,7001958,13233105728.54823
+andhra-pradesh,2019,4,anantapur,districts,6764112,13887248889.064064
+andhra-pradesh,2019,4,"spsr nellore",districts,5877804,11786014089.194025
+andhra-pradesh,2019,4,prakasam,districts,4865473,10604077824.801035
+andhra-pradesh,2019,4,ysr,districts,4793157,10865073855.730782
+andhra-pradesh,2019,4,530001,pincodes,4185063,9160387223.4497
+andhra-pradesh,2019,4,520001,pincodes,2544877,5933007156.535349
+andhra-pradesh,2019,4,517501,pincodes,1920211,3073084029.9256625
+andhra-pradesh,2019,4,530016,pincodes,1591033,2295184224.145106
+andhra-pradesh,2019,4,530026,pincodes,1438154,2509394595.5414515
+andhra-pradesh,2019,4,517507,pincodes,1406768,2478459132.7705936
+andhra-pradesh,2019,4,522001,pincodes,1324202,2927313967.683236
+andhra-pradesh,2019,4,515001,pincodes,1202983,2376869516.684207
+andhra-pradesh,2019,4,530003,pincodes,1131832,1339103327.887921
+andhra-pradesh,2019,4,530017,pincodes,1084796,1266927471.3317952
+andhra-pradesh,2020,1,visakhapatnam,districts,27115031,48809747614.678894
+andhra-pradesh,2020,1,chittoor,districts,13257740,23441848567.344193
+andhra-pradesh,2020,1,krishna,districts,12175289,24481702770.714714
+andhra-pradesh,2020,1,guntur,districts,11493331,22992734620.64621
+andhra-pradesh,2020,1,"east godavari",districts,11346242,21854701379.428688
+andhra-pradesh,2020,1,anantapur,districts,8466129,17864325752.82528
+andhra-pradesh,2020,1,kurnool,districts,8246869,17022710311.813044
+andhra-pradesh,2020,1,"spsr nellore",districts,7430247,15387829694.446861
+andhra-pradesh,2020,1,prakasam,districts,6318396,14169104764.526735
+andhra-pradesh,2020,1,ysr,districts,6031255,14059924636.819914
+andhra-pradesh,2020,1,530026,pincodes,6695271,15258657486.862274
+andhra-pradesh,2020,1,517501,pincodes,2196548,3731404465.729061
+andhra-pradesh,2020,1,530016,pincodes,1661816,2593325339.0472875
+andhra-pradesh,2020,1,517507,pincodes,1554974,2719620696.0325623
+andhra-pradesh,2020,1,515001,pincodes,1346804,2696427930.6755033
+andhra-pradesh,2020,1,530003,pincodes,1159480,1519955258.5314608
+andhra-pradesh,2020,1,524002,pincodes,1125194,2653339803.95633
+andhra-pradesh,2020,1,530017,pincodes,1104748,1412381495.9440272
+andhra-pradesh,2020,1,520010,pincodes,1098395,2059547223.1742206
+andhra-pradesh,2020,1,522001,pincodes,1058410,2575723775.0488396
+andhra-pradesh,2020,2,visakhapatnam,districts,25300401,48293889917.41437
+andhra-pradesh,2020,2,chittoor,districts,14848197,27361300300.01902
+andhra-pradesh,2020,2,"east godavari",districts,13130334,26319906327.32029
+andhra-pradesh,2020,2,krishna,districts,12313709,26964149095.36629
+andhra-pradesh,2020,2,guntur,districts,12308707,27463593607.83911
+andhra-pradesh,2020,2,anantapur,districts,10473739,22094006659.412506
+andhra-pradesh,2020,2,kurnool,districts,9821381,22419372061.805172
+andhra-pradesh,2020,2,"spsr nellore",districts,9454274,20665376460.772232
+andhra-pradesh,2020,2,prakasam,districts,8844580,19846026726.90433
+andhra-pradesh,2020,2,ysr,districts,8033609,19597207268.132023
+andhra-pradesh,2020,2,530026,pincodes,4994637,12817902607.017586
+andhra-pradesh,2020,2,517501,pincodes,1708935,3203679955.4885287
+andhra-pradesh,2020,2,517507,pincodes,1575118,2854711069.441047
+andhra-pradesh,2020,2,524002,pincodes,1553283,3993963025.6852684
+andhra-pradesh,2020,2,530016,pincodes,1067022,1893629834.0393307
+andhra-pradesh,2020,2,516001,pincodes,1066066,2616099329.3322473
+andhra-pradesh,2020,2,515001,pincodes,1026587,2447755903.073549
+andhra-pradesh,2020,2,518002,pincodes,979822,2015820866.3250332
+andhra-pradesh,2020,2,522001,pincodes,963666,2678051229.473872
+andhra-pradesh,2020,2,520002,pincodes,956641,2767045048.1995325
+andhra-pradesh,2020,3,visakhapatnam,districts,34421299,67628440368.111465
+andhra-pradesh,2020,3,chittoor,districts,20501863,42811566246.16463
+andhra-pradesh,2020,3,krishna,districts,19110457,44788458672.084435
+andhra-pradesh,2020,3,"east godavari",districts,17972431,39300043804.75851
+andhra-pradesh,2020,3,guntur,districts,17601395,42531195809.75448
+andhra-pradesh,2020,3,"spsr nellore",districts,16468209,39128324534.03021
+andhra-pradesh,2020,3,anantapur,districts,14447683,34102037972.657852
+andhra-pradesh,2020,3,kurnool,districts,13243292,32529351107.17173
+andhra-pradesh,2020,3,prakasam,districts,12266310,31221704852.44969
+andhra-pradesh,2020,3,ysr,districts,11934653,32037007334.12973
+andhra-pradesh,2020,3,524002,pincodes,5194663,13718743729.17845
+andhra-pradesh,2020,3,530026,pincodes,4159532,10383207817.795242
+andhra-pradesh,2020,3,517501,pincodes,2735691,5544720473.076229
+andhra-pradesh,2020,3,516001,pincodes,2534360,6637577271.358326
+andhra-pradesh,2020,3,517507,pincodes,2306174,4594510974.325968
+andhra-pradesh,2020,3,520002,pincodes,2238996,6543183825.055463
+andhra-pradesh,2020,3,530016,pincodes,1921871,3560898943.243418
+andhra-pradesh,2020,3,515001,pincodes,1669413,4116758527.095812
+andhra-pradesh,2020,3,522001,pincodes,1625687,4701116488.838855
+andhra-pradesh,2020,3,518002,pincodes,1514873,3352462441.2241564
+andhra-pradesh,2020,4,visakhapatnam,districts,46551467,91879823025.40399
+andhra-pradesh,2020,4,chittoor,districts,29590411,61505711149.79541
+andhra-pradesh,2020,4,krishna,districts,27981050,64461504667.60722
+andhra-pradesh,2020,4,guntur,districts,26136538,60641872021.25432
+andhra-pradesh,2020,4,"east godavari",districts,25989490,58732615663.11841
+andhra-pradesh,2020,4,anantapur,districts,20996384,49732610814.26222
+andhra-pradesh,2020,4,"spsr nellore",districts,20934374,49115443663.37911
+andhra-pradesh,2020,4,kurnool,districts,18737323,44718203115.22612
+andhra-pradesh,2020,4,prakasam,districts,16176867,41852443493.515396
+andhra-pradesh,2020,4,ysr,districts,15676878,42572974713.440254
+andhra-pradesh,2020,4,524002,pincodes,5029692,12810644736.250324
+andhra-pradesh,2020,4,530026,pincodes,4235146,9849636860.464972
+andhra-pradesh,2020,4,517501,pincodes,4125544,7866883789.381668
+andhra-pradesh,2020,4,517507,pincodes,3420778,6749696775.855953
+andhra-pradesh,2020,4,516001,pincodes,3119905,8005247952.077286
+andhra-pradesh,2020,4,530016,pincodes,2981818,5591062751.070802
+andhra-pradesh,2020,4,515001,pincodes,2821800,6442101736.915546
+andhra-pradesh,2020,4,518002,pincodes,2219953,4809927717.539759
+andhra-pradesh,2020,4,520010,pincodes,2170458,4679865894.241622
+andhra-pradesh,2020,4,530017,pincodes,2027751,3252434512.586547
+andhra-pradesh,2021,1,visakhapatnam,districts,48248923,95308386037.84721
+andhra-pradesh,2021,1,krishna,districts,29717175,69715406644.53484
+andhra-pradesh,2021,1,chittoor,districts,29342609,60947491846.66088
+andhra-pradesh,2021,1,guntur,districts,27445045,64207987853.108406
+andhra-pradesh,2021,1,"east godavari",districts,26190701,60027984987.96951
+andhra-pradesh,2021,1,"spsr nellore",districts,22541428,52210333201.53073
+andhra-pradesh,2021,1,anantapur,districts,20102957,48353870395.01808
+andhra-pradesh,2021,1,kurnool,districts,17918524,44941629659.56964
+andhra-pradesh,2021,1,"west godavari",districts,16015685,42124030669.36127
+andhra-pradesh,2021,1,ysr,districts,15374473,42570919448.50447
+andhra-pradesh,2021,1,524002,pincodes,7269657,16698428355.239132
+andhra-pradesh,2021,1,530026,pincodes,5875319,13567044097.312927
+andhra-pradesh,2021,1,517501,pincodes,4354325,8224302893.470669
+andhra-pradesh,2021,1,520002,pincodes,3591058,9183853695.408499
+andhra-pradesh,2021,1,517507,pincodes,3378549,6593121540.981036
+andhra-pradesh,2021,1,530016,pincodes,3144495,5679150412.005564
+andhra-pradesh,2021,1,516001,pincodes,2941623,7434205012.068323
+andhra-pradesh,2021,1,515001,pincodes,2815993,6225481722.602297
+andhra-pradesh,2021,1,522001,pincodes,2584588,6753205746.899624
+andhra-pradesh,2021,1,520010,pincodes,2291676,4716738889.930448
+andhra-pradesh,2021,2,visakhapatnam,districts,54390299,114439012713.35336
+andhra-pradesh,2021,2,krishna,districts,36370960,90021923049.96454
+andhra-pradesh,2021,2,chittoor,districts,34344902,73654690122.43158
+andhra-pradesh,2021,2,guntur,districts,32968819,82356914463.83287
+andhra-pradesh,2021,2,"east godavari",districts,31717908,74604325863.66068
+andhra-pradesh,2021,2,"spsr nellore",districts,30290406,72283071757.09679
+andhra-pradesh,2021,2,anantapur,districts,25123346,60987487571.27992
+andhra-pradesh,2021,2,kurnool,districts,21972396,56659287474.995804
+andhra-pradesh,2021,2,"west godavari",districts,20950964,57233116236.18796
+andhra-pradesh,2021,2,prakasam,districts,19944047,54535328043.04135
+andhra-pradesh,2021,2,524002,pincodes,11023032,25519404146.52658
+andhra-pradesh,2021,2,530026,pincodes,7850540,19042845773.20165
+andhra-pradesh,2021,2,520002,pincodes,5441708,14948864290.86964
+andhra-pradesh,2021,2,517501,pincodes,4614209,9215678010.439575
+andhra-pradesh,2021,2,517507,pincodes,3834825,7940105016.380435
+andhra-pradesh,2021,2,522001,pincodes,3427039,9832657321.439524
+andhra-pradesh,2021,2,515001,pincodes,3052771,7213837063.020088
+andhra-pradesh,2021,2,530016,pincodes,2892664,5705916880.595729
+andhra-pradesh,2021,2,516001,pincodes,2613562,7256266063.657529
+andhra-pradesh,2021,2,518002,pincodes,2553688,5906664130.524334
+andhra-pradesh,2021,3,visakhapatnam,districts,69220981,136945652159.26517
+andhra-pradesh,2021,3,krishna,districts,44828275,104417897558.58972
+andhra-pradesh,2021,3,chittoor,districts,42628568,89371931753.04831
+andhra-pradesh,2021,3,guntur,districts,41675093,96525353090.12305
+andhra-pradesh,2021,3,"east godavari",districts,39572714,89380370072.7078
+andhra-pradesh,2021,3,"spsr nellore",districts,34411958,77839676988.30869
+andhra-pradesh,2021,3,anantapur,districts,30366444,70291248155.64975
+andhra-pradesh,2021,3,kurnool,districts,26377809,62527453761.59807
+andhra-pradesh,2021,3,"west godavari",districts,26245039,66647238455.1675
+andhra-pradesh,2021,3,prakasam,districts,24116580,63367713446.928055
+andhra-pradesh,2021,3,524002,pincodes,10701326,23300508690.71216
+andhra-pradesh,2021,3,530026,pincodes,9780096,22841763578.29273
+andhra-pradesh,2021,3,517501,pincodes,5982442,11419848822.233982
+andhra-pradesh,2021,3,520002,pincodes,5320101,14633600592.216694
+andhra-pradesh,2021,3,517507,pincodes,4866065,9768221617.56348
+andhra-pradesh,2021,3,522001,pincodes,4242875,11355623168.660927
+andhra-pradesh,2021,3,530016,pincodes,4177023,7797927714.306906
+andhra-pradesh,2021,3,515001,pincodes,4040160,8752025049.046715
+andhra-pradesh,2021,3,516001,pincodes,3370675,8720115499.341372
+andhra-pradesh,2021,3,520010,pincodes,3206301,6832329071.6628275
+andhra-pradesh,2021,4,visakhapatnam,districts,82711538,159530099772.73474
+andhra-pradesh,2021,4,krishna,districts,55489829,125015323207.89836
+andhra-pradesh,2021,4,chittoor,districts,51119640,103985734663.73514
+andhra-pradesh,2021,4,guntur,districts,50919286,115553993673.17336
+andhra-pradesh,2021,4,"east godavari",districts,48992531,106725597026.00357
+andhra-pradesh,2021,4,"spsr nellore",districts,41921081,92256405076.26547
+andhra-pradesh,2021,4,anantapur,districts,36129136,81239787006.64764
+andhra-pradesh,2021,4,"west godavari",districts,33235175,81292461575.08183
+andhra-pradesh,2021,4,kurnool,districts,31782248,73968947669.64754
+andhra-pradesh,2021,4,prakasam,districts,27858275,71323060008.47623
+andhra-pradesh,2021,4,524002,pincodes,14158439,30358274591.367683
+andhra-pradesh,2021,4,530026,pincodes,10216678,24428085477.49295
+andhra-pradesh,2021,4,517501,pincodes,7246667,13514835187.056923
+andhra-pradesh,2021,4,517507,pincodes,5790910,11415016234.059563
+andhra-pradesh,2021,4,520002,pincodes,5716025,15397268124.171196
+andhra-pradesh,2021,4,530016,pincodes,5252680,9484946022.822403
+andhra-pradesh,2021,4,522001,pincodes,4989759,13298088500.28115
+andhra-pradesh,2021,4,515001,pincodes,4892740,10235401678.208153
+andhra-pradesh,2021,4,520010,pincodes,4198904,8551737728.052567
+andhra-pradesh,2021,4,516001,pincodes,4058071,10324818012.146276
+andhra-pradesh,2022,1,visakhapatnam,districts,88233362,170120350591.26004
+andhra-pradesh,2022,1,krishna,districts,61826199,139690081529.49048
+andhra-pradesh,2022,1,chittoor,districts,58561024,117900595508.63399
+andhra-pradesh,2022,1,guntur,districts,57226996,129673727687.08943
+andhra-pradesh,2022,1,"east godavari",districts,54738830,121067103712.79568
+andhra-pradesh,2022,1,"spsr nellore",districts,47645702,104895571602.13988
+andhra-pradesh,2022,1,anantapur,districts,40613148,90197023268.43825
+andhra-pradesh,2022,1,"west godavari",districts,37271259,92397939903.60936
+andhra-pradesh,2022,1,kurnool,districts,35093633,81568420500.54747
+andhra-pradesh,2022,1,prakasam,districts,31340975,79494373254.71565
+andhra-pradesh,2022,1,524002,pincodes,16133298,35123754551.39544
+andhra-pradesh,2022,1,530026,pincodes,10293117,25355928765.674084
+andhra-pradesh,2022,1,517501,pincodes,8062447,14807178133.005922
+andhra-pradesh,2022,1,517507,pincodes,6660899,12913687866.526722
+andhra-pradesh,2022,1,520002,pincodes,6254668,16297042494.467913
+andhra-pradesh,2022,1,522001,pincodes,5691035,15226428277.57111
+andhra-pradesh,2022,1,515001,pincodes,5585462,11393585212.479506
+andhra-pradesh,2022,1,530016,pincodes,5554647,9991176892.061853
+andhra-pradesh,2022,1,516001,pincodes,4513789,11365056779.562836
+andhra-pradesh,2022,1,520010,pincodes,4492155,9108501441.854177
+andhra-pradesh,2022,2,visakhapatnam,districts,101387402,193242841582.14282
+andhra-pradesh,2022,2,krishna,districts,73525814,163997729295.93127
+andhra-pradesh,2022,2,chittoor,districts,67507661,136435445124.75615
+andhra-pradesh,2022,2,guntur,districts,66315749,147098141568.76227
+andhra-pradesh,2022,2,"east godavari",districts,62072845,135531452997.6391
+andhra-pradesh,2022,2,"spsr nellore",districts,54838708,121941082043.49483
+andhra-pradesh,2022,2,anantapur,districts,46099366,102138758015.76915
+andhra-pradesh,2022,2,"west godavari",districts,44409239,107973244960.42824
+andhra-pradesh,2022,2,kurnool,districts,40165692,92409350855.502
+andhra-pradesh,2022,2,prakasam,districts,36163507,90435082545.97768
+andhra-pradesh,2022,2,524002,pincodes,18822839,40556750377.6809
+andhra-pradesh,2022,2,530026,pincodes,12256092,29600523030.089485
+andhra-pradesh,2022,2,517501,pincodes,9320394,17071503296.033054
+andhra-pradesh,2022,2,517507,pincodes,7667416,14863715364.820652
+andhra-pradesh,2022,2,520002,pincodes,7584902,19447767871.79056
+andhra-pradesh,2022,2,530016,pincodes,6470271,11522114399.303429
+andhra-pradesh,2022,2,515001,pincodes,6291639,12847256630.386038
+andhra-pradesh,2022,2,522001,pincodes,6073875,16041957319.95133
+andhra-pradesh,2022,2,520010,pincodes,5301338,10747157085.983915
+andhra-pradesh,2022,2,516001,pincodes,4927880,12452111307.590088
+andhra-pradesh,2022,3,visakhapatnam,districts,97434546,181124419863.61444
+andhra-pradesh,2022,3,krishna,districts,71051144,153770559025.69122
+andhra-pradesh,2022,3,chittoor,districts,65751781,133053581631.63948
+andhra-pradesh,2022,3,guntur,districts,65612317,141588522953.23773
+andhra-pradesh,2022,3,"east godavari",districts,61467134,129677722169.74829
+andhra-pradesh,2022,3,anantapur,districts,45165363,97735649608.10074
+andhra-pradesh,2022,3,"west godavari",districts,43635951,101706854744.31876
+andhra-pradesh,2022,3,"spsr nellore",districts,42116582,95099325968.25974
+andhra-pradesh,2022,3,kurnool,districts,39557913,88415335176.31995
+andhra-pradesh,2022,3,prakasam,districts,35376080,87475230073.46387
+andhra-pradesh,2022,3,530026,pincodes,10427710,24452749355.343765
+andhra-pradesh,2022,3,517501,pincodes,9028550,16685152652.27945
+andhra-pradesh,2022,3,517507,pincodes,7638906,14893051968.861427
+andhra-pradesh,2022,3,524002,pincodes,6897466,17798259711.658493
+andhra-pradesh,2022,3,522001,pincodes,6608575,14799455202.072798
+andhra-pradesh,2022,3,520002,pincodes,6370783,17359205738.798397
+andhra-pradesh,2022,3,530016,pincodes,6352195,11280121649.92772
+andhra-pradesh,2022,3,515001,pincodes,6120942,12350133591.116642
+andhra-pradesh,2022,3,520010,pincodes,5372903,10801020194.878735
+andhra-pradesh,2022,3,516001,pincodes,5350632,13517253500.100548
+andhra-pradesh,2022,4,visakhapatnam,districts,103790055,185306149744.73105
+andhra-pradesh,2022,4,krishna,districts,76526667,157826011193.35443
+andhra-pradesh,2022,4,guntur,districts,70723763,146938735166.52365
+andhra-pradesh,2022,4,chittoor,districts,70322534,136840859888.18156
+andhra-pradesh,2022,4,"east godavari",districts,68016055,136531110139.86255
+andhra-pradesh,2022,4,anantapur,districts,48299601,101533878537.23431
+andhra-pradesh,2022,4,"west godavari",districts,47919930,105335724990.59326
+andhra-pradesh,2022,4,kurnool,districts,43524766,94667441029.08344
+andhra-pradesh,2022,4,"spsr nellore",districts,42582064,92085916180.68509
+andhra-pradesh,2022,4,prakasam,districts,37211077,88105031866.36835
+andhra-pradesh,2022,4,530026,pincodes,10249750,23326515677.88234
+andhra-pradesh,2022,4,517501,pincodes,9601016,17160601029.470804
+andhra-pradesh,2022,4,517507,pincodes,8255182,15452889827.310287
+andhra-pradesh,2022,4,530016,pincodes,6770365,11575693176.866528
+andhra-pradesh,2022,4,515001,pincodes,6566772,12647557281.819908
+andhra-pradesh,2022,4,522001,pincodes,6419773,13879436431.018642
+andhra-pradesh,2022,4,520010,pincodes,5887349,11108836639.890686
+andhra-pradesh,2022,4,518002,pincodes,5810257,12488419884.161985
+andhra-pradesh,2022,4,520002,pincodes,5685286,14883019280.330643
+andhra-pradesh,2022,4,516001,pincodes,5545373,13027211098.677938
+andhra-pradesh,2023,1,visakhapatnam,districts,164358781,277211090180
+andhra-pradesh,2023,1,krishna,districts,122104381,238058890676
+andhra-pradesh,2023,1,chittoor,districts,120192355,218037027226
+andhra-pradesh,2023,1,"east godavari",districts,115196449,223454724672
+andhra-pradesh,2023,1,guntur,districts,114246185,226244225817
+andhra-pradesh,2023,1,anantapur,districts,82127373,162287796625
+andhra-pradesh,2023,1,"west godavari",districts,79094558,165941144654
+andhra-pradesh,2023,1,kurnool,districts,72405172,149100361797
+andhra-pradesh,2023,1,"spsr nellore",districts,71318689,143967164643
+andhra-pradesh,2023,1,prakasam,districts,63671149,141672839638
+andhra-pradesh,2023,1,517501,pincodes,15726677,25326343019
+andhra-pradesh,2023,1,517507,pincodes,14231038,24727126661
+andhra-pradesh,2023,1,530016,pincodes,11205270,18608492919
+andhra-pradesh,2023,1,515001,pincodes,11202633,20163905001
+andhra-pradesh,2023,1,520010,pincodes,9654796,17557392337
+andhra-pradesh,2023,1,518002,pincodes,8884834,16390389002
+andhra-pradesh,2023,1,516001,pincodes,8730141,19045859096
+andhra-pradesh,2023,1,520011,pincodes,8055364,14095375533
+andhra-pradesh,2023,1,520007,pincodes,7967416,15216553606
+andhra-pradesh,2023,1,530026,pincodes,7954047,13507938696
+andhra-pradesh,2023,2,visakhapatnam,districts,184918179,303874597259
+andhra-pradesh,2023,2,krishna,districts,141748488,267001403933
+andhra-pradesh,2023,2,chittoor,districts,136283483,245550525910
+andhra-pradesh,2023,2,guntur,districts,132035450,254140764680
+andhra-pradesh,2023,2,"east godavari",districts,131243375,245134717109
+andhra-pradesh,2023,2,"west godavari",districts,92533269,187699526244
+andhra-pradesh,2023,2,anantapur,districts,91695174,180050369328
+andhra-pradesh,2023,2,"spsr nellore",districts,82056071,165181391414
+andhra-pradesh,2023,2,kurnool,districts,81475907,166991990104
+andhra-pradesh,2023,2,prakasam,districts,73598725,158428689659
+andhra-pradesh,2023,2,517501,pincodes,17533692,27847769343
+andhra-pradesh,2023,2,517507,pincodes,16071649,27735983775
+andhra-pradesh,2023,2,530016,pincodes,12677134,20503632033
+andhra-pradesh,2023,2,515001,pincodes,12455688,22351199564
+andhra-pradesh,2023,2,520010,pincodes,10965771,19535374795
+andhra-pradesh,2023,2,518002,pincodes,9897206,18254635605
+andhra-pradesh,2023,2,516001,pincodes,9681752,21118300896
+andhra-pradesh,2023,2,520011,pincodes,9241075,15629118550
+andhra-pradesh,2023,2,520007,pincodes,9092492,17011522677
+andhra-pradesh,2023,2,530026,pincodes,8876516,14619851366
+andhra-pradesh,2023,3,visakhapatnam,districts,209884966,328927220951
+andhra-pradesh,2023,3,krishna,districts,159421907,279540224039
+andhra-pradesh,2023,3,chittoor,districts,152863845,265404757144
+andhra-pradesh,2023,3,guntur,districts,150246761,270651818044
+andhra-pradesh,2023,3,"east godavari",districts,148701666,260414286361
+andhra-pradesh,2023,3,anantapur,districts,104539628,192477441164
+andhra-pradesh,2023,3,"west godavari",districts,102962058,191891823401
+andhra-pradesh,2023,3,"spsr nellore",districts,93875073,176593750929
+andhra-pradesh,2023,3,kurnool,districts,92890445,172979053545
+andhra-pradesh,2023,3,prakasam,districts,84447202,171207298619
+andhra-pradesh,2023,3,517501,pincodes,19950308,30481660225
+andhra-pradesh,2023,3,517507,pincodes,18601251,30773975506
+andhra-pradesh,2023,3,530016,pincodes,14464077,22560828048
+andhra-pradesh,2023,3,515001,pincodes,14092751,23787806856
+andhra-pradesh,2023,3,520010,pincodes,12583902,21578557371
+andhra-pradesh,2023,3,518002,pincodes,11433335,19448338656
+andhra-pradesh,2023,3,516001,pincodes,11173043,22836561775
+andhra-pradesh,2023,3,520011,pincodes,10750550,17171820378
+andhra-pradesh,2023,3,520007,pincodes,10452102,18289265117
+andhra-pradesh,2023,3,530026,pincodes,10339712,15999035746
+andhra-pradesh,2023,4,visakhapatnam,districts,223584765,344512874812
+andhra-pradesh,2023,4,krishna,districts,173309415,298339038877
+andhra-pradesh,2023,4,chittoor,districts,163521593,274132458092
+andhra-pradesh,2023,4,"east godavari",districts,162793144,282329255747
+andhra-pradesh,2023,4,guntur,districts,160724947,281806839570
+andhra-pradesh,2023,4,"west godavari",districts,114825704,209237892746
+andhra-pradesh,2023,4,anantapur,districts,113698752,203367177888
+andhra-pradesh,2023,4,kurnool,districts,103816175,190597527675
+andhra-pradesh,2023,4,"spsr nellore",districts,97721962,179306028468
+andhra-pradesh,2023,4,prakasam,districts,89721677,174929737360
+andhra-pradesh,2023,4,517501,pincodes,20947807,31651864587
+andhra-pradesh,2023,4,517507,pincodes,19563362,31704706880
+andhra-pradesh,2023,4,515001,pincodes,15058936,24656474833
+andhra-pradesh,2023,4,530016,pincodes,14807835,22908401482
+andhra-pradesh,2023,4,520010,pincodes,13194498,22073842410
+andhra-pradesh,2023,4,518002,pincodes,12622748,20976834312
+andhra-pradesh,2023,4,516001,pincodes,12291648,23977992414
+andhra-pradesh,2023,4,520011,pincodes,11506163,18122767533
+andhra-pradesh,2023,4,520007,pincodes,11138627,19087862152
+andhra-pradesh,2023,4,530026,pincodes,10776659,16712123451
+andhra-pradesh,2024,1,visakhapatnam,districts,238418938,363341573689
+andhra-pradesh,2024,1,krishna,districts,186352072,316993492628
+andhra-pradesh,2024,1,chittoor,districts,179903083,289620567340
+andhra-pradesh,2024,1,"east godavari",districts,179489444,306324309402
+andhra-pradesh,2024,1,guntur,districts,173636233,297371276946
+andhra-pradesh,2024,1,"west godavari",districts,127602250,228733104931
+andhra-pradesh,2024,1,anantapur,districts,125240418,212681689201
+andhra-pradesh,2024,1,kurnool,districts,115036343,204805909023
+andhra-pradesh,2024,1,"spsr nellore",districts,108549115,190803645040
+andhra-pradesh,2024,1,prakasam,districts,99550457,187480623851
+andhra-pradesh,2024,1,517501,pincodes,22460833,32476323911
+andhra-pradesh,2024,1,517507,pincodes,21155088,32810583577
+andhra-pradesh,2024,1,515001,pincodes,15780104,24793022275
+andhra-pradesh,2024,1,530016,pincodes,15216493,23101693785
+andhra-pradesh,2024,1,518002,pincodes,13579522,21708522175
+andhra-pradesh,2024,1,520010,pincodes,13437224,22023579078
+andhra-pradesh,2024,1,516001,pincodes,13395301,25036328694
+andhra-pradesh,2024,1,520007,pincodes,11732309,19602587978
+andhra-pradesh,2024,1,520011,pincodes,11686035,18051723195
+andhra-pradesh,2024,1,530026,pincodes,11146646,17184045480
+andhra-pradesh,2024,2,visakhapatnam,districts,260339876,378402015204
+andhra-pradesh,2024,2,krishna,districts,206843456,335127419350
+andhra-pradesh,2024,2,"east godavari",districts,197431466,319787453310
+andhra-pradesh,2024,2,chittoor,districts,194201427,307619765473
+andhra-pradesh,2024,2,guntur,districts,191134818,314056718623
+andhra-pradesh,2024,2,"west godavari",districts,143617131,249493284812
+andhra-pradesh,2024,2,anantapur,districts,136536485,225723880453
+andhra-pradesh,2024,2,kurnool,districts,127978397,213990808953
+andhra-pradesh,2024,2,"spsr nellore",districts,121146667,208460354672
+andhra-pradesh,2024,2,prakasam,districts,112437837,202731369689
+andhra-pradesh,2024,2,517501,pincodes,23986953,33556169821
+andhra-pradesh,2024,2,517507,pincodes,22868631,34558591392
+andhra-pradesh,2024,2,515001,pincodes,17089815,26453948910
+andhra-pradesh,2024,2,530016,pincodes,16743937,23999827461
+andhra-pradesh,2024,2,518002,pincodes,14494864,22561931344
+andhra-pradesh,2024,2,520010,pincodes,14454346,22517180237
+andhra-pradesh,2024,2,516001,pincodes,14399825,25836817900
+andhra-pradesh,2024,2,520007,pincodes,12924908,20769498519
+andhra-pradesh,2024,2,520011,pincodes,12694074,18792892701
+andhra-pradesh,2024,2,530026,pincodes,12240656,17816316958
+andhra-pradesh,2024,3,visakhapatnam,districts,213106280,290036726818
+andhra-pradesh,2024,3,ntr,districts,152140699,224873105608
+andhra-pradesh,2024,3,tirupati,districts,149968579,211447552571
+andhra-pradesh,2024,3,guntur,districts,127566851,190039358188
+andhra-pradesh,2024,3,"sri potti sriramulu nellore",districts,106917876,175836307089
+andhra-pradesh,2024,3,kakinada,districts,95570509,138371672925
+andhra-pradesh,2024,3,ananthapuramu,districts,91820629,142914453423
+andhra-pradesh,2024,3,"east godavari",districts,85529302,134055222841
+andhra-pradesh,2024,3,prakasam,districts,85310768,143771093092
+andhra-pradesh,2024,3,eluru,districts,81354859,126434474521
+andhra-pradesh,2024,3,517501,pincodes,36655946,50763786498
+andhra-pradesh,2024,3,530016,pincodes,18172239,25347552111
+andhra-pradesh,2024,3,520010,pincodes,18075083,26040831949
+andhra-pradesh,2024,3,520007,pincodes,17587908,26541441247
+andhra-pradesh,2024,3,516001,pincodes,17436269,29300764711
+andhra-pradesh,2024,3,515001,pincodes,16896071,24626029714
+andhra-pradesh,2024,3,520003,pincodes,16725948,23180849113
+andhra-pradesh,2024,3,518002,pincodes,16312523,24049037089
+andhra-pradesh,2024,3,517507,pincodes,15863409,21911302309
+andhra-pradesh,2024,3,530026,pincodes,15757147,21910848603
+andhra-pradesh,2024,4,visakhapatnam,districts,229565019,302371361659
+andhra-pradesh,2024,4,ntr,districts,171465537,247316521377
+andhra-pradesh,2024,4,tirupati,districts,159672169,217180680249
+andhra-pradesh,2024,4,guntur,districts,139286726,201755300053
+andhra-pradesh,2024,4,"sri potti sriramulu nellore",districts,114316424,182545036925
+andhra-pradesh,2024,4,kakinada,districts,106856932,150518386058
+andhra-pradesh,2024,4,ananthapuramu,districts,100670947,151922187881
+andhra-pradesh,2024,4,"east godavari",districts,96791979,147921011637
+andhra-pradesh,2024,4,eluru,districts,92216645,140703076456
+andhra-pradesh,2024,4,prakasam,districts,90937455,149042387778
+andhra-pradesh,2024,4,517501,pincodes,39124897,52268964187
+andhra-pradesh,2024,4,520010,pincodes,19850150,27884196248
+andhra-pradesh,2024,4,520007,pincodes,19533453,28497311442
+andhra-pradesh,2024,4,530016,pincodes,19427911,26280147124
+andhra-pradesh,2024,4,516001,pincodes,18760414,30182682584
+andhra-pradesh,2024,4,520003,pincodes,18684622,25090723912
+andhra-pradesh,2024,4,515001,pincodes,18361649,25654153931
+andhra-pradesh,2024,4,518002,pincodes,18000208,25530054501
+andhra-pradesh,2024,4,530026,pincodes,17091590,22841467439
+andhra-pradesh,2024,4,517507,pincodes,17014041,22614302334
+arunachal-pradesh,2018,1,"papum pare",districts,14224,32555848.462331478
+arunachal-pradesh,2018,1,"west kameng",districts,5787,9540632.547015157
+arunachal-pradesh,2018,1,lohit,districts,3747,11496949.54576835
+arunachal-pradesh,2018,1,"east siang",districts,3286,5533620.186295529
+arunachal-pradesh,2018,1,changlang,districts,3195,5380749.415278763
+arunachal-pradesh,2018,1,tawang,districts,2334,5055665.022950603
+arunachal-pradesh,2018,1,longding,districts,2321,4361531.578447229
+arunachal-pradesh,2018,1,"west siang",districts,1887,4796675.565399804
+arunachal-pradesh,2018,1,"lower subansiri",districts,1477,3650727.893614269
+arunachal-pradesh,2018,1,namsai,districts,1400,2162984.705083958
+arunachal-pradesh,2018,1,791110,pincodes,4253,8605127.65004581
+arunachal-pradesh,2018,1,791111,pincodes,4207,9841038.918801479
+arunachal-pradesh,2018,1,791102,pincodes,3286,5671981.37541513
+arunachal-pradesh,2018,1,790116,pincodes,2704,4457038.562331891
+arunachal-pradesh,2018,1,790104,pincodes,2114,4578762.301169472
+arunachal-pradesh,2018,1,791109,pincodes,2112,3137887.500695069
+arunachal-pradesh,2018,1,792131,pincodes,2097,3667031.7501450847
+arunachal-pradesh,2018,1,791001,pincodes,2041,5020173.997662732
+arunachal-pradesh,2018,1,791113,pincodes,1955,6492923.793813149
+arunachal-pradesh,2018,1,792001,pincodes,1865,2638135.148973316
+arunachal-pradesh,2018,2,"papum pare",districts,25363,66520931.20355793
+arunachal-pradesh,2018,2,"west kameng",districts,10466,25521321.34140157
+arunachal-pradesh,2018,2,lohit,districts,6962,20520618.881890118
+arunachal-pradesh,2018,2,"east siang",districts,6363,15285584.202916935
+arunachal-pradesh,2018,2,changlang,districts,6066,13294258.50337311
+arunachal-pradesh,2018,2,tawang,districts,5447,13722374.811357912
+arunachal-pradesh,2018,2,longding,districts,4634,10271170.165521314
+arunachal-pradesh,2018,2,namsai,districts,3230,6271811.327635023
+arunachal-pradesh,2018,2,"west siang",districts,2579,7610989.567485569
+arunachal-pradesh,2018,2,"lower siang",districts,2292,2179451.657976534
+arunachal-pradesh,2018,2,791110,pincodes,7878,19894634.32236063
+arunachal-pradesh,2018,2,791111,pincodes,7239,20302894.32407169
+arunachal-pradesh,2018,2,791102,pincodes,6046,11116134.491696559
+arunachal-pradesh,2018,2,790116,pincodes,4689,11109804.760347228
+arunachal-pradesh,2018,2,790104,pincodes,4436,10757634.641186869
+arunachal-pradesh,2018,2,792131,pincodes,4342,9787595.363164986
+arunachal-pradesh,2018,2,791113,pincodes,4159,10355129.796387024
+arunachal-pradesh,2018,2,792103,pincodes,3885,10332844.690670341
+arunachal-pradesh,2018,2,792102,pincodes,3638,13733030.966675913
+arunachal-pradesh,2018,2,791109,pincodes,3486,8901023.6818946
+arunachal-pradesh,2018,3,"papum pare",districts,43282,101080479.2917223
+arunachal-pradesh,2018,3,"west kameng",districts,17026,48528147.45054105
+arunachal-pradesh,2018,3,lohit,districts,11595,32702331.664437763
+arunachal-pradesh,2018,3,"east siang",districts,10539,24885270.773230057
+arunachal-pradesh,2018,3,changlang,districts,10162,20494174.949715402
+arunachal-pradesh,2018,3,tawang,districts,8715,25733824.994109266
+arunachal-pradesh,2018,3,longding,districts,5288,18327334.050755527
+arunachal-pradesh,2018,3,namsai,districts,5076,10698272.774381302
+arunachal-pradesh,2018,3,"west siang",districts,3337,12966152.792519316
+arunachal-pradesh,2018,3,tirap,districts,3322,7479257.007852319
+arunachal-pradesh,2018,3,791110,pincodes,13489,28577947.494984522
+arunachal-pradesh,2018,3,791111,pincodes,10508,33766761.060124576
+arunachal-pradesh,2018,3,791102,pincodes,9777,18868814.474471845
+arunachal-pradesh,2018,3,791109,pincodes,8636,14623073.028337255
+arunachal-pradesh,2018,3,790116,pincodes,6870,19935455.777625345
+arunachal-pradesh,2018,3,792103,pincodes,6672,16204421.801473193
+arunachal-pradesh,2018,3,790104,pincodes,6434,18213474.582743015
+arunachal-pradesh,2018,3,792001,pincodes,6307,16330131.581704907
+arunachal-pradesh,2018,3,791113,pincodes,6191,14657152.42532165
+arunachal-pradesh,2018,3,792102,pincodes,5120,16131802.077896373
+arunachal-pradesh,2018,4,"papum pare",districts,55224,154875448.20778143
+arunachal-pradesh,2018,4,"west kameng",districts,25439,89194886.84322134
+arunachal-pradesh,2018,4,lohit,districts,14268,40510521.949797615
+arunachal-pradesh,2018,4,changlang,districts,13950,32343047.413952358
+arunachal-pradesh,2018,4,"east siang",districts,12893,34272134.344916776
+arunachal-pradesh,2018,4,tawang,districts,11104,35921510.89403269
+arunachal-pradesh,2018,4,namsai,districts,7244,17643523.29373534
+arunachal-pradesh,2018,4,longding,districts,6581,22545311.85089966
+arunachal-pradesh,2018,4,tirap,districts,5725,10811742.670586085
+arunachal-pradesh,2018,4,"lower dibang valley",districts,4227,10951332.393937869
+arunachal-pradesh,2018,4,791110,pincodes,18305,50770919.03443284
+arunachal-pradesh,2018,4,791111,pincodes,14891,50578761.54109968
+arunachal-pradesh,2018,4,791102,pincodes,11990,28553763.558065224
+arunachal-pradesh,2018,4,790116,pincodes,10791,42561249.91245334
+arunachal-pradesh,2018,4,792103,pincodes,8743,23841863.530102827
+arunachal-pradesh,2018,4,790104,pincodes,8727,28710303.165459957

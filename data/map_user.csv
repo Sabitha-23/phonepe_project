@@ -1,0 +1,1001 @@
+state,year,quarter,district,registered_users,app_opens
+andaman-&-nicobar-islands,2018,1,"north and middle andaman district",632,0
+andaman-&-nicobar-islands,2018,1,"south andaman district",5846,0
+andaman-&-nicobar-islands,2018,1,"nicobars district",262,0
+andaman-&-nicobar-islands,2018,2,"north and middle andaman district",911,0
+andaman-&-nicobar-islands,2018,2,"south andaman district",8143,0
+andaman-&-nicobar-islands,2018,2,"nicobars district",351,0
+andaman-&-nicobar-islands,2018,3,"north and middle andaman district",1208,0
+andaman-&-nicobar-islands,2018,3,"south andaman district",10474,0
+andaman-&-nicobar-islands,2018,3,"nicobars district",467,0
+andaman-&-nicobar-islands,2018,4,"north and middle andaman district",1553,0
+andaman-&-nicobar-islands,2018,4,"south andaman district",13133,0
+andaman-&-nicobar-islands,2018,4,"nicobars district",536,0
+andaman-&-nicobar-islands,2019,1,"north and middle andaman district",2013,0
+andaman-&-nicobar-islands,2019,1,"south andaman district",15961,0
+andaman-&-nicobar-islands,2019,1,"nicobars district",622,0
+andaman-&-nicobar-islands,2019,2,"north and middle andaman district",2417,6118
+andaman-&-nicobar-islands,2019,2,"south andaman district",18621,43569
+andaman-&-nicobar-islands,2019,2,"nicobars district",693,2953
+andaman-&-nicobar-islands,2019,3,"north and middle andaman district",2662,22064
+andaman-&-nicobar-islands,2019,3,"south andaman district",20518,138190
+andaman-&-nicobar-islands,2019,3,"nicobars district",751,10853
+andaman-&-nicobar-islands,2019,4,"north and middle andaman district",2955,26253
+andaman-&-nicobar-islands,2019,4,"south andaman district",22202,139646
+andaman-&-nicobar-islands,2019,4,"nicobars district",803,11113
+andaman-&-nicobar-islands,2020,1,"north and middle andaman district",3315,30444
+andaman-&-nicobar-islands,2020,1,"south andaman district",24174,151529
+andaman-&-nicobar-islands,2020,1,"nicobars district",879,11613
+andaman-&-nicobar-islands,2020,2,"north and middle andaman district",4100,56992
+andaman-&-nicobar-islands,2020,2,"south andaman district",27626,231071
+andaman-&-nicobar-islands,2020,2,"nicobars district",984,17009
+andaman-&-nicobar-islands,2020,3,"north and middle andaman district",5355,76553
+andaman-&-nicobar-islands,2020,3,"south andaman district",34833,417785
+andaman-&-nicobar-islands,2020,3,"nicobars district",1147,21227
+andaman-&-nicobar-islands,2020,4,"north and middle andaman district",7076,125915
+andaman-&-nicobar-islands,2020,4,"south andaman district",43908,725321
+andaman-&-nicobar-islands,2020,4,"nicobars district",1412,35972
+andaman-&-nicobar-islands,2021,1,"north and middle andaman district",7833,121680
+andaman-&-nicobar-islands,2021,1,"south andaman district",48352,837589
+andaman-&-nicobar-islands,2021,1,"nicobars district",1573,45067
+andaman-&-nicobar-islands,2021,2,"north and middle andaman district",8493,596182
+andaman-&-nicobar-islands,2021,2,"south andaman district",51903,1270226
+andaman-&-nicobar-islands,2021,2,"nicobars district",1699,381815
+andaman-&-nicobar-islands,2021,3,"north and middle andaman district",9263,759314
+andaman-&-nicobar-islands,2021,3,"south andaman district",55873,1771107
+andaman-&-nicobar-islands,2021,3,"nicobars district",1846,591204
+andaman-&-nicobar-islands,2021,4,"north and middle andaman district",10002,171921
+andaman-&-nicobar-islands,2021,4,"south andaman district",59807,1863037
+andaman-&-nicobar-islands,2021,4,"nicobars district",1971,77952
+andaman-&-nicobar-islands,2022,1,"north and middle andaman district",10720,904869
+andaman-&-nicobar-islands,2022,1,"south andaman district",63487,2368756
+andaman-&-nicobar-islands,2022,1,"nicobars district",2081,573782
+andaman-&-nicobar-islands,2022,2,"north and middle andaman district",11379,963824
+andaman-&-nicobar-islands,2022,2,"south andaman district",66959,3404740
+andaman-&-nicobar-islands,2022,2,"nicobars district",2192,811449
+andaman-&-nicobar-islands,2022,3,"north and middle andaman district",11897,1176567
+andaman-&-nicobar-islands,2022,3,"south andaman district",70445,3607286
+andaman-&-nicobar-islands,2022,3,"nicobars district",2300,1284501
+andaman-&-nicobar-islands,2022,4,"north and middle andaman district",12361,313502
+andaman-&-nicobar-islands,2022,4,"south andaman district",73692,3881359
+andaman-&-nicobar-islands,2022,4,"nicobars district",2389,159232
+andaman-&-nicobar-islands,2023,1,"north and middle andaman district",12941,3103047
+andaman-&-nicobar-islands,2023,1,"south andaman district",77052,5450795
+andaman-&-nicobar-islands,2023,1,"nicobars district",2491,2458822
+andaman-&-nicobar-islands,2023,2,"north and middle andaman district",13600,3174229
+andaman-&-nicobar-islands,2023,2,"south andaman district",80112,6884657
+andaman-&-nicobar-islands,2023,2,"nicobars district",2617,4679790
+andaman-&-nicobar-islands,2023,3,"north and middle andaman district",14216,7130284
+andaman-&-nicobar-islands,2023,3,"south andaman district",83305,5950899
+andaman-&-nicobar-islands,2023,3,"nicobars district",2734,7463896
+andaman-&-nicobar-islands,2023,4,"north and middle andaman district",14813,1869462
+andaman-&-nicobar-islands,2023,4,"south andaman district",86348,7452861
+andaman-&-nicobar-islands,2023,4,"nicobars district",2817,523637
+andaman-&-nicobar-islands,2024,1,"north and middle andaman district",15539,9022450
+andaman-&-nicobar-islands,2024,1,"south andaman district",89907,12147903
+andaman-&-nicobar-islands,2024,1,"nicobars district",2965,7368398
+andaman-&-nicobar-islands,2024,2,"north and middle andaman district",16183,6159746
+andaman-&-nicobar-islands,2024,2,"south andaman district",93421,6749599
+andaman-&-nicobar-islands,2024,2,"nicobars district",3083,3967538
+andaman-&-nicobar-islands,2024,3,"north and middle andaman district",21728,9789799
+andaman-&-nicobar-islands,2024,3,"south andaman district",143250,6545536
+andaman-&-nicobar-islands,2024,3,"nicobar district",7495,3219511
+andaman-&-nicobar-islands,2024,4,"north and middle andaman district",22547,2194985
+andaman-&-nicobar-islands,2024,4,"south andaman district",148543,15101583
+andaman-&-nicobar-islands,2024,4,"nicobar district",7698,1395115
+andhra-pradesh,2018,1,"east godavari district",350356,0
+andhra-pradesh,2018,1,"srikakulam district",143839,0
+andhra-pradesh,2018,1,"visakhapatnam district",497187,0
+andhra-pradesh,2018,1,"prakasam district",189949,0
+andhra-pradesh,2018,1,"anantapur district",241192,0
+andhra-pradesh,2018,1,"kurnool district",240133,0
+andhra-pradesh,2018,1,"guntur district",317065,0
+andhra-pradesh,2018,1,"krishna district",323673,0
+andhra-pradesh,2018,1,"spsr nellore district",194475,0
+andhra-pradesh,2018,1,"vizianagaram district",128905,0
+andhra-pradesh,2018,1,"ysr district",186800,0
+andhra-pradesh,2018,1,"west godavari district",213335,0
+andhra-pradesh,2018,1,"chittoor district",309541,0
+andhra-pradesh,2018,2,"east godavari district",454398,0
+andhra-pradesh,2018,2,"srikakulam district",186913,0
+andhra-pradesh,2018,2,"visakhapatnam district",636052,0
+andhra-pradesh,2018,2,"prakasam district",253458,0
+andhra-pradesh,2018,2,"anantapur district",326383,0
+andhra-pradesh,2018,2,"kurnool district",319313,0
+andhra-pradesh,2018,2,"guntur district",420326,0
+andhra-pradesh,2018,2,"krishna district",431965,0
+andhra-pradesh,2018,2,"spsr nellore district",261049,0
+andhra-pradesh,2018,2,"vizianagaram district",167327,0
+andhra-pradesh,2018,2,"ysr district",248657,0
+andhra-pradesh,2018,2,"west godavari district",282393,0
+andhra-pradesh,2018,2,"chittoor district",414306,0
+andhra-pradesh,2018,3,"east godavari district",558982,0
+andhra-pradesh,2018,3,"srikakulam district",228456,0
+andhra-pradesh,2018,3,"visakhapatnam district",769096,0
+andhra-pradesh,2018,3,"prakasam district",314899,0
+andhra-pradesh,2018,3,"anantapur district",405855,0
+andhra-pradesh,2018,3,"kurnool district",394311,0
+andhra-pradesh,2018,3,"guntur district",518931,0
+andhra-pradesh,2018,3,"krishna district",537086,0
+andhra-pradesh,2018,3,"spsr nellore district",322446,0
+andhra-pradesh,2018,3,"vizianagaram district",203655,0
+andhra-pradesh,2018,3,"ysr district",308391,0
+andhra-pradesh,2018,3,"west godavari district",349782,0
+andhra-pradesh,2018,3,"chittoor district",515727,0
+andhra-pradesh,2018,4,"east godavari district",694455,0
+andhra-pradesh,2018,4,"srikakulam district",284874,0
+andhra-pradesh,2018,4,"visakhapatnam district",978288,0
+andhra-pradesh,2018,4,"prakasam district",394962,0
+andhra-pradesh,2018,4,"anantapur district",510892,0
+andhra-pradesh,2018,4,"kurnool district",498582,0
+andhra-pradesh,2018,4,"guntur district",659552,0
+andhra-pradesh,2018,4,"krishna district",682479,0
+andhra-pradesh,2018,4,"spsr nellore district",407495,0
+andhra-pradesh,2018,4,"vizianagaram district",257824,0
+andhra-pradesh,2018,4,"ysr district",387058,0
+andhra-pradesh,2018,4,"west godavari district",435668,0
+andhra-pradesh,2018,4,"chittoor district",665280,0
+andhra-pradesh,2019,1,"east godavari district",839277,0
+andhra-pradesh,2019,1,"srikakulam district",345775,0
+andhra-pradesh,2019,1,"visakhapatnam district",1174517,0
+andhra-pradesh,2019,1,"prakasam district",474260,0
+andhra-pradesh,2019,1,"anantapur district",612162,0
+andhra-pradesh,2019,1,"kurnool district",599422,0
+andhra-pradesh,2019,1,"guntur district",802394,0
+andhra-pradesh,2019,1,"krishna district",833694,0
+andhra-pradesh,2019,1,"spsr nellore district",491908,0
+andhra-pradesh,2019,1,"vizianagaram district",313334,0
+andhra-pradesh,2019,1,"ysr district",460590,0
+andhra-pradesh,2019,1,"west godavari district",523372,0
+andhra-pradesh,2019,1,"chittoor district",812314,0
+andhra-pradesh,2019,2,"east godavari district",945181,7156762
+andhra-pradesh,2019,2,"srikakulam district",392764,3230330
+andhra-pradesh,2019,2,"visakhapatnam district",1318740,13681907
+andhra-pradesh,2019,2,"prakasam district",539462,4488365
+andhra-pradesh,2019,2,"anantapur district",695114,6056591
+andhra-pradesh,2019,2,"kurnool district",680118,6240480
+andhra-pradesh,2019,2,"guntur district",915256,7268875
+andhra-pradesh,2019,2,"krishna district",952300,7822632
+andhra-pradesh,2019,2,"spsr nellore district",558303,4774473
+andhra-pradesh,2019,2,"vizianagaram district",355058,3541678
+andhra-pradesh,2019,2,"ysr district",519031,4345848
+andhra-pradesh,2019,2,"west godavari district",592185,3853094
+andhra-pradesh,2019,2,"chittoor district",925491,8914216
+andhra-pradesh,2019,3,"east godavari district",1057167,28275322
+andhra-pradesh,2019,3,"srikakulam district",437939,11813195
+andhra-pradesh,2019,3,"visakhapatnam district",1460464,54836001
+andhra-pradesh,2019,3,"prakasam district",598568,16267041
+andhra-pradesh,2019,3,"anantapur district",773656,22845084
+andhra-pradesh,2019,3,"kurnool district",755024,22827473
+andhra-pradesh,2019,3,"guntur district",1026418,28477132
+andhra-pradesh,2019,3,"krishna district",1066546,30077671
+andhra-pradesh,2019,3,"spsr nellore district",619592,17768733
+andhra-pradesh,2019,3,"vizianagaram district",394375,13065845
+andhra-pradesh,2019,3,"ysr district",574109,15833900
+andhra-pradesh,2019,3,"west godavari district",662102,14227407
+andhra-pradesh,2019,3,"chittoor district",1032733,34638738
+andhra-pradesh,2019,4,"east godavari district",1195228,38299189
+andhra-pradesh,2019,4,"srikakulam district",496266,16353822
+andhra-pradesh,2019,4,"visakhapatnam district",1620235,70749983
+andhra-pradesh,2019,4,"prakasam district",673522,21639748
+andhra-pradesh,2019,4,"anantapur district",873033,30278539
+andhra-pradesh,2019,4,"kurnool district",846885,29676997
+andhra-pradesh,2019,4,"guntur district",1158708,37846179
+andhra-pradesh,2019,4,"krishna district",1199971,39407473
+andhra-pradesh,2019,4,"spsr nellore district",697154,23608360
+andhra-pradesh,2019,4,"vizianagaram district",443810,17515311
+andhra-pradesh,2019,4,"ysr district",646642,21543798
+andhra-pradesh,2019,4,"west godavari district",750078,19393528
+andhra-pradesh,2019,4,"chittoor district",1156351,44888591
+andhra-pradesh,2020,1,"east godavari district",1329664,46142746
+andhra-pradesh,2020,1,"srikakulam district",552007,20975989
+andhra-pradesh,2020,1,"visakhapatnam district",1763581,77558624
+andhra-pradesh,2020,1,"prakasam district",748655,26870693
+andhra-pradesh,2020,1,"anantapur district",971850,36900103
+andhra-pradesh,2020,1,"kurnool district",936293,34198350
+andhra-pradesh,2020,1,"guntur district",1289678,45282758
+andhra-pradesh,2020,1,"krishna district",1331602,46079408
+andhra-pradesh,2020,1,"spsr nellore district",775440,28879364
+andhra-pradesh,2020,1,"vizianagaram district",490683,21562104
+andhra-pradesh,2020,1,"ysr district",717865,26166193
+andhra-pradesh,2020,1,"west godavari district",843835,24542868
+andhra-pradesh,2020,1,"chittoor district",1270907,51354573
+andhra-pradesh,2020,2,"east godavari district",1459116,45884498
+andhra-pradesh,2020,2,"srikakulam district",608002,23808009
+andhra-pradesh,2020,2,"visakhapatnam district",1904719,69684456
+andhra-pradesh,2020,2,"prakasam district",830709,32255276
+andhra-pradesh,2020,2,"anantapur district",1076953,39704703
+andhra-pradesh,2020,2,"kurnool district",1035093,36268390
+andhra-pradesh,2020,2,"guntur district",1426271,44267596
+andhra-pradesh,2020,2,"krishna district",1459041,41234166
+andhra-pradesh,2020,2,"spsr nellore district",854459,30816403
+andhra-pradesh,2020,2,"vizianagaram district",537798,24370380
+andhra-pradesh,2020,2,"ysr district",796769,29644037
+andhra-pradesh,2020,2,"west godavari district",944829,26583613
+andhra-pradesh,2020,2,"chittoor district",1385916,49820171
+andhra-pradesh,2020,3,"east godavari district",1601940,64292857
+andhra-pradesh,2020,3,"srikakulam district",667858,31794753
+andhra-pradesh,2020,3,"visakhapatnam district",2058346,102589371
+andhra-pradesh,2020,3,"prakasam district",915240,44970519
+andhra-pradesh,2020,3,"anantapur district",1186851,55714787
+andhra-pradesh,2020,3,"kurnool district",1132240,49164718
+andhra-pradesh,2020,3,"guntur district",1567595,62427501
+andhra-pradesh,2020,3,"krishna district",1599289,61028114
+andhra-pradesh,2020,3,"spsr nellore district",937176,43951448
+andhra-pradesh,2020,3,"vizianagaram district",587784,31199437
+andhra-pradesh,2020,3,"ysr district",877909,41578067
+andhra-pradesh,2020,3,"west godavari district",1053674,38126238
+andhra-pradesh,2020,3,"chittoor district",1506503,69462572
+andhra-pradesh,2020,4,"east godavari district",1746280,82605352
+andhra-pradesh,2020,4,"srikakulam district",726761,36770992
+andhra-pradesh,2020,4,"visakhapatnam district",2209658,124730170
+andhra-pradesh,2020,4,"prakasam district",999462,52839846
+andhra-pradesh,2020,4,"anantapur district",1295872,69562398
+andhra-pradesh,2020,4,"kurnool district",1230466,60615045
+andhra-pradesh,2020,4,"guntur district",1712940,81291172
+andhra-pradesh,2020,4,"krishna district",1744028,81787771
+andhra-pradesh,2020,4,"spsr nellore district",1022944,54765443
+andhra-pradesh,2020,4,"vizianagaram district",634462,35110885
+andhra-pradesh,2020,4,"ysr district",959182,49596303
+andhra-pradesh,2020,4,"west godavari district",1163179,51170162
+andhra-pradesh,2020,4,"chittoor district",1631331,88232999
+andhra-pradesh,2021,1,"east godavari district",1878769,91478749
+andhra-pradesh,2021,1,"srikakulam district",782604,40590058
+andhra-pradesh,2021,1,"visakhapatnam district",2368081,135908324
+andhra-pradesh,2021,1,"prakasam district",1075936,56911479
+andhra-pradesh,2021,1,"anantapur district",1394849,73375049
+andhra-pradesh,2021,1,"kurnool district",1323411,65326230
+andhra-pradesh,2021,1,"guntur district",1843237,92731167
+andhra-pradesh,2021,1,"krishna district",1876458,92941553
+andhra-pradesh,2021,1,"spsr nellore district",1100541,60691988
+andhra-pradesh,2021,1,"vizianagaram district",681621,37752539
+andhra-pradesh,2021,1,"ysr district",1032689,53525815
+andhra-pradesh,2021,1,"west godavari district",1254117,57392671
+andhra-pradesh,2021,1,"chittoor district",1751420,99083825
+andhra-pradesh,2021,2,"east godavari district",2006272,84705076
+andhra-pradesh,2021,2,"srikakulam district",837958,43740255
+andhra-pradesh,2021,2,"visakhapatnam district",2526830,114313154
+andhra-pradesh,2021,2,"prakasam district",1151232,76850749
+andhra-pradesh,2021,2,"anantapur district",1492738,104568606
+andhra-pradesh,2021,2,"kurnool district",1415585,81894678
+andhra-pradesh,2021,2,"guntur district",1968681,88248064
+andhra-pradesh,2021,2,"krishna district",2002662,85771678
+andhra-pradesh,2021,2,"spsr nellore district",1176334,74049216
+andhra-pradesh,2021,2,"vizianagaram district",729509,42684475
+andhra-pradesh,2021,2,"ysr district",1103004,72255265
+andhra-pradesh,2021,2,"west godavari district",1339377,65118788
+andhra-pradesh,2021,2,"chittoor district",1870723,110505432
+andhra-pradesh,2021,3,"east godavari district",2150622,103626560
+andhra-pradesh,2021,3,"srikakulam district",902008,48622126
+andhra-pradesh,2021,3,"visakhapatnam district",2707931,139540800
+andhra-pradesh,2021,3,"prakasam district",1239147,91533813
+andhra-pradesh,2021,3,"anantapur district",1606735,124985545
+andhra-pradesh,2021,3,"kurnool district",1522196,101210508
+andhra-pradesh,2021,3,"guntur district",2110878,106621413
+andhra-pradesh,2021,3,"krishna district",2145423,104358295
+andhra-pradesh,2021,3,"spsr nellore district",1263550,90102349
+andhra-pradesh,2021,3,"vizianagaram district",784444,46277311
+andhra-pradesh,2021,3,"ysr district",1183377,86369956
+andhra-pradesh,2021,3,"west godavari district",1436576,80244808
+andhra-pradesh,2021,3,"chittoor district",2007011,135043395
+andhra-pradesh,2021,4,"east godavari district",2294347,142536856
+andhra-pradesh,2021,4,"srikakulam district",965335,61654215
+andhra-pradesh,2021,4,"visakhapatnam district",2888774,188757640
+andhra-pradesh,2021,4,"prakasam district",1325728,86410317
+andhra-pradesh,2021,4,"anantapur district",1719437,120768682
+andhra-pradesh,2021,4,"kurnool district",1628242,97379271
+andhra-pradesh,2021,4,"guntur district",2252443,130920743
+andhra-pradesh,2021,4,"krishna district",2288148,134436469
+andhra-pradesh,2021,4,"spsr nellore district",1349290,90814672
+andhra-pradesh,2021,4,"vizianagaram district",839606,56101822
+andhra-pradesh,2021,4,"ysr district",1262963,83534122
+andhra-pradesh,2021,4,"west godavari district",1532898,100007280
+andhra-pradesh,2021,4,"chittoor district",2141818,154395512
+andhra-pradesh,2022,1,"east godavari district",2432305,87134562
+andhra-pradesh,2022,1,"srikakulam district",1027283,46691467
+andhra-pradesh,2022,1,"visakhapatnam district",3061324,88803090
+andhra-pradesh,2022,1,"prakasam district",1408929,104851997
+andhra-pradesh,2022,1,"anantapur district",1827094,155792533
+andhra-pradesh,2022,1,"kurnool district",1729513,119653214
+andhra-pradesh,2022,1,"guntur district",2387051,88844052
+andhra-pradesh,2022,1,"krishna district",2423373,85871644
+andhra-pradesh,2022,1,"spsr nellore district",1431664,101671767
+andhra-pradesh,2022,1,"vizianagaram district",892889,44804002
+andhra-pradesh,2022,1,"ysr district",1339782,98878499
+andhra-pradesh,2022,1,"west godavari district",1626039,87642475
+andhra-pradesh,2022,1,"chittoor district",2270705,144146671
+andhra-pradesh,2022,2,"east godavari district",2564165,93383888
+andhra-pradesh,2022,2,"srikakulam district",1086164,51087942
+andhra-pradesh,2022,2,"visakhapatnam district",3226029,93552701
+andhra-pradesh,2022,2,"prakasam district",1487589,108172758
+andhra-pradesh,2022,2,"anantapur district",1928213,181499094
+andhra-pradesh,2022,2,"kurnool district",1825280,136447455
+andhra-pradesh,2022,2,"guntur district",2514794,91997209
+andhra-pradesh,2022,2,"krishna district",2552107,95341487
+andhra-pradesh,2022,2,"spsr nellore district",1509927,108755384
+andhra-pradesh,2022,2,"vizianagaram district",943242,50230853
+andhra-pradesh,2022,2,"ysr district",1412848,106157470
+andhra-pradesh,2022,2,"west godavari district",1714357,103338893
+andhra-pradesh,2022,2,"chittoor district",2392549,158771722
+andhra-pradesh,2022,3,"east godavari district",2702234,85780890
+andhra-pradesh,2022,3,"srikakulam district",1147016,46323107
+andhra-pradesh,2022,3,"visakhapatnam district",3397514,87888969
+andhra-pradesh,2022,3,"prakasam district",1567520,114185009
+andhra-pradesh,2022,3,"anantapur district",2030824,181038520
+andhra-pradesh,2022,3,"kurnool district",1924127,143715547
+andhra-pradesh,2022,3,"guntur district",2647100,91146114
+andhra-pradesh,2022,3,"krishna district",2685215,86220959
+andhra-pradesh,2022,3,"spsr nellore district",1588875,105928407
+andhra-pradesh,2022,3,"vizianagaram district",995141,46767889
+andhra-pradesh,2022,3,"ysr district",1487140,107976611
+andhra-pradesh,2022,3,"west godavari district",1805967,97509407
+andhra-pradesh,2022,3,"chittoor district",2517657,162524274
+andhra-pradesh,2022,4,"east godavari district",2835087,173720880
+andhra-pradesh,2022,4,"srikakulam district",1204785,72666058
+andhra-pradesh,2022,4,"visakhapatnam district",3566854,208604256
+andhra-pradesh,2022,4,"prakasam district",1642503,94432083
+andhra-pradesh,2022,4,"anantapur district",2128066,136685634
+andhra-pradesh,2022,4,"kurnool district",2018290,105333688
+andhra-pradesh,2022,4,"guntur district",2774365,144773169
+andhra-pradesh,2022,4,"krishna district",2813645,156902257
+andhra-pradesh,2022,4,"spsr nellore district",1663684,103101986
+andhra-pradesh,2022,4,"vizianagaram district",1044490,64406405
+andhra-pradesh,2022,4,"ysr district",1556901,93975668
+andhra-pradesh,2022,4,"west godavari district",1893310,129116752
+andhra-pradesh,2022,4,"chittoor district",2636036,189655966
+andhra-pradesh,2023,1,"east godavari district",2965296,98931582
+andhra-pradesh,2023,1,"srikakulam district",1263204,48743038
+andhra-pradesh,2023,1,"visakhapatnam district",3732544,107253885
+andhra-pradesh,2023,1,"prakasam district",1719910,112502189
+andhra-pradesh,2023,1,"anantapur district",2228505,177793392
+andhra-pradesh,2023,1,"kurnool district",2114023,149581663
+andhra-pradesh,2023,1,"guntur district",2900895,103514892
+andhra-pradesh,2023,1,"krishna district",2941585,98727644
+andhra-pradesh,2023,1,"spsr nellore district",1740294,111993275
+andhra-pradesh,2023,1,"vizianagaram district",1094782,55519223
+andhra-pradesh,2023,1,"ysr district",1628595,109842928
+andhra-pradesh,2023,1,"west godavari district",1980446,102965151
+andhra-pradesh,2023,1,"chittoor district",2755784,164669558
+andhra-pradesh,2023,2,"east godavari district",3082893,101375784
+andhra-pradesh,2023,2,"srikakulam district",1317771,48040159
+andhra-pradesh,2023,2,"visakhapatnam district",3877504,115516314
+andhra-pradesh,2023,2,"prakasam district",1792637,104288559
+andhra-pradesh,2023,2,"anantapur district",2323796,164437247
+andhra-pradesh,2023,2,"kurnool district",2202517,142843895
+andhra-pradesh,2023,2,"guntur district",3014655,97915941
+andhra-pradesh,2023,2,"krishna district",3054956,99723659
+andhra-pradesh,2023,2,"spsr nellore district",1811781,113350865
+andhra-pradesh,2023,2,"vizianagaram district",1141578,55405616
+andhra-pradesh,2023,2,"ysr district",1694843,98586928
+andhra-pradesh,2023,2,"west godavari district",2059880,116005083
+andhra-pradesh,2023,2,"chittoor district",2865250,170462384
+andhra-pradesh,2023,3,"east godavari district",3211557,83823834
+andhra-pradesh,2023,3,"srikakulam district",1375950,44064462
+andhra-pradesh,2023,3,"visakhapatnam district",4035323,116087299
+andhra-pradesh,2023,3,"prakasam district",1868997,94303883
+andhra-pradesh,2023,3,"anantapur district",2421293,152875757
+andhra-pradesh,2023,3,"kurnool district",2295754,124493256
+andhra-pradesh,2023,3,"guntur district",3137289,71855007
+andhra-pradesh,2023,3,"krishna district",3177643,73280755
+andhra-pradesh,2023,3,"spsr nellore district",1887005,73583227
+andhra-pradesh,2023,3,"vizianagaram district",1190571,41978556
+andhra-pradesh,2023,3,"ysr district",1764648,78787151
+andhra-pradesh,2023,3,"west godavari district",2146530,73274852
+andhra-pradesh,2023,3,"chittoor district",2981337,129032458
+andhra-pradesh,2023,4,"east godavari district",3329036,143550882
+andhra-pradesh,2023,4,"srikakulam district",1430226,48122562
+andhra-pradesh,2023,4,"visakhapatnam district",4180797,163404880
+andhra-pradesh,2023,4,"prakasam district",1939979,69411660
+andhra-pradesh,2023,4,"anantapur district",2512744,123617506
+andhra-pradesh,2023,4,"kurnool district",2383042,86461750
+andhra-pradesh,2023,4,"guntur district",3251121,132403935
+andhra-pradesh,2023,4,"krishna district",3291814,121925706
+andhra-pradesh,2023,4,"spsr nellore district",1956706,78993397
+andhra-pradesh,2023,4,"vizianagaram district",1236735,42889385
+andhra-pradesh,2023,4,"ysr district",1829864,69721701
+andhra-pradesh,2023,4,"west godavari district",2227243,86297777
+andhra-pradesh,2023,4,"chittoor district",3089391,143201818
+andhra-pradesh,2024,1,"east godavari district",3465605,70700482
+andhra-pradesh,2024,1,"srikakulam district",1492803,25384857
+andhra-pradesh,2024,1,"visakhapatnam district",4349723,183432261
+andhra-pradesh,2024,1,"prakasam district",2022873,57134465
+andhra-pradesh,2024,1,"anantapur district",2619335,121235223
+andhra-pradesh,2024,1,"kurnool district",2484451,115346032
+andhra-pradesh,2024,1,"guntur district",3382454,82606973
+andhra-pradesh,2024,1,"krishna district",3423998,59203320
+andhra-pradesh,2024,1,"spsr nellore district",2037823,73245409
+andhra-pradesh,2024,1,"vizianagaram district",1289838,45744793
+andhra-pradesh,2024,1,"ysr district",1905157,75306755
+andhra-pradesh,2024,1,"west godavari district",2319971,59978637
+andhra-pradesh,2024,1,"chittoor district",3214678,110865896
+andhra-pradesh,2024,2,"east godavari district",3597667,70529565
+andhra-pradesh,2024,2,"srikakulam district",1551988,27503934
+andhra-pradesh,2024,2,"visakhapatnam district",4515738,221069497
+andhra-pradesh,2024,2,"prakasam district",2099814,61269760
+andhra-pradesh,2024,2,"anantapur district",2720387,120912449
+andhra-pradesh,2024,2,"kurnool district",2580812,93496809
+andhra-pradesh,2024,2,"guntur district",3508719,56640987
+andhra-pradesh,2024,2,"krishna district",3552494,52309743
+andhra-pradesh,2024,2,"spsr nellore district",2114324,69447820
+andhra-pradesh,2024,2,"vizianagaram district",1340999,48299033
+andhra-pradesh,2024,2,"ysr district",1976516,59839679
+andhra-pradesh,2024,2,"west godavari district",2409237,45912661
+andhra-pradesh,2024,2,"chittoor district",3335024,134049145
+andhra-pradesh,2024,3,"east godavari district",1167720,59935362
+andhra-pradesh,2024,3,"srikakulam district",971036,17599044
+andhra-pradesh,2024,3,"visakhapatnam district",2487971,32301176
+andhra-pradesh,2024,3,"sri potti sriramulu nellore district",1446214,86081128
+andhra-pradesh,2024,3,"kurnool district",1209238,116758872
+andhra-pradesh,2024,3,"guntur district",1695537,23423512
+andhra-pradesh,2024,3,"krishna district",800410,23684301
+andhra-pradesh,2024,3,"annamayya district",920716,87262138
+andhra-pradesh,2024,3,"ananthapuramu district",1320379,174845086
+andhra-pradesh,2024,3,"vizianagaram district",897899,32261276
+andhra-pradesh,2024,3,"tirupati district",1870882,40985457
+andhra-pradesh,2024,3,"alluri sitharama raju district",292488,178406258
+andhra-pradesh,2024,3,"nandyal district",900737,72969773
+andhra-pradesh,2024,3,"sri sathyasai district",883584,98352753
+andhra-pradesh,2024,3,"palnadu district",963840,76909163
+andhra-pradesh,2024,3,"prakasam district",1166571,98216415
+andhra-pradesh,2024,3,"parvathipuram manyam district",301205,30111342
+andhra-pradesh,2024,3,"dr br ambedkar konaseema district",788204,48563272
+andhra-pradesh,2024,3,"bapatla district",703301,39373168
+andhra-pradesh,2024,3,"ntr district",1953695,47433380
+andhra-pradesh,2024,3,"kakinada district",1293864,26508076
+andhra-pradesh,2024,3,"anakapalli district",860834,29977574
+andhra-pradesh,2024,3,"ysr district",1209820,71588398
+andhra-pradesh,2024,3,"west godavari district",1017107,18906686
+andhra-pradesh,2024,3,"eluru district",1066558,69927623
+andhra-pradesh,2024,3,"chittoor district",955493,58045203
+andhra-pradesh,2024,4,"east godavari district",1202680,70992699
+andhra-pradesh,2024,4,"srikakulam district",1000848,50503455
+andhra-pradesh,2024,4,"visakhapatnam district",2566650,135700425
+andhra-pradesh,2024,4,"sri potti sriramulu nellore district",1485904,95296811
+andhra-pradesh,2024,4,"kurnool district",1243710,69757232
+andhra-pradesh,2024,4,"guntur district",1749346,93254969
+andhra-pradesh,2024,4,"krishna district",821763,43757281
+andhra-pradesh,2024,4,"annamayya district",945246,67118152
+andhra-pradesh,2024,4,"ananthapuramu district",1358486,105608573
+andhra-pradesh,2024,4,"vizianagaram district",922107,53108897
+andhra-pradesh,2024,4,"tirupati district",1927263,120835456
+andhra-pradesh,2024,4,"alluri sitharama raju district",302981,32628930
+andhra-pradesh,2024,4,"nandyal district",924312,52595448
+andhra-pradesh,2024,4,"sri sathyasai district",905055,105894571
+andhra-pradesh,2024,4,"palnadu district",988882,59206517
+andhra-pradesh,2024,4,"prakasam district",1199895,69401816
+andhra-pradesh,2024,4,"parvathipuram manyam district",308844,15107951
+andhra-pradesh,2024,4,"dr br ambedkar konaseema district",809552,37840561
+andhra-pradesh,2024,4,"bapatla district",721054,42884719
+andhra-pradesh,2024,4,"ntr district",2010922,127291705
+andhra-pradesh,2024,4,"kakinada district",1333623,72916150
+andhra-pradesh,2024,4,"anakapalli district",883659,74150140
+andhra-pradesh,2024,4,"ysr district",1242179,77109426
+andhra-pradesh,2024,4,"west godavari district",1048900,63906091
+andhra-pradesh,2024,4,"eluru district",1099358,61712408
+andhra-pradesh,2024,4,"chittoor district",981212,67779596
+arunachal-pradesh,2018,1,"lower subansiri district",498,0
+arunachal-pradesh,2018,1,"tirap district",557,0
+arunachal-pradesh,2018,1,"papum pare district",7649,0
+arunachal-pradesh,2018,1,"anjaw district",278,0
+arunachal-pradesh,2018,1,"lower siang district",270,0
+arunachal-pradesh,2018,1,"dibang valley district",66,0
+arunachal-pradesh,2018,1,"west kameng district",2202,0
+arunachal-pradesh,2018,1,"shi yomi district",49,0
+arunachal-pradesh,2018,1,"east kameng district",222,0
+arunachal-pradesh,2018,1,"lohit district",1207,0
+arunachal-pradesh,2018,1,"lepa rada district",210,0
+arunachal-pradesh,2018,1,"lower dibang valley district",601,0
+arunachal-pradesh,2018,1,"longding district",256,0
+arunachal-pradesh,2018,1,"west siang district",846,0
+arunachal-pradesh,2018,1,"kamle district",22,0
+arunachal-pradesh,2018,1,"upper siang district",301,0
+arunachal-pradesh,2018,1,"kurung kumey district",97,0
+arunachal-pradesh,2018,1,"siang district",192,0
+arunachal-pradesh,2018,1,"kra daadi district",88,0
+arunachal-pradesh,2018,1,"changlang district",1208,0
+arunachal-pradesh,2018,1,"pakke kessang district",39,0
+arunachal-pradesh,2018,1,"east siang district",1803,0
+arunachal-pradesh,2018,1,"upper subansiri district",572,0
+arunachal-pradesh,2018,1,"tawang district",1525,0
+arunachal-pradesh,2018,1,"namsai district",737,0
+arunachal-pradesh,2018,2,"lower subansiri district",724,0
+arunachal-pradesh,2018,2,"tirap district",856,0
+arunachal-pradesh,2018,2,"papum pare district",11418,0
+arunachal-pradesh,2018,2,"anjaw district",410,0
+arunachal-pradesh,2018,2,"lower siang district",494,0
+arunachal-pradesh,2018,2,"dibang valley district",112,0
+arunachal-pradesh,2018,2,"west kameng district",3442,0
+arunachal-pradesh,2018,2,"shi yomi district",80,0
+arunachal-pradesh,2018,2,"east kameng district",343,0
+arunachal-pradesh,2018,2,"lohit district",1898,0
+arunachal-pradesh,2018,2,"lepa rada district",318,0
+arunachal-pradesh,2018,2,"lower dibang valley district",893,0
+arunachal-pradesh,2018,2,"longding district",412,0
+arunachal-pradesh,2018,2,"west siang district",1224,0
+arunachal-pradesh,2018,2,"kamle district",37,0
+arunachal-pradesh,2018,2,"upper siang district",481,0
+arunachal-pradesh,2018,2,"kurung kumey district",153,0
+arunachal-pradesh,2018,2,"siang district",293,0
+arunachal-pradesh,2018,2,"kra daadi district",144,0
+arunachal-pradesh,2018,2,"changlang district",2014,0
+arunachal-pradesh,2018,2,"pakke kessang district",66,0
+arunachal-pradesh,2018,2,"east siang district",2646,0
+arunachal-pradesh,2018,2,"upper subansiri district",883,0
+arunachal-pradesh,2018,2,"tawang district",2266,0
+arunachal-pradesh,2018,2,"namsai district",1276,0
+arunachal-pradesh,2018,3,"lower subansiri district",1033,0
+arunachal-pradesh,2018,3,"tirap district",1226,0
+arunachal-pradesh,2018,3,"papum pare district",16009,0
+arunachal-pradesh,2018,3,"anjaw district",542,0
+arunachal-pradesh,2018,3,"lower siang district",717,0
+arunachal-pradesh,2018,3,"dibang valley district",145,0
+arunachal-pradesh,2018,3,"west kameng district",4765,0
+arunachal-pradesh,2018,3,"shi yomi district",118,0
+arunachal-pradesh,2018,3,"east kameng district",521,0
+arunachal-pradesh,2018,3,"lohit district",2612,0
+arunachal-pradesh,2018,3,"lepa rada district",431,0
+arunachal-pradesh,2018,3,"lower dibang valley district",1286,0
+arunachal-pradesh,2018,3,"longding district",644,0
+arunachal-pradesh,2018,3,"west siang district",1652,0
+arunachal-pradesh,2018,3,"kamle district",65,0
+arunachal-pradesh,2018,3,"upper siang district",646,0
+arunachal-pradesh,2018,3,"kurung kumey district",222,0
+arunachal-pradesh,2018,3,"siang district",373,0
+arunachal-pradesh,2018,3,"kra daadi district",190,0
+arunachal-pradesh,2018,3,"changlang district",2889,0
+arunachal-pradesh,2018,3,"pakke kessang district",103,0
+arunachal-pradesh,2018,3,"east siang district",3590,0
+arunachal-pradesh,2018,3,"upper subansiri district",1169,0
+arunachal-pradesh,2018,3,"tawang district",3112,0
+arunachal-pradesh,2018,3,"namsai district",1862,0
+arunachal-pradesh,2018,4,"lower subansiri district",1459,0
+arunachal-pradesh,2018,4,"tirap district",1684,0
+arunachal-pradesh,2018,4,"papum pare district",21342,0
+arunachal-pradesh,2018,4,"anjaw district",744,0
+arunachal-pradesh,2018,4,"lower siang district",936,0
+arunachal-pradesh,2018,4,"dibang valley district",178,0
+arunachal-pradesh,2018,4,"west kameng district",6492,0
+arunachal-pradesh,2018,4,"shi yomi district",144,0
+arunachal-pradesh,2018,4,"east kameng district",691,0
+arunachal-pradesh,2018,4,"lohit district",3588,0
+arunachal-pradesh,2018,4,"lepa rada district",548,0
+arunachal-pradesh,2018,4,"lower dibang valley district",1827,0
+arunachal-pradesh,2018,4,"longding district",923,0
+arunachal-pradesh,2018,4,"west siang district",2117,0
+arunachal-pradesh,2018,4,"kamle district",109,0
+arunachal-pradesh,2018,4,"upper siang district",868,0
+arunachal-pradesh,2018,4,"kurung kumey district",321,0
+arunachal-pradesh,2018,4,"siang district",483,0
+arunachal-pradesh,2018,4,"kra daadi district",255,0
+arunachal-pradesh,2018,4,"changlang district",4036,0
+arunachal-pradesh,2018,4,"pakke kessang district",138,0
+arunachal-pradesh,2018,4,"east siang district",4813,0
+arunachal-pradesh,2018,4,"upper subansiri district",1576,0
+arunachal-pradesh,2018,4,"tawang district",4085,0
+arunachal-pradesh,2018,4,"namsai district",2495,0
+arunachal-pradesh,2019,1,"lower subansiri district",1879,0
+arunachal-pradesh,2019,1,"tirap district",2082,0
+arunachal-pradesh,2019,1,"papum pare district",26298,0
+arunachal-pradesh,2019,1,"anjaw district",934,0
+arunachal-pradesh,2019,1,"lower siang district",1123,0
+arunachal-pradesh,2019,1,"dibang valley district",211,0
+arunachal-pradesh,2019,1,"west kameng district",8115,0
+arunachal-pradesh,2019,1,"shi yomi district",186,0
+arunachal-pradesh,2019,1,"east kameng district",876,0
+arunachal-pradesh,2019,1,"lohit district",4416,0
+arunachal-pradesh,2019,1,"lepa rada district",710,0
+arunachal-pradesh,2019,1,"lower dibang valley district",2314,0
+arunachal-pradesh,2019,1,"longding district",1152,0
+arunachal-pradesh,2019,1,"west siang district",2656,0
+arunachal-pradesh,2019,1,"kamle district",141,0
+arunachal-pradesh,2019,1,"upper siang district",1125,0
+arunachal-pradesh,2019,1,"kurung kumey district",385,0
+arunachal-pradesh,2019,1,"siang district",651,0
+arunachal-pradesh,2019,1,"kra daadi district",350,0
+arunachal-pradesh,2019,1,"changlang district",5210,0
+arunachal-pradesh,2019,1,"pakke kessang district",162,0
+arunachal-pradesh,2019,1,"east siang district",5899,0
+arunachal-pradesh,2019,1,"upper subansiri district",1906,0
+arunachal-pradesh,2019,1,"tawang district",5023,0
+arunachal-pradesh,2019,1,"namsai district",3153,0
+arunachal-pradesh,2019,2,"lower subansiri district",2463,11644
+arunachal-pradesh,2019,2,"tirap district",2697,12779
+arunachal-pradesh,2019,2,"papum pare district",32800,163673
+arunachal-pradesh,2019,2,"anjaw district",1175,4993
+arunachal-pradesh,2019,2,"lower siang district",1457,7737
+arunachal-pradesh,2019,2,"dibang valley district",241,258
+arunachal-pradesh,2019,2,"west kameng district",9782,73944
+arunachal-pradesh,2019,2,"shi yomi district",225,24
+arunachal-pradesh,2019,2,"east kameng district",1075,4146
+arunachal-pradesh,2019,2,"lohit district",5485,32550
+arunachal-pradesh,2019,2,"lepa rada district",903,4196
+arunachal-pradesh,2019,2,"lower dibang valley district",2842,12669
+arunachal-pradesh,2019,2,"longding district",1420,13256
+arunachal-pradesh,2019,2,"west siang district",3393,15972
+arunachal-pradesh,2019,2,"kamle district",212,972
+arunachal-pradesh,2019,2,"upper siang district",1372,2710
+arunachal-pradesh,2019,2,"kurung kumey district",481,2171
+arunachal-pradesh,2019,2,"siang district",831,3209
+arunachal-pradesh,2019,2,"kra daadi district",440,2639
+arunachal-pradesh,2019,2,"changlang district",6884,37725
+arunachal-pradesh,2019,2,"pakke kessang district",211,1237
+arunachal-pradesh,2019,2,"east siang district",7319,34596
+arunachal-pradesh,2019,2,"upper subansiri district",2355,9043
+arunachal-pradesh,2019,2,"tawang district",5908,32103
+arunachal-pradesh,2019,2,"namsai district",3914,18627
+arunachal-pradesh,2019,3,"lower subansiri district",2928,42877
+arunachal-pradesh,2019,3,"tirap district",3099,49222
+arunachal-pradesh,2019,3,"papum pare district",38845,582435
+arunachal-pradesh,2019,3,"anjaw district",1358,19509
+arunachal-pradesh,2019,3,"lower siang district",1689,25736
+arunachal-pradesh,2019,3,"dibang valley district",271,1436
+arunachal-pradesh,2019,3,"west kameng district",11186,260068
+arunachal-pradesh,2019,3,"shi yomi district",239,158
+arunachal-pradesh,2019,3,"east kameng district",1304,19974
+arunachal-pradesh,2019,3,"lohit district",6421,112322
+arunachal-pradesh,2019,3,"lepa rada district",1064,13695
+arunachal-pradesh,2019,3,"lower dibang valley district",3398,43057
+arunachal-pradesh,2019,3,"longding district",1634,46571
+arunachal-pradesh,2019,3,"west siang district",4101,64241
+arunachal-pradesh,2019,3,"kamle district",258,3686
+arunachal-pradesh,2019,3,"upper siang district",1486,8960
+arunachal-pradesh,2019,3,"kurung kumey district",572,8396
+arunachal-pradesh,2019,3,"siang district",948,13437
+arunachal-pradesh,2019,3,"kra daadi district",524,11363
+arunachal-pradesh,2019,3,"changlang district",8145,139098
+arunachal-pradesh,2019,3,"pakke kessang district",244,5099
+arunachal-pradesh,2019,3,"east siang district",8571,118071
+arunachal-pradesh,2019,3,"upper subansiri district",2748,35114
+arunachal-pradesh,2019,3,"tawang district",6553,114907
+arunachal-pradesh,2019,3,"namsai district",4563,72268
+arunachal-pradesh,2019,4,"lower subansiri district",3564,53396
+arunachal-pradesh,2019,4,"tirap district",3605,67097
+arunachal-pradesh,2019,4,"papum pare district",44746,670934
+arunachal-pradesh,2019,4,"anjaw district",1564,23729
+arunachal-pradesh,2019,4,"lower siang district",1921,28156
+arunachal-pradesh,2019,4,"dibang valley district",289,1738
+arunachal-pradesh,2019,4,"west kameng district",12562,313584
+arunachal-pradesh,2019,4,"shi yomi district",266,880
+arunachal-pradesh,2019,4,"east kameng district",1623,27850
+arunachal-pradesh,2019,4,"lohit district",7386,129353
+arunachal-pradesh,2019,4,"lepa rada district",1263,20798
+arunachal-pradesh,2019,4,"lower dibang valley district",3944,50034
+arunachal-pradesh,2019,4,"longding district",1847,48945
+arunachal-pradesh,2019,4,"west siang district",4773,70790
+arunachal-pradesh,2019,4,"kamle district",323,5098
+arunachal-pradesh,2019,4,"upper siang district",1804,26060
+arunachal-pradesh,2019,4,"kurung kumey district",653,7904
+arunachal-pradesh,2019,4,"siang district",1131,19220
+arunachal-pradesh,2019,4,"kra daadi district",603,13700
+arunachal-pradesh,2019,4,"changlang district",9662,152680
+arunachal-pradesh,2019,4,"pakke kessang district",296,5981
+arunachal-pradesh,2019,4,"east siang district",9859,132534
+arunachal-pradesh,2019,4,"upper subansiri district",3144,42354
+arunachal-pradesh,2019,4,"tawang district",7303,139898
+arunachal-pradesh,2019,4,"namsai district",5190,87627
+arunachal-pradesh,2020,1,"lower subansiri district",4351,72887
+arunachal-pradesh,2020,1,"tirap district",4261,76554
+arunachal-pradesh,2020,1,"papum pare district",51342,819599
+arunachal-pradesh,2020,1,"anjaw district",1747,25453
+arunachal-pradesh,2020,1,"lower siang district",2201,35216
+arunachal-pradesh,2020,1,"dibang valley district",320,2195
+arunachal-pradesh,2020,1,"west kameng district",13983,332479
+arunachal-pradesh,2020,1,"shi yomi district",290,989
+arunachal-pradesh,2020,1,"east kameng district",1962,37103
+arunachal-pradesh,2020,1,"lohit district",8454,159158
+arunachal-pradesh,2020,1,"lepa rada district",1532,28280
+arunachal-pradesh,2020,1,"lower dibang valley district",4650,71091
+arunachal-pradesh,2020,1,"longding district",2201,58817
+arunachal-pradesh,2020,1,"west siang district",5757,97255
+arunachal-pradesh,2020,1,"kamle district",373,7135
+arunachal-pradesh,2020,1,"upper siang district",2143,37600
+arunachal-pradesh,2020,1,"kurung kumey district",725,11471
+arunachal-pradesh,2020,1,"siang district",1390,24530
+arunachal-pradesh,2020,1,"kra daadi district",701,16770
+arunachal-pradesh,2020,1,"changlang district",11262,201632
+arunachal-pradesh,2020,1,"pakke kessang district",371,9758
+arunachal-pradesh,2020,1,"east siang district",11298,167166
+arunachal-pradesh,2020,1,"upper subansiri district",3675,56522
+arunachal-pradesh,2020,1,"tawang district",8048,138728
+arunachal-pradesh,2020,1,"namsai district",6029,109933
+arunachal-pradesh,2020,2,"lower subansiri district",5392,108893
+arunachal-pradesh,2020,2,"tirap district",5239,114770
+arunachal-pradesh,2020,2,"papum pare district",59968,932769
+arunachal-pradesh,2020,2,"anjaw district",1961,34903
+arunachal-pradesh,2020,2,"lower siang district",2644,48738
+arunachal-pradesh,2020,2,"dibang valley district",367,4076
+arunachal-pradesh,2020,2,"west kameng district",15766,394250
+arunachal-pradesh,2020,2,"shi yomi district",320,1597
+arunachal-pradesh,2020,2,"east kameng district",2506,53112
+arunachal-pradesh,2020,2,"lohit district",10154,219948
+arunachal-pradesh,2020,2,"lepa rada district",1890,38098
+arunachal-pradesh,2020,2,"lower dibang valley district",5782,110670
+arunachal-pradesh,2020,2,"longding district",2751,86086
+arunachal-pradesh,2020,2,"west siang district",7239,147515
+arunachal-pradesh,2020,2,"kamle district",509,11566
+arunachal-pradesh,2020,2,"upper siang district",2552,54123
+arunachal-pradesh,2020,2,"kurung kumey district",834,16738
+arunachal-pradesh,2020,2,"siang district",1831,40101
+arunachal-pradesh,2020,2,"kra daadi district",870,25480
+arunachal-pradesh,2020,2,"changlang district",14036,293705
+arunachal-pradesh,2020,2,"pakke kessang district",438,13500
+arunachal-pradesh,2020,2,"east siang district",13601,235755
+arunachal-pradesh,2020,2,"upper subansiri district",4465,80310
+arunachal-pradesh,2020,2,"tawang district",8993,170812
+arunachal-pradesh,2020,2,"namsai district",7426,149491
+arunachal-pradesh,2020,3,"lower subansiri district",6456,117359
+arunachal-pradesh,2020,3,"tirap district",6119,125437
+arunachal-pradesh,2020,3,"papum pare district",69419,1157730
+arunachal-pradesh,2020,3,"anjaw district",2226,42320
+arunachal-pradesh,2020,3,"lower siang district",2983,51520
+arunachal-pradesh,2020,3,"dibang valley district",411,4634
+arunachal-pradesh,2020,3,"west kameng district",17636,461190
+arunachal-pradesh,2020,3,"shi yomi district",337,2788
+arunachal-pradesh,2020,3,"east kameng district",3169,63062
+arunachal-pradesh,2020,3,"lohit district",11755,264444
+arunachal-pradesh,2020,3,"lepa rada district",2304,47233
+arunachal-pradesh,2020,3,"lower dibang valley district",6799,117752
+arunachal-pradesh,2020,3,"longding district",3277,91330
+arunachal-pradesh,2020,3,"west siang district",8623,158496
+arunachal-pradesh,2020,3,"kamle district",639,12196
+arunachal-pradesh,2020,3,"upper siang district",3011,59246
+arunachal-pradesh,2020,3,"kurung kumey district",1025,18583
+arunachal-pradesh,2020,3,"siang district",2225,42723
+arunachal-pradesh,2020,3,"kra daadi district",1026,29126
+arunachal-pradesh,2020,3,"changlang district",16385,326045
+arunachal-pradesh,2020,3,"pakke kessang district",508,11721
+arunachal-pradesh,2020,3,"east siang district",15921,302165
+arunachal-pradesh,2020,3,"upper subansiri district",5295,106598
+arunachal-pradesh,2020,3,"tawang district",9944,224583
+arunachal-pradesh,2020,3,"namsai district",8553,165140
+arunachal-pradesh,2020,4,"lower subansiri district",7388,124398
+arunachal-pradesh,2020,4,"tirap district",6805,134124
+arunachal-pradesh,2020,4,"papum pare district",77936,1397025
+arunachal-pradesh,2020,4,"anjaw district",2485,61121
+arunachal-pradesh,2020,4,"lower siang district",3320,54476
+arunachal-pradesh,2020,4,"dibang valley district",444,7677
+arunachal-pradesh,2020,4,"west kameng district",19464,455337
+arunachal-pradesh,2020,4,"shi yomi district",370,5847
+arunachal-pradesh,2020,4,"east kameng district",3638,62876
+arunachal-pradesh,2020,4,"lohit district",13126,285992
+arunachal-pradesh,2020,4,"lepa rada district",2735,57036
+arunachal-pradesh,2020,4,"lower dibang valley district",7693,132469
+arunachal-pradesh,2020,4,"longding district",3753,87881
+arunachal-pradesh,2020,4,"west siang district",9911,180696
+arunachal-pradesh,2020,4,"kamle district",745,14866
+arunachal-pradesh,2020,4,"upper siang district",3497,80140
+arunachal-pradesh,2020,4,"kurung kumey district",1173,21168
+arunachal-pradesh,2020,4,"siang district",2635,48090
+arunachal-pradesh,2020,4,"kra daadi district",1141,27924
+arunachal-pradesh,2020,4,"changlang district",18203,320708
+arunachal-pradesh,2020,4,"pakke kessang district",593,11458
+arunachal-pradesh,2020,4,"east siang district",17822,349321
+arunachal-pradesh,2020,4,"upper subansiri district",6069,125505
+arunachal-pradesh,2020,4,"tawang district",10909,249095
+arunachal-pradesh,2020,4,"namsai district",9437,177437
+arunachal-pradesh,2021,1,"lower subansiri district",8044,136547
+arunachal-pradesh,2021,1,"tirap district",7376,136247
+arunachal-pradesh,2021,1,"papum pare district",84715,1553363
+arunachal-pradesh,2021,1,"anjaw district",2660,55283
+arunachal-pradesh,2021,1,"lower siang district",3594,61226
+arunachal-pradesh,2021,1,"dibang valley district",478,9538
+arunachal-pradesh,2021,1,"west kameng district",21027,483047
+arunachal-pradesh,2021,1,"shi yomi district",390,7228
+arunachal-pradesh,2021,1,"east kameng district",3990,69455
+arunachal-pradesh,2021,1,"lohit district",14231,295880
+arunachal-pradesh,2021,1,"lepa rada district",3008,68424
+arunachal-pradesh,2021,1,"lower dibang valley district",8402,145425
+arunachal-pradesh,2021,1,"longding district",4117,92482
+arunachal-pradesh,2021,1,"west siang district",10836,191242
+arunachal-pradesh,2021,1,"kamle district",814,16142
+arunachal-pradesh,2021,1,"upper siang district",3847,87503
+arunachal-pradesh,2021,1,"kurung kumey district",1287,25911
+arunachal-pradesh,2021,1,"siang district",2878,56271
+arunachal-pradesh,2021,1,"kra daadi district",1244,30137
+arunachal-pradesh,2021,1,"changlang district",19716,344148
+arunachal-pradesh,2021,1,"pakke kessang district",647,14995
+arunachal-pradesh,2021,1,"east siang district",19342,363085
+arunachal-pradesh,2021,1,"upper subansiri district",6577,122422
+arunachal-pradesh,2021,1,"tawang district",11778,230123
+arunachal-pradesh,2021,1,"namsai district",10242,200584
+arunachal-pradesh,2021,2,"lower subansiri district",8685,444426
+arunachal-pradesh,2021,2,"tirap district",7955,547430
+arunachal-pradesh,2021,2,"papum pare district",90871,1786163
+arunachal-pradesh,2021,2,"anjaw district",2866,174807
+arunachal-pradesh,2021,2,"lower siang district",3872,246789
+arunachal-pradesh,2021,2,"dibang valley district",516,77457
+arunachal-pradesh,2021,2,"west kameng district",22625,1490269
+arunachal-pradesh,2021,2,"shi yomi district",430,99619
+arunachal-pradesh,2021,2,"east kameng district",4314,221705
+arunachal-pradesh,2021,2,"lohit district",15360,1008718
+arunachal-pradesh,2021,2,"lepa rada district",3249,228236
+arunachal-pradesh,2021,2,"lower dibang valley district",9094,434361
+arunachal-pradesh,2021,2,"longding district",4456,495881
+arunachal-pradesh,2021,2,"west siang district",11657,467127
+arunachal-pradesh,2021,2,"kamle district",883,164726
+arunachal-pradesh,2021,2,"upper siang district",4145,428792
+arunachal-pradesh,2021,2,"kurung kumey district",1398,201782
+arunachal-pradesh,2021,2,"siang district",3116,410979
+arunachal-pradesh,2021,2,"kra daadi district",1353,150762
+arunachal-pradesh,2021,2,"changlang district",21404,1212334
+arunachal-pradesh,2021,2,"pakke kessang district",702,156638
+arunachal-pradesh,2021,2,"east siang district",20817,855042
+arunachal-pradesh,2021,2,"upper subansiri district",7057,293916
+arunachal-pradesh,2021,2,"tawang district",12636,830993
+arunachal-pradesh,2021,2,"namsai district",11111,596897
+arunachal-pradesh,2021,3,"lower subansiri district",9451,558377
+arunachal-pradesh,2021,3,"tirap district",8665,578706
+arunachal-pradesh,2021,3,"papum pare district",97854,2308276
+arunachal-pradesh,2021,3,"anjaw district",3099,267726
+arunachal-pradesh,2021,3,"lower siang district",4229,347190
+arunachal-pradesh,2021,3,"dibang valley district",571,113574
+arunachal-pradesh,2021,3,"west kameng district",24489,2155265
+arunachal-pradesh,2021,3,"shi yomi district",473,181457
+arunachal-pradesh,2021,3,"east kameng district",4671,265900
+arunachal-pradesh,2021,3,"lohit district",16680,1408514
+arunachal-pradesh,2021,3,"lepa rada district",3527,264771
+arunachal-pradesh,2021,3,"lower dibang valley district",9920,581463
+arunachal-pradesh,2021,3,"longding district",4890,594284
+arunachal-pradesh,2021,3,"west siang district",12616,544772
+arunachal-pradesh,2021,3,"kamle district",974,203013
+arunachal-pradesh,2021,3,"upper siang district",4506,556857
+arunachal-pradesh,2021,3,"kurung kumey district",1509,292922
+arunachal-pradesh,2021,3,"siang district",3396,433332
+arunachal-pradesh,2021,3,"kra daadi district",1475,179974
+arunachal-pradesh,2021,3,"changlang district",23328,1668215
+arunachal-pradesh,2021,3,"pakke kessang district",770,213423
+arunachal-pradesh,2021,3,"east siang district",22538,1086775
+arunachal-pradesh,2021,3,"upper subansiri district",7652,375423
+arunachal-pradesh,2021,3,"tawang district",13650,1355010
+arunachal-pradesh,2021,3,"namsai district",12140,674435
+arunachal-pradesh,2021,4,"lower subansiri district",10187,348485
+arunachal-pradesh,2021,4,"tirap district",9331,311867
+arunachal-pradesh,2021,4,"papum pare district",104806,3554385
+arunachal-pradesh,2021,4,"anjaw district",3342,125753
+arunachal-pradesh,2021,4,"lower siang district",4550,156209
+arunachal-pradesh,2021,4,"dibang valley district",621,18166
+arunachal-pradesh,2021,4,"west kameng district",26237,1160379
+arunachal-pradesh,2021,4,"shi yomi district",498,15201
+arunachal-pradesh,2021,4,"east kameng district",5027,153109
+arunachal-pradesh,2021,4,"lohit district",17980,728676
+arunachal-pradesh,2021,4,"lepa rada district",3810,168938
+arunachal-pradesh,2021,4,"lower dibang valley district",10679,341060
+arunachal-pradesh,2021,4,"longding district",5345,215529
+arunachal-pradesh,2021,4,"west siang district",13555,389171
+arunachal-pradesh,2021,4,"kamle district",1069,48042
+arunachal-pradesh,2021,4,"upper siang district",4850,208167
+arunachal-pradesh,2021,4,"kurung kumey district",1633,54213
+arunachal-pradesh,2021,4,"siang district",3675,121770
+arunachal-pradesh,2021,4,"kra daadi district",1593,63448
+arunachal-pradesh,2021,4,"changlang district",25155,829350
+arunachal-pradesh,2021,4,"pakke kessang district",835,35976
+arunachal-pradesh,2021,4,"east siang district",24208,897713
+arunachal-pradesh,2021,4,"upper subansiri district",8201,240330
+arunachal-pradesh,2021,4,"tawang district",14665,506240
+arunachal-pradesh,2021,4,"namsai district",13092,538118
+arunachal-pradesh,2022,1,"lower subansiri district",10854,1566925
+arunachal-pradesh,2022,1,"tirap district",9972,1634844
+arunachal-pradesh,2022,1,"papum pare district",111271,3209286
+arunachal-pradesh,2022,1,"anjaw district",3560,640611
+arunachal-pradesh,2022,1,"lower siang district",4882,1085994
+arunachal-pradesh,2022,1,"dibang valley district",656,267633
+arunachal-pradesh,2022,1,"west kameng district",27860,4098935
+arunachal-pradesh,2022,1,"shi yomi district",540,230973
+arunachal-pradesh,2022,1,"east kameng district",5355,703590
+arunachal-pradesh,2022,1,"lohit district",19214,3212352
+arunachal-pradesh,2022,1,"lepa rada district",4049,1182371
+arunachal-pradesh,2022,1,"lower dibang valley district",11401,1918566
+arunachal-pradesh,2022,1,"longding district",5700,1728795
+arunachal-pradesh,2022,1,"west siang district",14420,1420049
+arunachal-pradesh,2022,1,"kamle district",1144,758412
+arunachal-pradesh,2022,1,"upper siang district",5146,2047229
+arunachal-pradesh,2022,1,"kurung kumey district",1744,845626
+arunachal-pradesh,2022,1,"siang district",3942,1227784
+arunachal-pradesh,2022,1,"kra daadi district",1701,720274
+arunachal-pradesh,2022,1,"changlang district",26904,4323291
+arunachal-pradesh,2022,1,"pakke kessang district",887,770322
+arunachal-pradesh,2022,1,"east siang district",25763,3444101
+arunachal-pradesh,2022,1,"upper subansiri district",8731,921019
+arunachal-pradesh,2022,1,"tawang district",15589,1922991
+arunachal-pradesh,2022,1,"namsai district",14054,1536586
+arunachal-pradesh,2022,2,"lower subansiri district",11479,1637036
+arunachal-pradesh,2022,2,"tirap district",10538,2173316
+arunachal-pradesh,2022,2,"papum pare district",117568,3870115
+arunachal-pradesh,2022,2,"anjaw district",3769,942878
+arunachal-pradesh,2022,2,"lower siang district",5161,1296404
+arunachal-pradesh,2022,2,"dibang valley district",701,212502
+arunachal-pradesh,2022,2,"west kameng district",29424,5493311
+arunachal-pradesh,2022,2,"shi yomi district",575,197796
+arunachal-pradesh,2022,2,"east kameng district",5680,791335
+arunachal-pradesh,2022,2,"lohit district",20325,3608724
+arunachal-pradesh,2022,2,"lepa rada district",4265,1110684
+arunachal-pradesh,2022,2,"lower dibang valley district",12040,2045531
+arunachal-pradesh,2022,2,"longding district",6034,1821245
+arunachal-pradesh,2022,2,"west siang district",15231,1555876
+arunachal-pradesh,2022,2,"kamle district",1210,1066185
+arunachal-pradesh,2022,2,"upper siang district",5440,2396815
+arunachal-pradesh,2022,2,"kurung kumey district",1854,734369
+arunachal-pradesh,2022,2,"siang district",4160,1500428
+arunachal-pradesh,2022,2,"kra daadi district",1797,724575
+arunachal-pradesh,2022,2,"changlang district",28495,5476741
+arunachal-pradesh,2022,2,"pakke kessang district",945,590302
+arunachal-pradesh,2022,2,"east siang district",27240,3704889
+arunachal-pradesh,2022,2,"upper subansiri district",9235,1261876
+arunachal-pradesh,2022,2,"tawang district",16475,3393271
+arunachal-pradesh,2022,2,"namsai district",14887,2283314
+arunachal-pradesh,2022,3,"lower subansiri district",12085,2475131
+arunachal-pradesh,2022,3,"tirap district",11115,2414601
+arunachal-pradesh,2022,3,"papum pare district",124095,4843797
+arunachal-pradesh,2022,3,"anjaw district",3966,844043
+arunachal-pradesh,2022,3,"lower siang district",5436,1508192
+arunachal-pradesh,2022,3,"dibang valley district",740,285052
+arunachal-pradesh,2022,3,"west kameng district",30964,7334928
+arunachal-pradesh,2022,3,"shi yomi district",598,312490
+arunachal-pradesh,2022,3,"east kameng district",5997,1054633
+arunachal-pradesh,2022,3,"lohit district",21385,4282624
+arunachal-pradesh,2022,3,"lepa rada district",4510,1208942
+arunachal-pradesh,2022,3,"lower dibang valley district",12668,2160151
+arunachal-pradesh,2022,3,"longding district",6321,2587741
+arunachal-pradesh,2022,3,"west siang district",16063,1637984
+arunachal-pradesh,2022,3,"kamle district",1262,1335449
+arunachal-pradesh,2022,3,"upper siang district",5690,2257253
+arunachal-pradesh,2022,3,"kurung kumey district",1936,861405
+arunachal-pradesh,2022,3,"siang district",4369,1681957
+arunachal-pradesh,2022,3,"kra daadi district",1893,1436202
+arunachal-pradesh,2022,3,"changlang district",29965,5703178
+arunachal-pradesh,2022,3,"pakke kessang district",980,1039686
+arunachal-pradesh,2022,3,"east siang district",28698,3767855
+arunachal-pradesh,2022,3,"upper subansiri district",9713,1535818
+arunachal-pradesh,2022,3,"tawang district",17281,4728673
+arunachal-pradesh,2022,3,"namsai district",15642,2424843
+arunachal-pradesh,2022,4,"lower subansiri district",12630,833741
+arunachal-pradesh,2022,4,"tirap district",11584,645541
+arunachal-pradesh,2022,4,"papum pare district",130306,6605350
+arunachal-pradesh,2022,4,"anjaw district",4105,197829
+arunachal-pradesh,2022,4,"lower siang district",5633,318731
+arunachal-pradesh,2022,4,"dibang valley district",752,15469
+arunachal-pradesh,2022,4,"west kameng district",32237,2129051
+arunachal-pradesh,2022,4,"shi yomi district",615,25308
+arunachal-pradesh,2022,4,"east kameng district",6307,390756
+arunachal-pradesh,2022,4,"lohit district",22359,1441490
+arunachal-pradesh,2022,4,"lepa rada district",4730,345752
+arunachal-pradesh,2022,4,"lower dibang valley district",13188,799856
+arunachal-pradesh,2022,4,"longding district",6590,442997
+arunachal-pradesh,2022,4,"west siang district",16816,964082
+arunachal-pradesh,2022,4,"kamle district",1301,131540
+arunachal-pradesh,2022,4,"upper siang district",5930,277877
+arunachal-pradesh,2022,4,"kurung kumey district",2008,72926
+arunachal-pradesh,2022,4,"siang district",4500,277881
+arunachal-pradesh,2022,4,"kra daadi district",1960,131838
+arunachal-pradesh,2022,4,"changlang district",31196,1611653
+arunachal-pradesh,2022,4,"pakke kessang district",1013,72545
+arunachal-pradesh,2022,4,"east siang district",30033,1542563
+arunachal-pradesh,2022,4,"upper subansiri district",10189,456906
+arunachal-pradesh,2022,4,"tawang district",18003,947132
+arunachal-pradesh,2022,4,"namsai district",16322,1096224
+arunachal-pradesh,2023,1,"lower subansiri district",13220,4665893
+arunachal-pradesh,2023,1,"tirap district",12127,3510306
+arunachal-pradesh,2023,1,"papum pare district",136357,8066083
+arunachal-pradesh,2023,1,"anjaw district",4310,960705
+arunachal-pradesh,2023,1,"lower siang district",5917,2503611
+arunachal-pradesh,2023,1,"dibang valley district",789,332244
+arunachal-pradesh,2023,1,"west kameng district",33625,7118752
+arunachal-pradesh,2023,1,"shi yomi district",631,409543
+arunachal-pradesh,2023,1,"east kameng district",6598,2956409
+arunachal-pradesh,2023,1,"lohit district",23429,5317984
+arunachal-pradesh,2023,1,"lepa rada district",4938,1844736
+arunachal-pradesh,2023,1,"lower dibang valley district",13811,4586215
+arunachal-pradesh,2023,1,"longding district",6882,4261440
+arunachal-pradesh,2023,1,"west siang district",17590,2457555
+arunachal-pradesh,2023,1,"kamle district",1367,2987329
+arunachal-pradesh,2023,1,"upper siang district",6196,3660864
+arunachal-pradesh,2023,1,"kurung kumey district",2091,1499108
+arunachal-pradesh,2023,1,"siang district",4696,2962268
+arunachal-pradesh,2023,1,"kra daadi district",2051,1694622
+arunachal-pradesh,2023,1,"changlang district",32646,10230395
+arunachal-pradesh,2023,1,"pakke kessang district",1057,1625393
+arunachal-pradesh,2023,1,"east siang district",31416,5195905
+arunachal-pradesh,2023,1,"upper subansiri district",10648,1991047
+arunachal-pradesh,2023,1,"tawang district",18817,4341255
+arunachal-pradesh,2023,1,"namsai district",17064,3817796
+arunachal-pradesh,2023,2,"lower subansiri district",13816,5009447

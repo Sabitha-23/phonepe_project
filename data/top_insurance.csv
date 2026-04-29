@@ -1,0 +1,1001 @@
+state,year,quarter,entity_name,entity_type,insurance_count,insurance_amount
+andaman-&-nicobar-islands,2020,2,nicobars,districts,3,565
+andaman-&-nicobar-islands,2020,2,"south andaman",districts,3,795
+andaman-&-nicobar-islands,2020,2,744301,pincodes,3,565
+andaman-&-nicobar-islands,2020,2,744104,pincodes,2,513
+andaman-&-nicobar-islands,2020,2,744101,pincodes,1,282
+andaman-&-nicobar-islands,2020,3,"south andaman",districts,35,13651
+andaman-&-nicobar-islands,2020,3,nicobars,districts,5,1448
+andaman-&-nicobar-islands,2020,3,"north and middle andaman",districts,1,281
+andaman-&-nicobar-islands,2020,3,744112,pincodes,9,3432
+andaman-&-nicobar-islands,2020,3,744105,pincodes,7,3948
+andaman-&-nicobar-islands,2020,3,744101,pincodes,5,2194
+andaman-&-nicobar-islands,2020,3,744206,pincodes,4,1620
+andaman-&-nicobar-islands,2020,3,744107,pincodes,3,1095
+andaman-&-nicobar-islands,2020,3,744103,pincodes,3,947
+andaman-&-nicobar-islands,2020,3,744302,pincodes,3,562
+andaman-&-nicobar-islands,2020,3,744211,pincodes,2,101
+andaman-&-nicobar-islands,2020,3,744301,pincodes,2,886
+andaman-&-nicobar-islands,2020,3,744102,pincodes,2,314
+andaman-&-nicobar-islands,2020,4,"south andaman",districts,109,137494
+andaman-&-nicobar-islands,2020,4,"north and middle andaman",districts,13,17734
+andaman-&-nicobar-islands,2020,4,nicobars,districts,2,2747
+andaman-&-nicobar-islands,2020,4,744105,pincodes,25,25659
+andaman-&-nicobar-islands,2020,4,744101,pincodes,23,29686
+andaman-&-nicobar-islands,2020,4,744103,pincodes,18,24904
+andaman-&-nicobar-islands,2020,4,744102,pincodes,17,25073
+andaman-&-nicobar-islands,2020,4,744112,pincodes,8,10459
+andaman-&-nicobar-islands,2020,4,744106,pincodes,6,4840
+andaman-&-nicobar-islands,2020,4,744204,pincodes,6,11659
+andaman-&-nicobar-islands,2020,4,744104,pincodes,4,10271
+andaman-&-nicobar-islands,2020,4,744206,pincodes,3,100
+andaman-&-nicobar-islands,2020,4,744205,pincodes,3,5235
+andaman-&-nicobar-islands,2021,1,"south andaman",districts,164,167044
+andaman-&-nicobar-islands,2021,1,"north and middle andaman",districts,48,63978
+andaman-&-nicobar-islands,2021,1,nicobars,districts,13,13244
+andaman-&-nicobar-islands,2021,1,744105,pincodes,47,53060
+andaman-&-nicobar-islands,2021,1,744103,pincodes,35,39985
+andaman-&-nicobar-islands,2021,1,744101,pincodes,33,24571
+andaman-&-nicobar-islands,2021,1,744204,pincodes,25,29635
+andaman-&-nicobar-islands,2021,1,744202,pincodes,12,17588
+andaman-&-nicobar-islands,2021,1,744102,pincodes,12,14085
+andaman-&-nicobar-islands,2021,1,744104,pincodes,9,7310
+andaman-&-nicobar-islands,2021,1,744107,pincodes,8,9253
+andaman-&-nicobar-islands,2021,1,744205,pincodes,7,11223
+andaman-&-nicobar-islands,2021,1,744301,pincodes,7,6612
+andaman-&-nicobar-islands,2021,2,"south andaman",districts,105,121104
+andaman-&-nicobar-islands,2021,2,"north and middle andaman",districts,28,45311
+andaman-&-nicobar-islands,2021,2,nicobars,districts,4,15089
+andaman-&-nicobar-islands,2021,2,744103,pincodes,36,33716
+andaman-&-nicobar-islands,2021,2,744101,pincodes,17,19787
+andaman-&-nicobar-islands,2021,2,744105,pincodes,15,17163
+andaman-&-nicobar-islands,2021,2,744102,pincodes,13,10326
+andaman-&-nicobar-islands,2021,2,744204,pincodes,10,10557
+andaman-&-nicobar-islands,2021,2,744107,pincodes,8,11459
+andaman-&-nicobar-islands,2021,2,744202,pincodes,6,9766
+andaman-&-nicobar-islands,2021,2,744104,pincodes,6,8889
+andaman-&-nicobar-islands,2021,2,744205,pincodes,6,12669
+andaman-&-nicobar-islands,2021,2,744210,pincodes,4,9430
+andaman-&-nicobar-islands,2021,3,"south andaman",districts,182,223699
+andaman-&-nicobar-islands,2021,3,"north and middle andaman",districts,33,50997
+andaman-&-nicobar-islands,2021,3,nicobars,districts,15,30539
+andaman-&-nicobar-islands,2021,3,744105,pincodes,70,82425
+andaman-&-nicobar-islands,2021,3,744103,pincodes,44,53909
+andaman-&-nicobar-islands,2021,3,744101,pincodes,26,29601
+andaman-&-nicobar-islands,2021,3,744102,pincodes,14,20616
+andaman-&-nicobar-islands,2021,3,744204,pincodes,13,20075
+andaman-&-nicobar-islands,2021,3,744202,pincodes,11,18134
+andaman-&-nicobar-islands,2021,3,744112,pincodes,11,14406
+andaman-&-nicobar-islands,2021,3,744302,pincodes,8,7247
+andaman-&-nicobar-islands,2021,3,744107,pincodes,6,6406
+andaman-&-nicobar-islands,2021,3,744104,pincodes,6,2221
+andaman-&-nicobar-islands,2021,4,"south andaman",districts,632,800758
+andaman-&-nicobar-islands,2021,4,"north and middle andaman",districts,81,182061
+andaman-&-nicobar-islands,2021,4,nicobars,districts,44,73561
+andaman-&-nicobar-islands,2021,4,744105,pincodes,194,232344
+andaman-&-nicobar-islands,2021,4,744101,pincodes,159,211326
+andaman-&-nicobar-islands,2021,4,744103,pincodes,133,168668
+andaman-&-nicobar-islands,2021,4,744102,pincodes,66,68931
+andaman-&-nicobar-islands,2021,4,744301,pincodes,32,53658
+andaman-&-nicobar-islands,2021,4,744204,pincodes,31,102213
+andaman-&-nicobar-islands,2021,4,744104,pincodes,24,31069
+andaman-&-nicobar-islands,2021,4,744112,pincodes,22,38599
+andaman-&-nicobar-islands,2021,4,744202,pincodes,21,23016
+andaman-&-nicobar-islands,2021,4,744205,pincodes,13,30437
+andaman-&-nicobar-islands,2022,1,"south andaman",districts,692,982206
+andaman-&-nicobar-islands,2022,1,"north and middle andaman",districts,48,85229
+andaman-&-nicobar-islands,2022,1,nicobars,districts,28,63852
+andaman-&-nicobar-islands,2022,1,744103,pincodes,174,226181
+andaman-&-nicobar-islands,2022,1,744101,pincodes,149,204646
+andaman-&-nicobar-islands,2022,1,744105,pincodes,137,218321
+andaman-&-nicobar-islands,2022,1,744102,pincodes,102,147402
+andaman-&-nicobar-islands,2022,1,744112,pincodes,36,39197
+andaman-&-nicobar-islands,2022,1,744104,pincodes,33,35406
+andaman-&-nicobar-islands,2022,1,744107,pincodes,28,36877
+andaman-&-nicobar-islands,2022,1,744207,pincodes,19,50799
+andaman-&-nicobar-islands,2022,1,744301,pincodes,16,33406
+andaman-&-nicobar-islands,2022,1,744205,pincodes,15,29159
+andaman-&-nicobar-islands,2022,2,"south andaman",districts,430,633029
+andaman-&-nicobar-islands,2022,2,"north and middle andaman",districts,45,90403
+andaman-&-nicobar-islands,2022,2,nicobars,districts,26,56308
+andaman-&-nicobar-islands,2022,2,744103,pincodes,97,156861
+andaman-&-nicobar-islands,2022,2,744101,pincodes,87,121168
+andaman-&-nicobar-islands,2022,2,744105,pincodes,78,137418
+andaman-&-nicobar-islands,2022,2,744102,pincodes,62,58453
+andaman-&-nicobar-islands,2022,2,744104,pincodes,26,32107
+andaman-&-nicobar-islands,2022,2,744107,pincodes,22,52244
+andaman-&-nicobar-islands,2022,2,744211,pincodes,19,25543
+andaman-&-nicobar-islands,2022,2,744112,pincodes,18,24391
+andaman-&-nicobar-islands,2022,2,744301,pincodes,14,28331
+andaman-&-nicobar-islands,2022,2,744202,pincodes,13,20817
+andaman-&-nicobar-islands,2022,3,"south andaman",districts,535,687813
+andaman-&-nicobar-islands,2022,3,"north and middle andaman",districts,70,129013
+andaman-&-nicobar-islands,2022,3,nicobars,districts,38,85640
+andaman-&-nicobar-islands,2022,3,744103,pincodes,151,198569
+andaman-&-nicobar-islands,2022,3,744101,pincodes,119,151539
+andaman-&-nicobar-islands,2022,3,744105,pincodes,101,106324
+andaman-&-nicobar-islands,2022,3,744102,pincodes,76,102757
+andaman-&-nicobar-islands,2022,3,744104,pincodes,31,35790
+andaman-&-nicobar-islands,2022,3,744301,pincodes,27,67604
+andaman-&-nicobar-islands,2022,3,744202,pincodes,27,53016
+andaman-&-nicobar-islands,2022,3,744205,pincodes,17,34250
+andaman-&-nicobar-islands,2022,3,744107,pincodes,16,29251
+andaman-&-nicobar-islands,2022,3,744204,pincodes,11,17184
+andaman-&-nicobar-islands,2022,4,"south andaman",districts,750,1114857
+andaman-&-nicobar-islands,2022,4,"north and middle andaman",districts,112,224198
+andaman-&-nicobar-islands,2022,4,nicobars,districts,39,102155
+andaman-&-nicobar-islands,2022,4,744103,pincodes,199,299036
+andaman-&-nicobar-islands,2022,4,744105,pincodes,166,253344
+andaman-&-nicobar-islands,2022,4,744101,pincodes,146,163498
+andaman-&-nicobar-islands,2022,4,744102,pincodes,80,98862
+andaman-&-nicobar-islands,2022,4,744202,pincodes,43,68397
+andaman-&-nicobar-islands,2022,4,744107,pincodes,38,73829
+andaman-&-nicobar-islands,2022,4,744104,pincodes,31,55827
+andaman-&-nicobar-islands,2022,4,744205,pincodes,27,56611
+andaman-&-nicobar-islands,2022,4,744211,pincodes,27,59500
+andaman-&-nicobar-islands,2022,4,744112,pincodes,25,42024
+andaman-&-nicobar-islands,2023,1,"south andaman",districts,872,1172083
+andaman-&-nicobar-islands,2023,1,"north and middle andaman",districts,85,178969
+andaman-&-nicobar-islands,2023,1,nicobars,districts,47,88146
+andaman-&-nicobar-islands,2023,1,744103,pincodes,236,286594
+andaman-&-nicobar-islands,2023,1,744101,pincodes,206,233281
+andaman-&-nicobar-islands,2023,1,744105,pincodes,164,256300
+andaman-&-nicobar-islands,2023,1,744102,pincodes,117,134841
+andaman-&-nicobar-islands,2023,1,744107,pincodes,30,54849
+andaman-&-nicobar-islands,2023,1,744301,pincodes,30,58745
+andaman-&-nicobar-islands,2023,1,744112,pincodes,29,49945
+andaman-&-nicobar-islands,2023,1,744202,pincodes,29,64193
+andaman-&-nicobar-islands,2023,1,744205,pincodes,27,40580
+andaman-&-nicobar-islands,2023,1,744211,pincodes,24,29149
+andaman-&-nicobar-islands,2023,2,"south andaman",districts,670,1060976
+andaman-&-nicobar-islands,2023,2,"north and middle andaman",districts,56,109742
+andaman-&-nicobar-islands,2023,2,nicobars,districts,42,62677
+andaman-&-nicobar-islands,2023,2,744103,pincodes,171,341853
+andaman-&-nicobar-islands,2023,2,744105,pincodes,166,255069
+andaman-&-nicobar-islands,2023,2,744101,pincodes,134,189989
+andaman-&-nicobar-islands,2023,2,744102,pincodes,82,101875
+andaman-&-nicobar-islands,2023,2,744104,pincodes,27,34345
+andaman-&-nicobar-islands,2023,2,744301,pincodes,25,41299
+andaman-&-nicobar-islands,2023,2,744207,pincodes,22,43459
+andaman-&-nicobar-islands,2023,2,744112,pincodes,21,20427
+andaman-&-nicobar-islands,2023,2,744107,pincodes,20,24693
+andaman-&-nicobar-islands,2023,2,744205,pincodes,17,31404
+andaman-&-nicobar-islands,2023,3,"south andaman",districts,682,1052324
+andaman-&-nicobar-islands,2023,3,"north and middle andaman",districts,77,133536
+andaman-&-nicobar-islands,2023,3,nicobars,districts,36,65285
+andaman-&-nicobar-islands,2023,3,744103,pincodes,191,306744
+andaman-&-nicobar-islands,2023,3,744105,pincodes,147,212575
+andaman-&-nicobar-islands,2023,3,744101,pincodes,143,213581
+andaman-&-nicobar-islands,2023,3,744102,pincodes,100,120875
+andaman-&-nicobar-islands,2023,3,744202,pincodes,35,60750
+andaman-&-nicobar-islands,2023,3,744104,pincodes,30,50544
+andaman-&-nicobar-islands,2023,3,744112,pincodes,26,46075
+andaman-&-nicobar-islands,2023,3,744301,pincodes,18,34636
+andaman-&-nicobar-islands,2023,3,744205,pincodes,16,25131
+andaman-&-nicobar-islands,2023,3,744302,pincodes,16,24369
+andaman-&-nicobar-islands,2023,4,"south andaman",districts,1006,1504528
+andaman-&-nicobar-islands,2023,4,"north and middle andaman",districts,95,156995
+andaman-&-nicobar-islands,2023,4,nicobars,districts,44,96298
+andaman-&-nicobar-islands,2023,4,744103,pincodes,268,415144
+andaman-&-nicobar-islands,2023,4,744105,pincodes,214,372312
+andaman-&-nicobar-islands,2023,4,744101,pincodes,181,241849
+andaman-&-nicobar-islands,2023,4,744102,pincodes,121,161224
+andaman-&-nicobar-islands,2023,4,744104,pincodes,64,80581
+andaman-&-nicobar-islands,2023,4,744112,pincodes,50,50671
+andaman-&-nicobar-islands,2023,4,744107,pincodes,42,71047
+andaman-&-nicobar-islands,2023,4,744202,pincodes,36,60749
+andaman-&-nicobar-islands,2023,4,744301,pincodes,24,52732
+andaman-&-nicobar-islands,2023,4,744205,pincodes,23,38962
+andaman-&-nicobar-islands,2024,1,"south andaman",districts,1190,1657627
+andaman-&-nicobar-islands,2024,1,"north and middle andaman",districts,125,229226
+andaman-&-nicobar-islands,2024,1,nicobars,districts,56,77703
+andaman-&-nicobar-islands,2024,1,744103,pincodes,302,456306
+andaman-&-nicobar-islands,2024,1,744105,pincodes,249,331342
+andaman-&-nicobar-islands,2024,1,744101,pincodes,223,287339
+andaman-&-nicobar-islands,2024,1,744102,pincodes,141,182213
+andaman-&-nicobar-islands,2024,1,744202,pincodes,59,110482
+andaman-&-nicobar-islands,2024,1,744104,pincodes,59,84757
+andaman-&-nicobar-islands,2024,1,744112,pincodes,52,62867
+andaman-&-nicobar-islands,2024,1,744107,pincodes,52,73449
+andaman-&-nicobar-islands,2024,1,744207,pincodes,40,62007
+andaman-&-nicobar-islands,2024,1,744205,pincodes,28,38204
+andaman-&-nicobar-islands,2024,2,"south andaman",districts,974,1513489
+andaman-&-nicobar-islands,2024,2,"north and middle andaman",districts,74,164686
+andaman-&-nicobar-islands,2024,2,nicobars,districts,49,66519
+andaman-&-nicobar-islands,2024,2,744103,pincodes,285,438830
+andaman-&-nicobar-islands,2024,2,744105,pincodes,199,276393
+andaman-&-nicobar-islands,2024,2,744101,pincodes,157,251503
+andaman-&-nicobar-islands,2024,2,744102,pincodes,133,203605
+andaman-&-nicobar-islands,2024,2,744112,pincodes,49,77583
+andaman-&-nicobar-islands,2024,2,744104,pincodes,49,91213
+andaman-&-nicobar-islands,2024,2,744107,pincodes,34,52311
+andaman-&-nicobar-islands,2024,2,744202,pincodes,28,41210
+andaman-&-nicobar-islands,2024,2,744211,pincodes,28,43685
+andaman-&-nicobar-islands,2024,2,744302,pincodes,27,37685
+andaman-&-nicobar-islands,2024,3,"south andaman",districts,1044,1530179
+andaman-&-nicobar-islands,2024,3,"north and middle andaman",districts,95,151791
+andaman-&-nicobar-islands,2024,3,nicobar,districts,51,68638
+andaman-&-nicobar-islands,2024,3,nicobars,districts,1,2192
+andaman-&-nicobar-islands,2024,3,744103,pincodes,359,554559
+andaman-&-nicobar-islands,2024,3,744102,pincodes,196,248439
+andaman-&-nicobar-islands,2024,3,744105,pincodes,151,221959
+andaman-&-nicobar-islands,2024,3,744104,pincodes,95,128652
+andaman-&-nicobar-islands,2024,3,744101,pincodes,92,145811
+andaman-&-nicobar-islands,2024,3,744106,pincodes,54,84623
+andaman-&-nicobar-islands,2024,3,744202,pincodes,45,67769
+andaman-&-nicobar-islands,2024,3,744207,pincodes,25,27399
+andaman-&-nicobar-islands,2024,3,744302,pincodes,24,28210
+andaman-&-nicobar-islands,2024,3,744301,pincodes,20,28067
+andaman-&-nicobar-islands,2024,4,"south andaman",districts,1085,1670015
+andaman-&-nicobar-islands,2024,4,"north and middle andaman",districts,131,219770
+andaman-&-nicobar-islands,2024,4,nicobar,districts,77,136595
+andaman-&-nicobar-islands,2024,4,744103,pincodes,369,521509
+andaman-&-nicobar-islands,2024,4,744102,pincodes,165,228528
+andaman-&-nicobar-islands,2024,4,744105,pincodes,161,268432
+andaman-&-nicobar-islands,2024,4,744104,pincodes,129,250205
+andaman-&-nicobar-islands,2024,4,744101,pincodes,90,117544
+andaman-&-nicobar-islands,2024,4,744202,pincodes,65,107445
+andaman-&-nicobar-islands,2024,4,744106,pincodes,53,90277
+andaman-&-nicobar-islands,2024,4,744301,pincodes,50,86256
+andaman-&-nicobar-islands,2024,4,744107,pincodes,26,55695
+andaman-&-nicobar-islands,2024,4,744204,pincodes,24,45960
+andhra-pradesh,2020,2,visakhapatnam,districts,3504,614212
+andhra-pradesh,2020,2,anantapur,districts,2739,485777
+andhra-pradesh,2020,2,krishna,districts,2698,475539
+andhra-pradesh,2020,2,chittoor,districts,2228,395099
+andhra-pradesh,2020,2,ysr,districts,1978,343002
+andhra-pradesh,2020,2,guntur,districts,1938,344326
+andhra-pradesh,2020,2,"east godavari",districts,1913,352220
+andhra-pradesh,2020,2,"west godavari",districts,1074,202289
+andhra-pradesh,2020,2,"spsr nellore",districts,931,176423
+andhra-pradesh,2020,2,vizianagaram,districts,893,166029
+andhra-pradesh,2020,2,515001,pincodes,540,86088
+andhra-pradesh,2020,2,515004,pincodes,437,71761
+andhra-pradesh,2020,2,516360,pincodes,339,55455
+andhra-pradesh,2020,2,516001,pincodes,322,50705
+andhra-pradesh,2020,2,533005,pincodes,301,46454
+andhra-pradesh,2020,2,517002,pincodes,279,43236
+andhra-pradesh,2020,2,530016,pincodes,262,41153
+andhra-pradesh,2020,2,517501,pincodes,259,43013
+andhra-pradesh,2020,2,533103,pincodes,258,43311
+andhra-pradesh,2020,2,515671,pincodes,250,43610
+andhra-pradesh,2020,3,visakhapatnam,districts,7906,1892376
+andhra-pradesh,2020,3,"spsr nellore",districts,5509,1259159
+andhra-pradesh,2020,3,krishna,districts,4519,1093882
+andhra-pradesh,2020,3,chittoor,districts,4422,1178762
+andhra-pradesh,2020,3,guntur,districts,4230,1083584
+andhra-pradesh,2020,3,"east godavari",districts,3783,970549
+andhra-pradesh,2020,3,kurnool,districts,3493,841970
+andhra-pradesh,2020,3,ysr,districts,3397,847519
+andhra-pradesh,2020,3,vizianagaram,districts,2999,691281
+andhra-pradesh,2020,3,anantapur,districts,2911,764850
+andhra-pradesh,2020,3,535003,pincodes,968,195870
+andhra-pradesh,2020,3,524004,pincodes,795,165322
+andhra-pradesh,2020,3,517501,pincodes,777,172113
+andhra-pradesh,2020,3,517507,pincodes,776,201732
+andhra-pradesh,2020,3,516001,pincodes,746,161284
+andhra-pradesh,2020,3,524002,pincodes,663,143659
+andhra-pradesh,2020,3,530016,pincodes,661,156016
+andhra-pradesh,2020,3,524003,pincodes,608,128862
+andhra-pradesh,2020,3,520010,pincodes,542,116222
+andhra-pradesh,2020,3,516360,pincodes,532,135236
+andhra-pradesh,2020,4,visakhapatnam,districts,3464,2203761
+andhra-pradesh,2020,4,guntur,districts,2570,1620649
+andhra-pradesh,2020,4,krishna,districts,2311,1222782
+andhra-pradesh,2020,4,"east godavari",districts,1965,1355741
+andhra-pradesh,2020,4,chittoor,districts,1727,1168506
+andhra-pradesh,2020,4,anantapur,districts,1534,794053
+andhra-pradesh,2020,4,"west godavari",districts,1390,906282
+andhra-pradesh,2020,4,"spsr nellore",districts,1348,810758
+andhra-pradesh,2020,4,prakasam,districts,1190,572976
+andhra-pradesh,2020,4,ysr,districts,1165,631876
+andhra-pradesh,2020,4,515001,pincodes,292,120291
+andhra-pradesh,2020,4,516001,pincodes,260,110284
+andhra-pradesh,2020,4,517501,pincodes,234,139080
+andhra-pradesh,2020,4,530016,pincodes,233,101891
+andhra-pradesh,2020,4,517507,pincodes,228,123376
+andhra-pradesh,2020,4,530026,pincodes,215,132499
+andhra-pradesh,2020,4,524002,pincodes,211,99952
+andhra-pradesh,2020,4,522004,pincodes,201,102846
+andhra-pradesh,2020,4,522001,pincodes,196,110129
+andhra-pradesh,2020,4,522003,pincodes,181,79955
+andhra-pradesh,2021,1,visakhapatnam,districts,4006,2403199
+andhra-pradesh,2021,1,krishna,districts,2722,1699716
+andhra-pradesh,2021,1,guntur,districts,2412,1398326
+andhra-pradesh,2021,1,"east godavari",districts,1937,1065604
+andhra-pradesh,2021,1,chittoor,districts,1629,1058050
+andhra-pradesh,2021,1,"west godavari",districts,1460,850251
+andhra-pradesh,2021,1,"spsr nellore",districts,1323,714947
+andhra-pradesh,2021,1,kurnool,districts,1270,508161
+andhra-pradesh,2021,1,ysr,districts,1265,729565
+andhra-pradesh,2021,1,anantapur,districts,1264,621128
+andhra-pradesh,2021,1,530016,pincodes,287,144342
+andhra-pradesh,2021,1,516001,pincodes,258,130242
+andhra-pradesh,2021,1,530026,pincodes,250,114038
+andhra-pradesh,2021,1,517501,pincodes,249,105904
+andhra-pradesh,2021,1,520010,pincodes,224,135466
+andhra-pradesh,2021,1,517507,pincodes,215,169433
+andhra-pradesh,2021,1,522001,pincodes,210,85999
+andhra-pradesh,2021,1,520012,pincodes,178,127092
+andhra-pradesh,2021,1,524002,pincodes,178,100699
+andhra-pradesh,2021,1,520011,pincodes,177,70827
+andhra-pradesh,2021,2,prakasam,districts,5308,2719134
+andhra-pradesh,2021,2,visakhapatnam,districts,4655,3497573
+andhra-pradesh,2021,2,"west godavari",districts,4170,2327122
+andhra-pradesh,2021,2,krishna,districts,3451,2494257
+andhra-pradesh,2021,2,guntur,districts,2967,2201793
+andhra-pradesh,2021,2,chittoor,districts,2392,1839579
+andhra-pradesh,2021,2,"east godavari",districts,2343,1695121
+andhra-pradesh,2021,2,"spsr nellore",districts,1817,1245872
+andhra-pradesh,2021,2,anantapur,districts,1631,1284850
+andhra-pradesh,2021,2,kurnool,districts,1410,941389
+andhra-pradesh,2021,2,523002,pincodes,1409,631953
+andhra-pradesh,2021,2,523001,pincodes,537,293906
+andhra-pradesh,2021,2,517501,pincodes,374,208258
+andhra-pradesh,2021,2,517507,pincodes,347,265432
+andhra-pradesh,2021,2,530016,pincodes,323,204624
+andhra-pradesh,2021,2,534002,pincodes,293,124158
+andhra-pradesh,2021,2,534006,pincodes,284,112884
+andhra-pradesh,2021,2,515001,pincodes,271,168382
+andhra-pradesh,2021,2,516001,pincodes,268,144765
+andhra-pradesh,2021,2,524002,pincodes,262,130466
+andhra-pradesh,2021,3,visakhapatnam,districts,4044,3191769
+andhra-pradesh,2021,3,krishna,districts,3258,2722279
+andhra-pradesh,2021,3,guntur,districts,2519,2102143
+andhra-pradesh,2021,3,"east godavari",districts,2248,2073825
+andhra-pradesh,2021,3,chittoor,districts,1991,1995617
+andhra-pradesh,2021,3,"spsr nellore",districts,1486,1161025
+andhra-pradesh,2021,3,"west godavari",districts,1452,1216098
+andhra-pradesh,2021,3,anantapur,districts,1329,1311735
+andhra-pradesh,2021,3,ysr,districts,1137,1033282
+andhra-pradesh,2021,3,prakasam,districts,1050,877683
+andhra-pradesh,2021,3,520010,pincodes,299,246736
+andhra-pradesh,2021,3,520011,pincodes,283,194552
+andhra-pradesh,2021,3,517507,pincodes,282,246665
+andhra-pradesh,2021,3,516001,pincodes,281,218927
+andhra-pradesh,2021,3,517501,pincodes,281,190890
+andhra-pradesh,2021,3,530026,pincodes,276,201084
+andhra-pradesh,2021,3,520001,pincodes,252,185104
+andhra-pradesh,2021,3,530016,pincodes,247,181981
+andhra-pradesh,2021,3,520007,pincodes,234,183730
+andhra-pradesh,2021,3,524004,pincodes,230,154696
+andhra-pradesh,2021,4,visakhapatnam,districts,4176,5425896
+andhra-pradesh,2021,4,krishna,districts,3029,3841028
+andhra-pradesh,2021,4,guntur,districts,2709,3214794
+andhra-pradesh,2021,4,"east godavari",districts,2532,3543718
+andhra-pradesh,2021,4,chittoor,districts,2444,3100521
+andhra-pradesh,2021,4,"spsr nellore",districts,2369,2345876
+andhra-pradesh,2021,4,ysr,districts,1449,1479933
+andhra-pradesh,2021,4,anantapur,districts,1322,2101400
+andhra-pradesh,2021,4,"west godavari",districts,1262,1853561
+andhra-pradesh,2021,4,prakasam,districts,1181,1328774
+andhra-pradesh,2021,4,524004,pincodes,568,468698
+andhra-pradesh,2021,4,524002,pincodes,373,385590
+andhra-pradesh,2021,4,517501,pincodes,372,394057
+andhra-pradesh,2021,4,517507,pincodes,365,376592
+andhra-pradesh,2021,4,516001,pincodes,301,298417
+andhra-pradesh,2021,4,530016,pincodes,293,386711
+andhra-pradesh,2021,4,520010,pincodes,254,242094
+andhra-pradesh,2021,4,522001,pincodes,249,252587
+andhra-pradesh,2021,4,530026,pincodes,238,269565
+andhra-pradesh,2021,4,520011,pincodes,235,238426
+andhra-pradesh,2022,1,visakhapatnam,districts,5196,6953446
+andhra-pradesh,2022,1,krishna,districts,3914,5279784
+andhra-pradesh,2022,1,"east godavari",districts,3605,5199664
+andhra-pradesh,2022,1,chittoor,districts,2887,4304499
+andhra-pradesh,2022,1,guntur,districts,2748,3988284
+andhra-pradesh,2022,1,"west godavari",districts,1991,3109555
+andhra-pradesh,2022,1,"spsr nellore",districts,1878,2608475
+andhra-pradesh,2022,1,prakasam,districts,1797,2181402
+andhra-pradesh,2022,1,anantapur,districts,1551,2556602
+andhra-pradesh,2022,1,ysr,districts,1439,2086496
+andhra-pradesh,2022,1,523001,pincodes,501,553651
+andhra-pradesh,2022,1,523002,pincodes,418,422786
+andhra-pradesh,2022,1,524004,pincodes,365,352581
+andhra-pradesh,2022,1,517507,pincodes,361,617403
+andhra-pradesh,2022,1,517501,pincodes,352,477461
+andhra-pradesh,2022,1,530016,pincodes,349,394098
+andhra-pradesh,2022,1,516001,pincodes,346,403725
+andhra-pradesh,2022,1,530026,pincodes,307,312518
+andhra-pradesh,2022,1,520010,pincodes,297,370767
+andhra-pradesh,2022,1,520007,pincodes,294,413180
+andhra-pradesh,2022,2,visakhapatnam,districts,5851,7046107
+andhra-pradesh,2022,2,krishna,districts,4578,5733009
+andhra-pradesh,2022,2,guntur,districts,3115,3979873
+andhra-pradesh,2022,2,"east godavari",districts,3103,3899091
+andhra-pradesh,2022,2,chittoor,districts,2836,4207850
+andhra-pradesh,2022,2,"west godavari",districts,2141,2903957
+andhra-pradesh,2022,2,"spsr nellore",districts,2063,2686947
+andhra-pradesh,2022,2,prakasam,districts,1962,2331922
+andhra-pradesh,2022,2,anantapur,districts,1794,2729962
+andhra-pradesh,2022,2,ysr,districts,1418,1920103
+andhra-pradesh,2022,2,520010,pincodes,394,411471
+andhra-pradesh,2022,2,530016,pincodes,379,457895
+andhra-pradesh,2022,2,517507,pincodes,376,510705
+andhra-pradesh,2022,2,517501,pincodes,363,390709
+andhra-pradesh,2022,2,520011,pincodes,359,347013
+andhra-pradesh,2022,2,524002,pincodes,347,400810
+andhra-pradesh,2022,2,516001,pincodes,344,354936
+andhra-pradesh,2022,2,523001,pincodes,336,298809
+andhra-pradesh,2022,2,523002,pincodes,318,410402
+andhra-pradesh,2022,2,520007,pincodes,306,355690
+andhra-pradesh,2022,3,visakhapatnam,districts,6720,7779967
+andhra-pradesh,2022,3,krishna,districts,5529,6149431
+andhra-pradesh,2022,3,guntur,districts,4431,5271211
+andhra-pradesh,2022,3,"east godavari",districts,4355,5505134
+andhra-pradesh,2022,3,chittoor,districts,3729,5145111
+andhra-pradesh,2022,3,"spsr nellore",districts,2593,3257610
+andhra-pradesh,2022,3,"west godavari",districts,2314,3113617
+andhra-pradesh,2022,3,prakasam,districts,2137,2552054
+andhra-pradesh,2022,3,anantapur,districts,1934,2719786
+andhra-pradesh,2022,3,ysr,districts,1892,2559169
+andhra-pradesh,2022,3,524002,pincodes,485,506293
+andhra-pradesh,2022,3,517507,pincodes,478,633331
+andhra-pradesh,2022,3,517501,pincodes,477,602653
+andhra-pradesh,2022,3,520010,pincodes,463,496114
+andhra-pradesh,2022,3,520011,pincodes,444,463855
+andhra-pradesh,2022,3,516001,pincodes,443,510288
+andhra-pradesh,2022,3,530026,pincodes,421,437652
+andhra-pradesh,2022,3,530016,pincodes,420,408060
+andhra-pradesh,2022,3,520001,pincodes,411,343460
+andhra-pradesh,2022,3,524004,pincodes,392,408836
+andhra-pradesh,2022,4,visakhapatnam,districts,7636,9911879
+andhra-pradesh,2022,4,krishna,districts,5484,6977122
+andhra-pradesh,2022,4,guntur,districts,5199,6244165
+andhra-pradesh,2022,4,chittoor,districts,4641,6166050
+andhra-pradesh,2022,4,"east godavari",districts,4450,5856052
+andhra-pradesh,2022,4,"spsr nellore",districts,2733,3658896
+andhra-pradesh,2022,4,"west godavari",districts,2623,3513389
+andhra-pradesh,2022,4,anantapur,districts,2425,3710468
+andhra-pradesh,2022,4,prakasam,districts,2400,2848596
+andhra-pradesh,2022,4,ysr,districts,2261,2993022
+andhra-pradesh,2022,4,517507,pincodes,596,856272
+andhra-pradesh,2022,4,516001,pincodes,550,602897
+andhra-pradesh,2022,4,517501,pincodes,543,549451
+andhra-pradesh,2022,4,523002,pincodes,488,441856
+andhra-pradesh,2022,4,530016,pincodes,457,650737
+andhra-pradesh,2022,4,517326,pincodes,416,288926
+andhra-pradesh,2022,4,524002,pincodes,416,588408
+andhra-pradesh,2022,4,520011,pincodes,413,432671
+andhra-pradesh,2022,4,522001,pincodes,407,369435
+andhra-pradesh,2022,4,530026,pincodes,407,458462
+andhra-pradesh,2023,1,visakhapatnam,districts,6752,9502319
+andhra-pradesh,2023,1,krishna,districts,4693,6275818
+andhra-pradesh,2023,1,"east godavari",districts,4069,5915626
+andhra-pradesh,2023,1,guntur,districts,3542,4957590
+andhra-pradesh,2023,1,chittoor,districts,3284,5677174
+andhra-pradesh,2023,1,"spsr nellore",districts,2461,3621734
+andhra-pradesh,2023,1,"west godavari",districts,2196,3370241
+andhra-pradesh,2023,1,anantapur,districts,1565,2882540
+andhra-pradesh,2023,1,ysr,districts,1509,2235497
+andhra-pradesh,2023,1,prakasam,districts,1437,2188369
+andhra-pradesh,2023,1,517507,pincodes,468,848915
+andhra-pradesh,2023,1,530016,pincodes,463,635433
+andhra-pradesh,2023,1,517501,pincodes,456,788976
+andhra-pradesh,2023,1,520011,pincodes,407,518326
+andhra-pradesh,2023,1,516001,pincodes,396,538812
+andhra-pradesh,2023,1,524002,pincodes,383,483768
+andhra-pradesh,2023,1,520010,pincodes,377,446022
+andhra-pradesh,2023,1,530026,pincodes,367,455958
+andhra-pradesh,2023,1,520012,pincodes,353,481246
+andhra-pradesh,2023,1,520007,pincodes,345,417747
+andhra-pradesh,2023,2,visakhapatnam,districts,7000,8910217
+andhra-pradesh,2023,2,krishna,districts,5163,6666796
+andhra-pradesh,2023,2,chittoor,districts,3756,5988173
+andhra-pradesh,2023,2,guntur,districts,3725,5015442
+andhra-pradesh,2023,2,"east godavari",districts,3690,5519480
+andhra-pradesh,2023,2,"spsr nellore",districts,2468,3679371
+andhra-pradesh,2023,2,"west godavari",districts,2140,3383512
+andhra-pradesh,2023,2,anantapur,districts,1688,3027497
+andhra-pradesh,2023,2,ysr,districts,1652,2426306
+andhra-pradesh,2023,2,kurnool,districts,1473,2483871
+andhra-pradesh,2023,2,517507,pincodes,616,969092
+andhra-pradesh,2023,2,517501,pincodes,537,696700
+andhra-pradesh,2023,2,520010,pincodes,472,547680
+andhra-pradesh,2023,2,530016,pincodes,452,526796
+andhra-pradesh,2023,2,520007,pincodes,433,549179
+andhra-pradesh,2023,2,524002,pincodes,412,546644
+andhra-pradesh,2023,2,520011,pincodes,405,443320
+andhra-pradesh,2023,2,520001,pincodes,394,377868
+andhra-pradesh,2023,2,524004,pincodes,371,636260
+andhra-pradesh,2023,2,516001,pincodes,370,505187
+andhra-pradesh,2023,3,visakhapatnam,districts,8972,11107138
+andhra-pradesh,2023,3,krishna,districts,6187,7831756
+andhra-pradesh,2023,3,guntur,districts,4604,5810698
+andhra-pradesh,2023,3,"east godavari",districts,4157,5720660
+andhra-pradesh,2023,3,chittoor,districts,3993,6350318
+andhra-pradesh,2023,3,"spsr nellore",districts,3082,3962298
+andhra-pradesh,2023,3,"west godavari",districts,2308,3162591
+andhra-pradesh,2023,3,anantapur,districts,1947,3392196
+andhra-pradesh,2023,3,ysr,districts,1900,2732465
+andhra-pradesh,2023,3,kurnool,districts,1723,2310997
+andhra-pradesh,2023,3,517507,pincodes,681,926705
+andhra-pradesh,2023,3,517501,pincodes,589,770236
+andhra-pradesh,2023,3,530016,pincodes,577,720125
+andhra-pradesh,2023,3,520010,pincodes,533,663947
+andhra-pradesh,2023,3,520007,pincodes,527,675611
+andhra-pradesh,2023,3,520011,pincodes,524,479426
+andhra-pradesh,2023,3,530026,pincodes,520,483441
+andhra-pradesh,2023,3,524002,pincodes,482,536352
+andhra-pradesh,2023,3,524004,pincodes,431,581425
+andhra-pradesh,2023,3,516001,pincodes,412,534212
+andhra-pradesh,2023,4,visakhapatnam,districts,8787,12027284
+andhra-pradesh,2023,4,krishna,districts,5268,7328216
+andhra-pradesh,2023,4,guntur,districts,4354,6154821
+andhra-pradesh,2023,4,"east godavari",districts,4294,6404501
+andhra-pradesh,2023,4,chittoor,districts,4025,7322967
+andhra-pradesh,2023,4,"spsr nellore",districts,2739,3968074
+andhra-pradesh,2023,4,"west godavari",districts,2198,3630998
+andhra-pradesh,2023,4,anantapur,districts,2143,3651525
+andhra-pradesh,2023,4,ysr,districts,1923,2738253
+andhra-pradesh,2023,4,kurnool,districts,1829,3161720
+andhra-pradesh,2023,4,530016,pincodes,563,837356
+andhra-pradesh,2023,4,517507,pincodes,557,1066470
+andhra-pradesh,2023,4,530026,pincodes,495,565504
+andhra-pradesh,2023,4,517501,pincodes,453,752992
+andhra-pradesh,2023,4,524002,pincodes,434,553778
+andhra-pradesh,2023,4,520011,pincodes,412,463576
+andhra-pradesh,2023,4,520007,pincodes,407,516110
+andhra-pradesh,2023,4,520010,pincodes,389,513516
+andhra-pradesh,2023,4,530046,pincodes,378,607798
+andhra-pradesh,2023,4,520001,pincodes,369,418525
+andhra-pradesh,2024,1,visakhapatnam,districts,9034,12016206
+andhra-pradesh,2024,1,krishna,districts,5888,7907881
+andhra-pradesh,2024,1,"east godavari",districts,5344,6899327
+andhra-pradesh,2024,1,chittoor,districts,4784,6901394
+andhra-pradesh,2024,1,guntur,districts,4613,5985992
+andhra-pradesh,2024,1,"spsr nellore",districts,2931,3961012
+andhra-pradesh,2024,1,"west godavari",districts,2808,4029842
+andhra-pradesh,2024,1,anantapur,districts,2194,3722783
+andhra-pradesh,2024,1,ysr,districts,1935,2972264
+andhra-pradesh,2024,1,kurnool,districts,1916,2727094
+andhra-pradesh,2024,1,530016,pincodes,548,763795
+andhra-pradesh,2024,1,517507,pincodes,531,915457
+andhra-pradesh,2024,1,517501,pincodes,494,749467
+andhra-pradesh,2024,1,520010,pincodes,480,529119
+andhra-pradesh,2024,1,530026,pincodes,466,524957
+andhra-pradesh,2024,1,517326,pincodes,439,244562
+andhra-pradesh,2024,1,520007,pincodes,432,691745
+andhra-pradesh,2024,1,524002,pincodes,428,666708
+andhra-pradesh,2024,1,530046,pincodes,386,614874
+andhra-pradesh,2024,1,520011,pincodes,372,445394
+andhra-pradesh,2024,2,visakhapatnam,districts,9077,12170419
+andhra-pradesh,2024,2,krishna,districts,5321,7539878
+andhra-pradesh,2024,2,"east godavari",districts,4730,6812370
+andhra-pradesh,2024,2,guntur,districts,3946,6093685
+andhra-pradesh,2024,2,chittoor,districts,3925,6646337
+andhra-pradesh,2024,2,"spsr nellore",districts,2708,4456805
+andhra-pradesh,2024,2,"west godavari",districts,2505,3448213
+andhra-pradesh,2024,2,prakasam,districts,2008,2858214
+andhra-pradesh,2024,2,anantapur,districts,1868,3445825
+andhra-pradesh,2024,2,kurnool,districts,1664,2836292
+andhra-pradesh,2024,2,530016,pincodes,567,878988
+andhra-pradesh,2024,2,517507,pincodes,515,883412
+andhra-pradesh,2024,2,517501,pincodes,467,775196
+andhra-pradesh,2024,2,530014,pincodes,418,347441
+andhra-pradesh,2024,2,524002,pincodes,412,646264
+andhra-pradesh,2024,2,530026,pincodes,406,395729
+andhra-pradesh,2024,2,520010,pincodes,402,511790
+andhra-pradesh,2024,2,530046,pincodes,376,611203
+andhra-pradesh,2024,2,524004,pincodes,363,574695
+andhra-pradesh,2024,2,520007,pincodes,354,541505
+andhra-pradesh,2024,3,visakhapatnam,districts,8553,12088761
+andhra-pradesh,2024,3,ntr,districts,4856,6761184
+andhra-pradesh,2024,3,guntur,districts,3703,5419362
+andhra-pradesh,2024,3,tirupati,districts,3517,5808106
+andhra-pradesh,2024,3,"sri potti sriramulu nellore",districts,2386,3626372
+andhra-pradesh,2024,3,kakinada,districts,2269,3477318
+andhra-pradesh,2024,3,"east godavari",districts,2001,3116536
+andhra-pradesh,2024,3,anakapalli,districts,1792,2253638
+andhra-pradesh,2024,3,vizianagaram,districts,1608,2223183
+andhra-pradesh,2024,3,chittoor,districts,1432,2748351
+andhra-pradesh,2024,3,517501,pincodes,868,1419641
+andhra-pradesh,2024,3,520007,pincodes,661,985453
+andhra-pradesh,2024,3,530016,pincodes,628,845789
+andhra-pradesh,2024,3,530026,pincodes,598,723683
+andhra-pradesh,2024,3,520003,pincodes,580,699162
+andhra-pradesh,2024,3,520010,pincodes,570,767188
+andhra-pradesh,2024,3,533005,pincodes,499,834104
+andhra-pradesh,2024,3,524002,pincodes,475,590274
+andhra-pradesh,2024,3,530046,pincodes,452,675824
+andhra-pradesh,2024,3,517507,pincodes,424,701647
+andhra-pradesh,2024,4,visakhapatnam,districts,9897,13254184
+andhra-pradesh,2024,4,ntr,districts,7077,8504106
+andhra-pradesh,2024,4,tirupati,districts,4169,6081241
+andhra-pradesh,2024,4,guntur,districts,4159,5517638
+andhra-pradesh,2024,4,"sri potti sriramulu nellore",districts,3193,4050293
+andhra-pradesh,2024,4,kakinada,districts,2905,3879273
+andhra-pradesh,2024,4,"east godavari",districts,2499,3119010
+andhra-pradesh,2024,4,prakasam,districts,2499,2645564
+andhra-pradesh,2024,4,anakapalli,districts,2018,2214934
+andhra-pradesh,2024,4,vizianagaram,districts,1926,1988306
+andhra-pradesh,2024,4,517501,pincodes,927,1356884
+andhra-pradesh,2024,4,520010,pincodes,875,1098456
+andhra-pradesh,2024,4,520007,pincodes,858,1109088
+andhra-pradesh,2024,4,520003,pincodes,855,829766
+andhra-pradesh,2024,4,530026,pincodes,731,867397
+andhra-pradesh,2024,4,530016,pincodes,712,880040
+andhra-pradesh,2024,4,523001,pincodes,634,752920
+andhra-pradesh,2024,4,524002,pincodes,626,807213
+andhra-pradesh,2024,4,530046,pincodes,556,794395
+andhra-pradesh,2024,4,520001,pincodes,540,521557
+arunachal-pradesh,2020,2,"papum pare",districts,33,6304
+arunachal-pradesh,2020,2,changlang,districts,9,2511
+arunachal-pradesh,2020,2,tirap,districts,5,1026
+arunachal-pradesh,2020,2,"west siang",districts,5,1124
+arunachal-pradesh,2020,2,tawang,districts,3,827
+arunachal-pradesh,2020,2,"east siang",districts,2,469
+arunachal-pradesh,2020,2,"west kameng",districts,2,513
+arunachal-pradesh,2020,2,"lower dibang valley",districts,2,513
+arunachal-pradesh,2020,2,"lower subansiri",districts,1,231
+arunachal-pradesh,2020,2,namsai,districts,1,231
+arunachal-pradesh,2020,2,791113,pincodes,21,3445
+arunachal-pradesh,2020,2,791110,pincodes,6,1304
+arunachal-pradesh,2020,2,791001,pincodes,5,1124
+arunachal-pradesh,2020,2,792056,pincodes,5,1064
+arunachal-pradesh,2020,2,792130,pincodes,4,744
+arunachal-pradesh,2020,2,791109,pincodes,3,811
+arunachal-pradesh,2020,2,792120,pincodes,3,739
+arunachal-pradesh,2020,2,790104,pincodes,3,827
+arunachal-pradesh,2020,2,791111,pincodes,3,744
+arunachal-pradesh,2020,2,792103,pincodes,2,939
+arunachal-pradesh,2020,3,"papum pare",districts,60,15776
+arunachal-pradesh,2020,3,"east siang",districts,22,9675
+arunachal-pradesh,2020,3,"west kameng",districts,12,3466
+arunachal-pradesh,2020,3,lohit,districts,9,1557
+arunachal-pradesh,2020,3,"west siang",districts,5,2052
+arunachal-pradesh,2020,3,"lower dibang valley",districts,4,843
+arunachal-pradesh,2020,3,tirap,districts,3,939
+arunachal-pradesh,2020,3,"dibang valley",districts,3,66
+arunachal-pradesh,2020,3,namsai,districts,3,1486
+arunachal-pradesh,2020,3,"east kameng",districts,2,695
+arunachal-pradesh,2020,3,791110,pincodes,21,4213
+arunachal-pradesh,2020,3,791102,pincodes,19,9111
+arunachal-pradesh,2020,3,791111,pincodes,17,5506
+arunachal-pradesh,2020,3,791112,pincodes,10,2281
+arunachal-pradesh,2020,3,791001,pincodes,6,2236
+arunachal-pradesh,2020,3,791123,pincodes,6,1540
+arunachal-pradesh,2020,3,791113,pincodes,6,2236
+arunachal-pradesh,2020,3,790116,pincodes,6,1512
+arunachal-pradesh,2020,3,792001,pincodes,5,796
+arunachal-pradesh,2020,3,792110,pincodes,4,843
+arunachal-pradesh,2020,4,"papum pare",districts,48,21298
+arunachal-pradesh,2020,4,"west kameng",districts,15,22182
+arunachal-pradesh,2020,4,"east siang",districts,10,8075
+arunachal-pradesh,2020,4,tawang,districts,10,9740
+arunachal-pradesh,2020,4,"lower dibang valley",districts,9,1981
+arunachal-pradesh,2020,4,changlang,districts,7,5505
+arunachal-pradesh,2020,4,lohit,districts,5,4148
+arunachal-pradesh,2020,4,tirap,districts,4,1561
+arunachal-pradesh,2020,4,"lepa rada",districts,3,2685
+arunachal-pradesh,2020,4,namsai,districts,3,984
+arunachal-pradesh,2020,4,791113,pincodes,18,5383
+arunachal-pradesh,2020,4,791110,pincodes,13,7819
+arunachal-pradesh,2020,4,791111,pincodes,10,4999
+arunachal-pradesh,2020,4,792110,pincodes,9,1981
+arunachal-pradesh,2020,4,791102,pincodes,8,5359
+arunachal-pradesh,2020,4,790003,pincodes,6,10016
+arunachal-pradesh,2020,4,790001,pincodes,5,4355
+arunachal-pradesh,2020,4,790105,pincodes,4,5434
+arunachal-pradesh,2020,4,790104,pincodes,4,2973
+arunachal-pradesh,2020,4,791109,pincodes,4,888
+arunachal-pradesh,2021,1,"papum pare",districts,65,62651
+arunachal-pradesh,2021,1,"east siang",districts,18,8695
+arunachal-pradesh,2021,1,"west kameng",districts,15,9871
+arunachal-pradesh,2021,1,changlang,districts,12,4524
+arunachal-pradesh,2021,1,lohit,districts,11,2951
+arunachal-pradesh,2021,1,tawang,districts,11,10155
+arunachal-pradesh,2021,1,namsai,districts,8,1248
+arunachal-pradesh,2021,1,"west siang",districts,7,3690
+arunachal-pradesh,2021,1,tirap,districts,7,7696
+arunachal-pradesh,2021,1,"upper subansiri",districts,7,4237
+arunachal-pradesh,2021,1,791110,pincodes,21,32836
+arunachal-pradesh,2021,1,791111,pincodes,18,6658
+arunachal-pradesh,2021,1,791102,pincodes,17,8055
+arunachal-pradesh,2021,1,791113,pincodes,16,9549
+arunachal-pradesh,2021,1,792103,pincodes,11,1983
+arunachal-pradesh,2021,1,792001,pincodes,9,2577
+arunachal-pradesh,2021,1,790104,pincodes,9,8819
+arunachal-pradesh,2021,1,790116,pincodes,7,3646
+arunachal-pradesh,2021,1,791122,pincodes,7,4237
+arunachal-pradesh,2021,1,791001,pincodes,7,3690
+arunachal-pradesh,2021,2,"papum pare",districts,69,89335
+arunachal-pradesh,2021,2,"west kameng",districts,20,17896
+arunachal-pradesh,2021,2,"west siang",districts,18,8990
+arunachal-pradesh,2021,2,lohit,districts,16,21096
+arunachal-pradesh,2021,2,"lower dibang valley",districts,14,8091
+arunachal-pradesh,2021,2,tawang,districts,13,23216
+arunachal-pradesh,2021,2,changlang,districts,12,11258
+arunachal-pradesh,2021,2,namsai,districts,11,8880
+arunachal-pradesh,2021,2,"lower subansiri",districts,10,4236
+arunachal-pradesh,2021,2,"east siang",districts,6,2979
+arunachal-pradesh,2021,2,791110,pincodes,26,14352
+arunachal-pradesh,2021,2,791001,pincodes,20,15346
+arunachal-pradesh,2021,2,791111,pincodes,15,39804
+arunachal-pradesh,2021,2,792103,pincodes,14,9960
+arunachal-pradesh,2021,2,792110,pincodes,14,8091
+arunachal-pradesh,2021,2,792001,pincodes,12,19837
+arunachal-pradesh,2021,2,791113,pincodes,10,4357
+arunachal-pradesh,2021,2,791120,pincodes,10,4236
+arunachal-pradesh,2021,2,791109,pincodes,9,9677
+arunachal-pradesh,2021,2,791112,pincodes,8,20976
+arunachal-pradesh,2021,3,"papum pare",districts,50,95368
+arunachal-pradesh,2021,3,"east siang",districts,23,32914
+arunachal-pradesh,2021,3,"west kameng",districts,22,21566
+arunachal-pradesh,2021,3,"west siang",districts,21,57300
+arunachal-pradesh,2021,3,changlang,districts,15,25894
+arunachal-pradesh,2021,3,namsai,districts,15,35207
+arunachal-pradesh,2021,3,tirap,districts,14,38082
+arunachal-pradesh,2021,3,"lower dibang valley",districts,13,11845
+arunachal-pradesh,2021,3,lohit,districts,10,15097
+arunachal-pradesh,2021,3,tawang,districts,8,5436
+arunachal-pradesh,2021,3,791001,pincodes,21,57300
+arunachal-pradesh,2021,3,791102,pincodes,20,30911
+arunachal-pradesh,2021,3,791111,pincodes,20,62172
+arunachal-pradesh,2021,3,791110,pincodes,16,18773
+arunachal-pradesh,2021,3,792103,pincodes,15,35018
+arunachal-pradesh,2021,3,790116,pincodes,13,12529
+arunachal-pradesh,2021,3,792110,pincodes,13,11845
+arunachal-pradesh,2021,3,792129,pincodes,10,25474
+arunachal-pradesh,2021,3,792001,pincodes,7,12333
+arunachal-pradesh,2021,3,791120,pincodes,6,11875
+arunachal-pradesh,2021,4,"papum pare",districts,128,232985
+arunachal-pradesh,2021,4,"west kameng",districts,37,61049
+arunachal-pradesh,2021,4,changlang,districts,26,59532
+arunachal-pradesh,2021,4,lohit,districts,17,19353
+arunachal-pradesh,2021,4,tawang,districts,14,28772
+arunachal-pradesh,2021,4,tirap,districts,14,37402
+arunachal-pradesh,2021,4,namsai,districts,14,19295
+arunachal-pradesh,2021,4,"west siang",districts,14,25308
+arunachal-pradesh,2021,4,"lower dibang valley",districts,11,12440
+arunachal-pradesh,2021,4,"east siang",districts,7,22841
+arunachal-pradesh,2021,4,791110,pincodes,44,84245
+arunachal-pradesh,2021,4,791111,pincodes,31,62422
+arunachal-pradesh,2021,4,791113,pincodes,23,42208
+arunachal-pradesh,2021,4,791001,pincodes,17,27105
+arunachal-pradesh,2021,4,792103,pincodes,16,24037
+arunachal-pradesh,2021,4,790001,pincodes,14,19900
+arunachal-pradesh,2021,4,791109,pincodes,14,15990
+arunachal-pradesh,2021,4,790104,pincodes,13,18120
+arunachal-pradesh,2021,4,792130,pincodes,12,30185
+arunachal-pradesh,2021,4,792110,pincodes,11,12440
+arunachal-pradesh,2022,1,"papum pare",districts,149,339981
+arunachal-pradesh,2022,1,"west kameng",districts,36,83342
+arunachal-pradesh,2022,1,tirap,districts,22,98280
+arunachal-pradesh,2022,1,"east siang",districts,22,50073
+arunachal-pradesh,2022,1,changlang,districts,22,41022
+arunachal-pradesh,2022,1,lohit,districts,17,33684
+arunachal-pradesh,2022,1,namsai,districts,13,25903
+arunachal-pradesh,2022,1,tawang,districts,11,59469
+arunachal-pradesh,2022,1,"lower dibang valley",districts,10,17012
+arunachal-pradesh,2022,1,"lower subansiri",districts,9,27520
+arunachal-pradesh,2022,1,791111,pincodes,51,124161
+arunachal-pradesh,2022,1,791110,pincodes,34,58358
+arunachal-pradesh,2022,1,791113,pincodes,29,95648
+arunachal-pradesh,2022,1,791102,pincodes,21,46778
+arunachal-pradesh,2022,1,790116,pincodes,21,42054
+arunachal-pradesh,2022,1,792129,pincodes,14,55170
+arunachal-pradesh,2022,1,792001,pincodes,13,22997
+arunachal-pradesh,2022,1,791109,pincodes,12,12811
+arunachal-pradesh,2022,1,792056,pincodes,10,13617
+arunachal-pradesh,2022,1,792110,pincodes,10,17012
+arunachal-pradesh,2022,2,"papum pare",districts,310,752159
+arunachal-pradesh,2022,2,"west kameng",districts,47,115575
+arunachal-pradesh,2022,2,"east siang",districts,29,107087
+arunachal-pradesh,2022,2,tawang,districts,26,61225
+arunachal-pradesh,2022,2,changlang,districts,25,51823
+arunachal-pradesh,2022,2,"west siang",districts,24,54485
+arunachal-pradesh,2022,2,lohit,districts,21,59273
+arunachal-pradesh,2022,2,tirap,districts,15,32728
+arunachal-pradesh,2022,2,namsai,districts,14,34582
+arunachal-pradesh,2022,2,"lower dibang valley",districts,13,25061
+arunachal-pradesh,2022,2,791110,pincodes,97,272742
+arunachal-pradesh,2022,2,791111,pincodes,95,210496
+arunachal-pradesh,2022,2,791113,pincodes,59,126741
+arunachal-pradesh,2022,2,791109,pincodes,30,77784
+arunachal-pradesh,2022,2,791102,pincodes,25,94817
+arunachal-pradesh,2022,2,791001,pincodes,24,54485
+arunachal-pradesh,2022,2,790104,pincodes,22,55603
+arunachal-pradesh,2022,2,792001,pincodes,17,45749
+arunachal-pradesh,2022,2,791123,pincodes,15,22207
+arunachal-pradesh,2022,2,791112,pincodes,14,42189
+arunachal-pradesh,2022,3,"papum pare",districts,250,590296
+arunachal-pradesh,2022,3,"west kameng",districts,42,118030
+arunachal-pradesh,2022,3,"east siang",districts,35,54567
+arunachal-pradesh,2022,3,tawang,districts,24,112439
+arunachal-pradesh,2022,3,tirap,districts,23,54004
+arunachal-pradesh,2022,3,changlang,districts,22,53679
+arunachal-pradesh,2022,3,lohit,districts,18,45865
+arunachal-pradesh,2022,3,"lower dibang valley",districts,17,26960
+arunachal-pradesh,2022,3,"west siang",districts,16,86941
+arunachal-pradesh,2022,3,"east kameng",districts,15,25996
+arunachal-pradesh,2022,3,791111,pincodes,98,283474
+arunachal-pradesh,2022,3,791110,pincodes,67,151232
+arunachal-pradesh,2022,3,791102,pincodes,32,53678
+arunachal-pradesh,2022,3,791109,pincodes,29,36024
+arunachal-pradesh,2022,3,791113,pincodes,25,56908
+arunachal-pradesh,2022,3,790104,pincodes,19,97783
+arunachal-pradesh,2022,3,791001,pincodes,18,88301
+arunachal-pradesh,2022,3,791123,pincodes,17,38512
+arunachal-pradesh,2022,3,792110,pincodes,17,26960
+arunachal-pradesh,2022,3,790102,pincodes,15,25996
+arunachal-pradesh,2022,4,"papum pare",districts,249,557453
+arunachal-pradesh,2022,4,"west kameng",districts,53,140810
+arunachal-pradesh,2022,4,changlang,districts,39,92295
+arunachal-pradesh,2022,4,lohit,districts,35,74057
+arunachal-pradesh,2022,4,"east siang",districts,33,62867
+arunachal-pradesh,2022,4,tawang,districts,32,117810
+arunachal-pradesh,2022,4,namsai,districts,25,52176
+arunachal-pradesh,2022,4,"lower dibang valley",districts,23,56348
+arunachal-pradesh,2022,4,"west siang",districts,22,42902
+arunachal-pradesh,2022,4,tirap,districts,22,69612
+arunachal-pradesh,2022,4,791111,pincodes,86,169298
+arunachal-pradesh,2022,4,791110,pincodes,80,153335
+arunachal-pradesh,2022,4,791102,pincodes,29,52395
+arunachal-pradesh,2022,4,791001,pincodes,28,60464
+arunachal-pradesh,2022,4,791113,pincodes,27,98039
+arunachal-pradesh,2022,4,792001,pincodes,25,50628
+arunachal-pradesh,2022,4,792103,pincodes,24,54947
+arunachal-pradesh,2022,4,792110,pincodes,23,56348
+arunachal-pradesh,2022,4,790104,pincodes,23,65530
+arunachal-pradesh,2022,4,791112,pincodes,22,42213
+arunachal-pradesh,2023,1,"papum pare",districts,214,609907
+arunachal-pradesh,2023,1,changlang,districts,58,150506
+arunachal-pradesh,2023,1,"west kameng",districts,58,148766
+arunachal-pradesh,2023,1,"east siang",districts,45,131785
+arunachal-pradesh,2023,1,tawang,districts,43,177062
+arunachal-pradesh,2023,1,"west siang",districts,26,77049
+arunachal-pradesh,2023,1,lohit,districts,22,48743
+arunachal-pradesh,2023,1,tirap,districts,20,42058
+arunachal-pradesh,2023,1,"lower subansiri",districts,18,52453
+arunachal-pradesh,2023,1,"lower dibang valley",districts,17,32562
+arunachal-pradesh,2023,1,791110,pincodes,74,172651
+arunachal-pradesh,2023,1,791111,pincodes,56,229802
+arunachal-pradesh,2023,1,791113,pincodes,42,107932
+arunachal-pradesh,2023,1,791102,pincodes,39,77754
+arunachal-pradesh,2023,1,790104,pincodes,36,151958
+arunachal-pradesh,2023,1,791001,pincodes,31,92735
+arunachal-pradesh,2023,1,790116,pincodes,19,46603
+arunachal-pradesh,2023,1,791109,pincodes,17,26106
+arunachal-pradesh,2023,1,792110,pincodes,17,32562
+arunachal-pradesh,2023,1,792121,pincodes,17,56453
+arunachal-pradesh,2023,2,"papum pare",districts,261,767297
+arunachal-pradesh,2023,2,"west kameng",districts,87,278705
+arunachal-pradesh,2023,2,"east siang",districts,49,134410
+arunachal-pradesh,2023,2,changlang,districts,48,182270
+arunachal-pradesh,2023,2,namsai,districts,34,96483
+arunachal-pradesh,2023,2,tawang,districts,31,117759
+arunachal-pradesh,2023,2,lohit,districts,29,65934
+arunachal-pradesh,2023,2,"lower dibang valley",districts,29,51944
+arunachal-pradesh,2023,2,"west siang",districts,27,85810
+arunachal-pradesh,2023,2,tirap,districts,21,70549
+arunachal-pradesh,2023,2,791110,pincodes,94,280971
+arunachal-pradesh,2023,2,791111,pincodes,61,210621
+arunachal-pradesh,2023,2,791113,pincodes,48,172799
+arunachal-pradesh,2023,2,791102,pincodes,43,133976
+arunachal-pradesh,2023,2,792103,pincodes,30,79156
+arunachal-pradesh,2023,2,791001,pincodes,30,89674
+arunachal-pradesh,2023,2,791123,pincodes,29,41320
+arunachal-pradesh,2023,2,792110,pincodes,29,51944
+arunachal-pradesh,2023,2,790104,pincodes,26,101946
+arunachal-pradesh,2023,2,792001,pincodes,25,53846
+arunachal-pradesh,2023,3,"papum pare",districts,285,696186
+arunachal-pradesh,2023,3,"west kameng",districts,65,185636
+arunachal-pradesh,2023,3,"east siang",districts,59,113780
+arunachal-pradesh,2023,3,changlang,districts,44,108703
+arunachal-pradesh,2023,3,tawang,districts,39,129855
+arunachal-pradesh,2023,3,"lower dibang valley",districts,39,140365
+arunachal-pradesh,2023,3,tirap,districts,38,135660
+arunachal-pradesh,2023,3,namsai,districts,34,55710
+arunachal-pradesh,2023,3,lohit,districts,29,102043
+arunachal-pradesh,2023,3,"west siang",districts,23,92531
+arunachal-pradesh,2023,3,791110,pincodes,91,197412
+arunachal-pradesh,2023,3,791111,pincodes,76,203612
+arunachal-pradesh,2023,3,791102,pincodes,48,106325
+arunachal-pradesh,2023,3,791113,pincodes,45,145263
+arunachal-pradesh,2023,3,792110,pincodes,39,140365
+arunachal-pradesh,2023,3,792103,pincodes,33,50413
+arunachal-pradesh,2023,3,791123,pincodes,30,62165
+arunachal-pradesh,2023,3,790104,pincodes,28,89165
+arunachal-pradesh,2023,3,792129,pincodes,26,82497
+arunachal-pradesh,2023,3,791109,pincodes,26,45255
+arunachal-pradesh,2023,4,"papum pare",districts,318,852980
+arunachal-pradesh,2023,4,"west kameng",districts,67,190405
+arunachal-pradesh,2023,4,namsai,districts,49,120567
+arunachal-pradesh,2023,4,"west siang",districts,48,119227
+arunachal-pradesh,2023,4,changlang,districts,47,94883
+arunachal-pradesh,2023,4,tawang,districts,45,167579
+arunachal-pradesh,2023,4,"east siang",districts,42,109484
+arunachal-pradesh,2023,4,"lower dibang valley",districts,35,81825
+arunachal-pradesh,2023,4,lohit,districts,34,77356
+arunachal-pradesh,2023,4,tirap,districts,32,74981
+arunachal-pradesh,2023,4,791110,pincodes,106,279822
+arunachal-pradesh,2023,4,791111,pincodes,87,241478
+arunachal-pradesh,2023,4,791113,pincodes,60,164868
+arunachal-pradesh,2023,4,791001,pincodes,50,124355
+arunachal-pradesh,2023,4,792103,pincodes,40,108659
+arunachal-pradesh,2023,4,790104,pincodes,36,146680
+arunachal-pradesh,2023,4,792110,pincodes,35,81825
+arunachal-pradesh,2023,4,791102,pincodes,29,81558
+arunachal-pradesh,2023,4,792001,pincodes,26,60980
+arunachal-pradesh,2023,4,791123,pincodes,24,71486
+arunachal-pradesh,2024,1,"papum pare",districts,415,902815
+arunachal-pradesh,2024,1,"west kameng",districts,109,264851
+arunachal-pradesh,2024,1,"east siang",districts,88,195598
+arunachal-pradesh,2024,1,changlang,districts,60,119720
+arunachal-pradesh,2024,1,lohit,districts,58,125916
+arunachal-pradesh,2024,1,tawang,districts,57,123314
+arunachal-pradesh,2024,1,"west siang",districts,49,128839
+arunachal-pradesh,2024,1,"lower dibang valley",districts,48,123833
+arunachal-pradesh,2024,1,namsai,districts,37,74800
+arunachal-pradesh,2024,1,"lower subansiri",districts,31,47226
+arunachal-pradesh,2024,1,791110,pincodes,126,258768
+arunachal-pradesh,2024,1,791111,pincodes,105,296463
+arunachal-pradesh,2024,1,791113,pincodes,83,149366
+arunachal-pradesh,2024,1,791102,pincodes,76,171426
+arunachal-pradesh,2024,1,791001,pincodes,52,128932
+arunachal-pradesh,2024,1,792110,pincodes,48,123833
+arunachal-pradesh,2024,1,792001,pincodes,43,92713
+arunachal-pradesh,2024,1,791109,pincodes,42,66049
+arunachal-pradesh,2024,1,792103,pincodes,40,80498
+arunachal-pradesh,2024,1,790104,pincodes,40,81575
+arunachal-pradesh,2024,2,"papum pare",districts,361,844112
+arunachal-pradesh,2024,2,tawang,districts,192,165583
+arunachal-pradesh,2024,2,"west kameng",districts,100,234304
+arunachal-pradesh,2024,2,lohit,districts,55,80040
+arunachal-pradesh,2024,2,changlang,districts,55,127100
+arunachal-pradesh,2024,2,"east siang",districts,54,143926
+arunachal-pradesh,2024,2,"west siang",districts,48,122922
+arunachal-pradesh,2024,2,"lower subansiri",districts,40,58095
+arunachal-pradesh,2024,2,"lower dibang valley",districts,38,102160
+arunachal-pradesh,2024,2,namsai,districts,32,80520
+arunachal-pradesh,2024,2,790104,pincodes,176,109202
+arunachal-pradesh,2024,2,791110,pincodes,124,303724
+arunachal-pradesh,2024,2,791111,pincodes,93,287734
+arunachal-pradesh,2024,2,791113,pincodes,64,131979
+arunachal-pradesh,2024,2,791001,pincodes,51,129656
+arunachal-pradesh,2024,2,791102,pincodes,39,95471
+arunachal-pradesh,2024,2,792110,pincodes,38,102160
+arunachal-pradesh,2024,2,792001,pincodes,37,51507
+arunachal-pradesh,2024,2,790116,pincodes,34,70161
+arunachal-pradesh,2024,2,792103,pincodes,34,77380
+arunachal-pradesh,2024,3,"itanagar capital complex",districts,218,512620
+arunachal-pradesh,2024,3,"west kameng",districts,115,280805
+arunachal-pradesh,2024,3,tawang,districts,69,166341
+arunachal-pradesh,2024,3,"papum pare",districts,66,79642
+arunachal-pradesh,2024,3,changlang,districts,57,132735
+arunachal-pradesh,2024,3,"east siang",districts,47,127890
+arunachal-pradesh,2024,3,tirap,districts,35,80188
+arunachal-pradesh,2024,3,lohit,districts,32,96133
+arunachal-pradesh,2024,3,"west siang",districts,28,89620
+arunachal-pradesh,2024,3,namsai,districts,28,93343
+arunachal-pradesh,2024,3,791111,pincodes,95,275822
+arunachal-pradesh,2024,3,791110,pincodes,84,171154
+arunachal-pradesh,2024,3,790104,pincodes,49,90929
+arunachal-pradesh,2024,3,791102,pincodes,40,102083
+arunachal-pradesh,2024,3,791113,pincodes,39,55663
+arunachal-pradesh,2024,3,790116,pincodes,37,111034
+arunachal-pradesh,2024,3,791001,pincodes,32,98436
+arunachal-pradesh,2024,3,792001,pincodes,31,65334
+arunachal-pradesh,2024,3,792110,pincodes,29,52515
+arunachal-pradesh,2024,3,792130,pincodes,28,61484
+arunachal-pradesh,2024,4,"itanagar capital complex",districts,240,638964
+arunachal-pradesh,2024,4,"west kameng",districts,117,277233
+arunachal-pradesh,2024,4,"east siang",districts,89,235678
+arunachal-pradesh,2024,4,tawang,districts,68,223139
+arunachal-pradesh,2024,4,"papum pare",districts,61,126855
+arunachal-pradesh,2024,4,changlang,districts,55,85559
+arunachal-pradesh,2024,4,"west siang",districts,55,118386
+arunachal-pradesh,2024,4,namsai,districts,41,93403
+arunachal-pradesh,2024,4,"lower subansiri",districts,35,61313
+arunachal-pradesh,2024,4,tirap,districts,35,86267
+arunachal-pradesh,2024,4,791110,pincodes,110,265075
+arunachal-pradesh,2024,4,791111,pincodes,88,268300
+arunachal-pradesh,2024,4,791102,pincodes,80,218443
+arunachal-pradesh,2024,4,791001,pincodes,62,141282
+arunachal-pradesh,2024,4,790104,pincodes,49,177085
+arunachal-pradesh,2024,4,791113,pincodes,40,79922
+arunachal-pradesh,2024,4,792110,pincodes,34,63459
+arunachal-pradesh,2024,4,792103,pincodes,32,73356
+arunachal-pradesh,2024,4,792001,pincodes,30,73556
+arunachal-pradesh,2024,4,790001,pincodes,30,98145
