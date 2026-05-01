@@ -240,7 +240,7 @@ with tab2:
     # Engagement ratio map
     st.markdown("#### 🗺️ User Engagement Ratio by State")
     eng_data = fmu.groupby('state').apply(
-        lambda x: (x['app_opens'].sum() / x['registered_users'].sum()).round(2)
+        lambda x: (x['app_opens'].sum() / x['registered_users'].sum()).round(2), include_groups=False
     ).reset_index()
     eng_data.columns = ['state', 'engagement_ratio']
     fig = px.choropleth(
