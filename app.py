@@ -71,21 +71,27 @@ selected_year    = st.sidebar.selectbox("Select Year", ["All"] + list(years))
 selected_quarter = st.sidebar.selectbox("Select Quarter", ["All"] + list(quarters))
 selected_state   = st.sidebar.selectbox("Select State", ["All"] + list(states))
 
-def apply_filters(df):
+# ── Apply filters to chart data (excludes state filter for maps) ──
+def apply_filters(df, apply_state=True):
     filtered = df.copy()
-    if selected_year != "All":
+    if selected_year != "All" and 'year' in filtered.columns:
         filtered = filtered[filtered['year'] == selected_year]
-    if selected_quarter != "All":
+    if selected_quarter != "All" and 'quarter' in filtered.columns:
         filtered = filtered[filtered['quarter'] == selected_quarter]
-    if 'state' in filtered.columns and selected_state != "All":
+    if apply_state and selected_state != "All" and 'state' in filtered.columns:
         filtered = filtered[filtered['state'] == selected_state]
     return filtered
 
+# Filtered dataframes — for charts
 ft  = apply_filters(agg_trans)
 fu  = apply_filters(agg_user)
 fi  = apply_filters(agg_ins)
 fmt = apply_filters(map_trans)
 fmu = apply_filters(map_user)
+
+# Map dataframes — NO state filter so India map always shows all states
+ft_map  = apply_filters(agg_trans, apply_state=False)
+fmu_map = apply_filters(map_user,  apply_state=False)
 
 # ══════════════════════════════════════════════
 # TABS
@@ -142,15 +148,17 @@ with tab1:
                      color='amount_crores', color_continuous_scale='Purples')
         st.plotly_chart(fig, use_container_width=True)
 
+    # ── India Map — uses ft_map (no state filter) ──
     st.markdown("#### 🗺️ State-wise Transaction Amount Map")
-    map_data = ft.groupby('state')['transaction_amount'].sum().reset_index()
+    map_data = ft_map.groupby('state')['transaction_amount'].sum().reset_index()
     map_data['amount_crores'] = (map_data['transaction_amount'] / 1e7).round(2)
     fig = px.choropleth(
         map_data,
         geojson="https://gist.githubusercontent.com/jbrobst/56c13bbbf9d97d187fea01ca62ea5112/raw/e388c4cae20aa53cb5090210a42ebb9b765c0a36/india_states.geojson",
         featureidkey='properties.ST_NM',
         locations='state', color='amount_crores',
-        color_continuous_scale='Purples'
+        color_continuous_scale='Purples',
+        title='Transaction Amount by State (Crores)'
     )
     fig.update_geos(fitbounds="locations", visible=False)
     fig.update_layout(height=500)
@@ -188,18 +196,23 @@ with tab2:
         fig.update_traces(textposition='inside', textinfo='percent+label')
         st.plotly_chart(fig, use_container_width=True)
 
+    # ── Engagement Map — uses fmu_map (no state filter) ──
     st.markdown("#### 🗺️ User Engagement Ratio by State")
-    eng_data = fmu.groupby('state').apply(
-        lambda x: round(x['app_opens'].sum() / x['registered_users'].sum(), 2),
-        include_groups=False
+    eng_state = fmu_map.groupby('state').agg(
+        total_opens=('app_opens', 'sum'),
+        total_users=('registered_users', 'sum')
     ).reset_index()
-    eng_data.columns = ['state', 'engagement_ratio']
+    eng_state['engagement_ratio'] = (
+        eng_state['total_opens'] / eng_state['total_users'].replace(0, 1)
+    ).round(2)
+    eng_data = eng_state[['state', 'engagement_ratio']]
     fig = px.choropleth(
         eng_data,
         geojson="https://gist.githubusercontent.com/jbrobst/56c13bbbf9d97d187fea01ca62ea5112/raw/e388c4cae20aa53cb5090210a42ebb9b765c0a36/india_states.geojson",
         featureidkey='properties.ST_NM',
         locations='state', color='engagement_ratio',
-        color_continuous_scale='Purples'
+        color_continuous_scale='Purples',
+        title='App Opens per Registered User by State'
     )
     fig.update_geos(fitbounds="locations", visible=False)
     fig.update_layout(height=500)
