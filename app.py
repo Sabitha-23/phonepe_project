@@ -198,7 +198,7 @@ with tab2:
 
     # ── Engagement Map — uses fmu_map (no state filter) ──
     st.markdown("#### 🗺️ User Engagement Ratio by State")
-    eng_state = fmu_map.groupby('state').agg(
+    eng_state = fmu.groupby('state').agg(
         total_opens=('app_opens', 'sum'),
         total_users=('registered_users', 'sum')
     ).reset_index()
