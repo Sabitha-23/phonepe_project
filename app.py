@@ -150,7 +150,7 @@ with tab1:
 
     # ── India Map — uses ft_map (no state filter) ──
     st.markdown("#### 🗺️ State-wise Transaction Amount Map")
-    map_data = ft_map.groupby('state')['transaction_amount'].sum().reset_index()
+    map_data = ft.groupby('state')['transaction_amount'].sum().reset_index()
     map_data['amount_crores'] = (map_data['transaction_amount'] / 1e7).round(2)
     fig = px.choropleth(
         map_data,
