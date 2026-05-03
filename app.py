@@ -212,7 +212,7 @@ with tab2:
         featureidkey='properties.ST_NM',
         locations='state', color='engagement_ratio',
         color_continuous_scale='Purples',
-        title='App Opens per Registered User by State'
+        title='App Opens per Registered User by State' 
     )
     fig.update_geos(fitbounds="locations", visible=False)
     fig.update_layout(height=500)
